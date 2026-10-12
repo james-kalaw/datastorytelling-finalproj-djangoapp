@@ -2,3 +2,5 @@
 # For prepare_data and build_charts on your computer, install requirements-dev.txt instead.
 Django>=5.2,<5.3
 Pillow>=10.0
+gunicorn>=23.0
+whitenoise>=6.9

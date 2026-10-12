@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<section class="hero">
+  <div class="wrap">
+    <div class="stack" style="gap:24px">
+      <p class="eyebrow">A data story on the Philippine labor market, 2005–2026</p>
+      <h1>Not every job is enough of a job.</h1>
+      <p>Unemployment keeps falling, but millions of working Filipinos still want more hours or more work. We follow two decades of PSA labor data to show where, and for whom, work stops being enough.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:14px;padding-top:8px">
+        <a class="btn btn-solid" href="{% url 'dashboard:page' 'trends' %}">Start With the Trends →</a>
+        <a class="btn btn-line" href="{% url 'dashboard:overview' %}">See the Whole Dashboard</a>
+      </div>
+    </div>
+    <div class="video-box" id="story">
+      <video src="{% static 'video/story.mp4' %}" controls preload="metadata"></video>
+    </div>
+  </div>
+</section>
+
+<section aria-label="Key numbers">
+  <div class="wrap stats">
+    <div class="stat"><div class="stat-num">6.1M</div><div class="stat-label">Underemployed Filipinos, June 2026</div></div>
+    <div class="stat"><div class="stat-num accent">13.2%</div><div class="stat-label">Average Underemployment Since 2021</div></div>
+    <div class="stat"><div class="stat-num">2.6×</div><div class="stat-label">Higher Than the Unemployment Rate</div></div>
+    <div class="stat"><div class="stat-num">21 yrs</div><div class="stat-label">PSA Labor Data, Apr 2005–Jun 2026</div></div>
+  </div>
+  <p class="wrap muted tiny" style="margin:0;padding-top:12px;padding-bottom:12px">Source: Philippine Statistics Authority (PSA), Labor Force Survey, April 2005–June 2026.</p>
+</section>
+
+<section class="section">
+  <div class="wrap stack" style="gap:36px">
+    <div class="stack" style="gap:10px;max-width:720px">
+      <h2 class="display" style="margin:0;font-size:40px">Two Numbers, Two Different Problems</h2>
+      <p class="muted" style="margin:0;font-size:18px">Headlines report the first. This project is about the second.</p>
+    </div>
+    <div class="grid">
+      <div class="compare-card">
+        <span class="mono tiny muted" style="letter-spacing:.1em">THE HEADLINE</span>
+        <h3>Unemployed</h3>
+        <p>Has no job and is actively looking for one. A problem of job <strong>scarcity</strong>.</p>
+        <div class="mono" style="font-size:34px;font-weight:600;color:#5B6B7D">5.1% <span style="font-size:15px">Avg Since 2021</span></div>
+      </div>
+      <div class="compare-card hl">
+        <span class="mono tiny" style="letter-spacing:.1em;color:#2E5C8A">THE REALITY</span>
+        <h3>Underemployed</h3>
+        <p>Already has a job but wants more hours or more work. A problem of job <strong>quality</strong>.</p>
+        <div class="mono" style="font-size:34px;font-weight:600;color:#2E5C8A">13.2% <span style="font-size:15px">Avg Since 2021</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section tint">
+  <div class="wrap stack" style="gap:28px">
+    <div class="row-between">
+      <h2 class="display" style="margin:0;font-size:40px">The Story in Three Acts</h2>
+      <a class="link-strong" href="{% url 'dashboard:overview' %}">See the Whole Dashboard on One Page →</a>
+    </div>
+    <div class="grid">
+      {% for act in acts %}
+        <a class="act-card" href="{% url 'dashboard:page' act.slug %}">
+          <span class="mono tiny" style="color:#2E5C8A;letter-spacing:.1em">{{ act.act_label }}</span>
+          <span class="q">{{ act.question }}</span>
+          <span class="go">Explore {{ act.title }} →</span>
+        </a>
+      {% empty %}
+        <p class="muted">Run <code>python manage.py seed_content</code> to add the dashboard pages.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

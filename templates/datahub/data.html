@@ -1,0 +1,264 @@
+{% extends "base.html" %}
+
+{% block title %}Data · The Shape of Work{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">Open data · explore and download</p>
+    <h1>Explore the data behind the story</h1>
+    <p class="lead">Search any province, sector, industry, education level, age group or reason to see its number and how it compares. Or download the eight clean datasets as CSV.</p>
+    <div class="pipeline" aria-label="How the data was prepared">
+      <span class="step">PSA files</span><span aria-hidden="true">→</span>
+      <span class="step">Power Query</span><span aria-hidden="true">→</span>
+      <span class="step">Power BI model</span><span aria-hidden="true">→</span>
+      <span class="step">DAX Studio export</span><span aria-hidden="true">→</span>
+      <span class="step">Python cleaning</span><span aria-hidden="true">→</span>
+      <span class="step end">This page</span>
+    </div>
+  </div>
+</section>
+
+<nav class="tabs" aria-label="Data views">
+  <div class="wrap">
+    <a class="tab {% if tab != 'download' %}on{% endif %}" href="?tab=explore">Explore the data</a>
+    <a class="tab {% if tab == 'download' %}on{% endif %}" href="?tab=download">Download datasets</a>
+  </div>
+</nav>
+
+{% if tab == 'download' %}
+<section class="section">
+  <div class="wrap stack">
+    <h2 class="section-title" style="font-size:24px">Choose a dataset</h2>
+    <!-- Updated in place by the script below; Download CSV stays a normal link -->
+    <div id="download-live" class="stack">
+    <div class="ds-grid">
+      {% for ds in datasets %}
+        <a class="ds {% if current and ds.pk == current.pk %}on{% endif %}" href="?tab=download&ds={{ ds.slug }}" data-live="list">
+          <span class="t">{{ ds.tag }}</span>
+          <span class="n">{{ ds.name }}</span>
+          <span class="m">{{ ds.row_count }} rows · {{ ds.coverage }}</span>
+        </a>
+      {% empty %}
+        <p class="muted">No datasets yet. Run <code>python manage.py prepare_data</code>.</p>
+      {% endfor %}
+    </div>
+
+    {% if current %}
+      <div class="panel">
+        <div class="panel-head">
+          <div class="stack" style="gap:4px">
+            <span class="display" style="font-size:22px;font-weight:700">{{ current.name }}</span>
+            <span class="muted small">{{ current.description }}</span>
+          </div>
+          <a class="btn btn-solid" href="{% url 'datahub:download' current.slug %}">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+            Download CSV
+          </a>
+        </div>
+        <div class="table-scroll">
+          <table class="data">
+            <thead><tr>{% for col in columns %}<th scope="col">{{ col }}</th>{% endfor %}</tr></thead>
+            <tbody>
+              {% for row in rows %}<tr>{% for cell in row %}<td>{{ cell }}</td>{% endfor %}</tr>{% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% if current.dictionary_rows %}
+          <details class="dict">
+            <summary>Data dictionary</summary>
+            <table class="data">
+              <thead><tr><th scope="col">Column</th><th scope="col">Meaning</th></tr></thead>
+              <tbody>{% for col, meaning in current.dictionary_rows %}<tr><td><strong>{{ col }}</strong></td><td style="white-space:normal">{{ meaning }}</td></tr>{% endfor %}</tbody>
+            </table>
+          </details>
+        {% endif %}
+        <div class="panel-foot">
+          <span>Showing the first {{ rows|length }} of {{ current.row_count }} rows · Source: {{ current.source }}</span>
+          <span>Coverage: {{ current.coverage }}</span>
+        </div>
+      </div>
+    {% endif %}
+    </div>
+  </div>
+</section>
+
+{% else %}
+<section class="section" style="padding-top:36px">
+  <div class="wrap stack" style="gap:18px">
+    <form class="search-form" method="get" action="">
+      <input type="hidden" name="tab" value="explore">
+      <!-- A new search always covers every category; the chips below filter afterwards -->
+      <input type="hidden" name="cat" value="All">
+      <label for="q" style="font-size:14px;font-weight:600">Search the data</label>
+      <div class="search-box">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#5B6B7D" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        <input class="search-input" id="q" type="search" name="q" value="{{ query }}" placeholder="Search a province, sector, industry, education level, age group or reason…">
+        <button class="btn btn-solid" type="submit" style="min-height:56px">Search</button>
+      </div>
+    </form>
+
+    <div class="chips">
+      <span class="muted small">Try:</span>
+      {% for ex in examples %}<a class="chip soft" href="{{ ex.url }}" data-live="list">{{ ex.text }}</a>{% endfor %}
+    </div>
+
+    <details class="help">
+      <summary>How to search</summary>
+      <div class="help-grid">
+        <div><strong>Type a name or topic.</strong> A province or city (Sarangani, Makati), a sector (Agriculture), an industry (Manufacturing), an education level (College Graduate), an age group or sex (Female, 15-24), or a reason (holidays).</div>
+        <div><strong>Questions work too.</strong> Words like highest, top or worst sort from the highest value; lowest or best sort from the lowest. "Which province has the highest rate?" lists provinces from the top.</div>
+        <div><strong>Everyday words are understood.</strong> Women, men, youth, elderly, farm, factory, salary, school, why, and the island groups Luzon, Visayas and Mindanao.</div>
+        <div><strong>What it can't do.</strong> This is a search over our PSA data, not an AI. It can't explain causes, forecast, or answer questions outside the {{ total_items }} values listed here. Use the buttons below to filter by type.</div>
+      </div>
+    </details>
+
+    <!-- Updated in place by the script below, so the page does not jump to the top -->
+    <div id="explore-live" class="stack" style="gap:18px">
+    <div class="chips">
+      {% for chip in chips %}<a class="chip {% if chip.on %}on{% endif %}" href="{{ chip.url }}" data-live="list">{{ chip.label }} <span class="n">{{ chip.count }}</span></a>{% endfor %}
+    </div>
+
+    <div class="explore">
+      <div class="results">
+        <div class="results-head">
+          <span>{{ count_text }}</span>
+          {% if read_as %}<span class="read">{{ read_as }} · <a href="?tab=explore" data-live="list">clear</a></span>{% endif %}
+        </div>
+        {% for r in results %}
+          <a class="res {% if r.on %}on{% endif %}" href="{{ r.url }}" data-live="detail">
+            <span style="display:flex;flex-direction:column;gap:3px;min-width:0">
+              <span class="res-name">{{ r.item.name }}</span>
+              <span class="res-ctx"><span class="res-cat">{{ r.item.category }}</span> · {{ r.item.context }}</span>
+            </span>
+            <span class="res-val">
+              <span class="v">{{ r.item.formatted }}</span>
+              <span class="bar"><span style="width:{{ r.bar }}%"></span></span>
+            </span>
+          </a>
+        {% empty %}
+          <div class="empty">No matches in our data. This search covers provinces and cities, the three sectors, industry pay, education levels, age and sex groups, and reasons for short hours. Try a shorter word, check the spelling, or <a href="?tab=explore" data-live="list">clear the search</a>.</div>
+        {% endfor %}
+      </div>
+
+      {% if selected %}
+        <aside class="detail" id="detail" aria-label="Selected item">
+          <span class="res-cat">{{ selected.category }}</span>
+          <h2>{{ selected.name }}</h2>
+          <div><span class="big">{{ selected.formatted }}</span> <span class="muted">{{ selected.unit }}</span></div>
+          <div class="stack" style="gap:8px">
+            <div class="row-between tiny muted"><span>This item</span><span class="mono">{{ selected.formatted }}</span></div>
+            <span class="bar big"><span style="width:{{ selected_bar }}%"></span></span>
+            <div class="row-between tiny muted"><span>The {{ selected.average_label }}</span><span class="mono">{{ selected.formatted_average }}</span></div>
+            <span class="bar big grey"><span style="width:{{ average_bar }}%"></span></span>
+          </div>
+          <p class="cmp">{{ selected.comparison }}</p>
+          <p class="small" style="color:#33475E">{{ selected.context }}</p>
+          <p class="tiny muted">Source: {{ selected.source }}</p>
+          <a class="link-strong" href="{% url 'dashboard:page' selected.page_slug %}">See it on the {{ selected.page_slug|title }} dashboard →</a>
+        </aside>
+      {% endif %}
+    </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<script>
+  // Results, chips and dataset cards load without a full page reload, so the
+  // visitor stays where they are. Links still work normally without this script.
+  (function () {
+    if (!window.fetch || !window.DOMParser || !window.URLSearchParams || !window.FormData ||
+        !(window.history && history.pushState)) return;
+
+    var ROOTS = ["explore-live", "download-live"];
+    var pending = null;
+    var moved = false;
+
+    function liveRoot(doc) {
+      for (var i = 0; i < ROOTS.length; i++) {
+        var el = doc.getElementById(ROOTS[i]);
+        if (el) return el;
+      }
+      return null;
+    }
+
+    function load(url, push, reveal) {
+      var root = liveRoot(document);
+      if (!root) { window.location.href = url; return; }
+      var token = {};
+      pending = token;
+      var focused = root.contains(document.activeElement) ? document.activeElement.getAttribute("href") : null;
+      root.style.opacity = "0.6";
+      root.setAttribute("aria-busy", "true");
+
+      fetch(url, { credentials: "same-origin" })
+        .then(function (response) {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.text();
+        })
+        .then(function (html) {
+          if (pending !== token) return;  // a newer click won
+          var doc = new DOMParser().parseFromString(html, "text/html");
+          var fresh = doc.getElementById(root.id);
+          if (!fresh) throw new Error("No #" + root.id + " in the response");
+          root.innerHTML = fresh.innerHTML;
+
+          // Keep the search box and hidden category in step with the new results
+          var form = document.querySelector(".search-form");
+          var freshForm = doc.querySelector(".search-form");
+          if (form && freshForm) {
+            ["q", "cat"].forEach(function (name) {
+              if (form.elements[name] && freshForm.elements[name]) {
+                form.elements[name].value = freshForm.elements[name].value;
+              }
+            });
+          }
+
+          if (push) { history.pushState({ live: true }, "", url); moved = true; }
+
+          // Keyboard users keep their place on the link they used
+          if (focused) {
+            var same = root.querySelector('a[href="' + focused.replace(/"/g, '\\"') + '"]');
+            if (same) same.focus({ preventScroll: true });
+          }
+
+          // On narrow screens the detail panel sits under the list: bring it into view
+          var detail = document.getElementById("detail");
+          if (reveal && detail && window.matchMedia("(max-width: 899px)").matches) {
+            detail.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
+        })
+        .catch(function () {
+          if (pending === token) window.location.href = url;  // fall back to a normal page load
+        })
+        .then(function () {
+          if (pending !== token) return;
+          pending = null;
+          root.style.opacity = "";
+          root.removeAttribute("aria-busy");
+        });
+    }
+
+    document.addEventListener("click", function (e) {
+      if (e.defaultPrevented || e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+      var link = e.target.closest && e.target.closest("a[data-live]");
+      if (!link || link.origin !== window.location.origin || (link.target && link.target !== "_self")) return;
+      e.preventDefault();
+      load(link.href, true, link.getAttribute("data-live") === "detail");
+    });
+
+    document.addEventListener("submit", function (e) {
+      var form = e.target;
+      if (!form.classList || !form.classList.contains("search-form")) return;
+      e.preventDefault();
+      var url = window.location.pathname + "?" + new URLSearchParams(new FormData(form)).toString();
+      load(url, true, false);
+    });
+
+    window.addEventListener("popstate", function () {
+      if (moved) load(window.location.href, false, false);
+    });
+  })();
+</script>
+{% endblock %}

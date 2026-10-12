@@ -1,0 +1,673 @@
+Date,Year,Education Level,Employed Count,Underemployed Count,Education Tier,Education Status
+2023-01-01,2023,No grade completed,538,70,Other,N/A
+2023-01-01,2023,Elementary,10109,1912,Elementary,N/A
+2023-01-01,2023,Junior High School,19170,2956,Junior High,N/A
+2023-01-01,2023,Senior High School,1629,204,Senior High,N/A
+2023-01-01,2023,Post Secondary,1853,247,Post-Secondary,N/A
+2023-01-01,2023,College,14053,1265,College,N/A
+2023-02-01,2023,No grade completed,568,103,Other,N/A
+2023-02-01,2023,Elementary,10857,1808,Elementary,N/A
+2023-02-01,2023,Junior High School,19590,2799,Junior High,N/A
+2023-02-01,2023,Senior High School,1671,176,Senior High,N/A
+2023-02-01,2023,Post Secondary,2337,323,Post-Secondary,N/A
+2023-02-01,2023,College,13774,1077,College,N/A
+2023-03-01,2023,No grade completed,537,47,Other,N/A
+2023-03-01,2023,Elementary,11124,1675,Elementary,N/A
+2023-03-01,2023,Junior High School,19684,2455,Junior High,N/A
+2023-03-01,2023,Senior High School,1666,152,Senior High,N/A
+2023-03-01,2023,Post Secondary,2102,227,Post-Secondary,N/A
+2023-03-01,2023,College,13469,886,College,N/A
+2023-04-01,2023,No grade completed,532,77,Other,N/A
+2023-04-01,2023,Elementary,10573,1787,Elementary,N/A
+2023-04-01,2023,Junior High School,19273,2666,Junior High,N/A
+2023-04-01,2023,Senior High School,1702,185,Senior High,N/A
+2023-04-01,2023,Post Secondary,1836,293,Post-Secondary,N/A
+2023-04-01,2023,College,14142,1196,College,N/A
+2023-05-01,2023,No grade completed,463,54,Other,N/A
+2023-05-01,2023,Elementary,11346,1500,Elementary,N/A
+2023-05-01,2023,Junior High School,19439,2565,Junior High,N/A
+2023-05-01,2023,Senior High School,1570,209,Senior High,N/A
+2023-05-01,2023,Post Secondary,2144,292,Post-Secondary,N/A
+2023-05-01,2023,College,13299,1040,College,N/A
+2023-06-01,2023,No grade completed,612,90,Other,N/A
+2023-06-01,2023,Elementary,10858,1556,Elementary,N/A
+2023-06-01,2023,Junior High School,19943,2550,Junior High,N/A
+2023-06-01,2023,Senior High School,1528,160,Senior High,N/A
+2023-06-01,2023,Post Secondary,1935,291,Post-Secondary,N/A
+2023-06-01,2023,College,13966,1228,College,N/A
+2023-07-01,2023,No grade completed,529,105,Other,N/A
+2023-07-01,2023,Elementary,9931,1999,Elementary,N/A
+2023-07-01,2023,Junior High School,18067,3071,Junior High,N/A
+2023-07-01,2023,Senior High School,1350,214,Senior High,N/A
+2023-07-01,2023,Post Secondary,1442,240,Post-Secondary,N/A
+2023-07-01,2023,College,13239,1440,College,N/A
+2023-08-01,2023,No grade completed,610,93,Other,N/A
+2023-08-01,2023,Elementary,11332,1815,Elementary,N/A
+2023-08-01,2023,Junior High School,19091,2305,Junior High,N/A
+2023-08-01,2023,Senior High School,1737,197,Senior High,N/A
+2023-08-01,2023,Post Secondary,1695,195,Post-Secondary,N/A
+2023-08-01,2023,College,13608,1027,College,N/A
+2023-09-01,2023,No grade completed,427,71,Other,N/A
+2023-09-01,2023,Elementary,10150,1427,Elementary,N/A
+2023-09-01,2023,Junior High School,19402,2289,Junior High,N/A
+2023-09-01,2023,Senior High School,1505,111,Senior High,N/A
+2023-09-01,2023,Post Secondary,1734,233,Post-Secondary,N/A
+2023-09-01,2023,College,14448,982,College,N/A
+2023-10-01,2023,No grade completed,519,84,Other,N/A
+2023-10-01,2023,Elementary,10263,1591,Elementary,N/A
+2023-10-01,2023,Junior High School,19442,2473,Junior High,N/A
+2023-10-01,2023,Senior High School,1435,149,Senior High,N/A
+2023-10-01,2023,Post Secondary,1519,178,Post-Secondary,N/A
+2023-10-01,2023,College,14609,1122,College,N/A
+2023-11-01,2023,No grade completed,622,49,Other,N/A
+2023-11-01,2023,Elementary,11707,1509,Elementary,N/A
+2023-11-01,2023,Junior High School,20239,2529,Junior High,N/A
+2023-11-01,2023,Senior High School,1698,200,Senior High,N/A
+2023-11-01,2023,Post Secondary,1513,217,Post-Secondary,N/A
+2023-11-01,2023,College,13856,1283,College,N/A
+2023-12-01,2023,No grade completed,447,94,Other,N/A
+2023-12-01,2023,Elementary,11518,1844,Elementary,N/A
+2023-12-01,2023,Junior High School,21124,2737,Junior High,N/A
+2023-12-01,2023,Senior High School,1741,176,Senior High,N/A
+2023-12-01,2023,Post Secondary,1604,165,Post-Secondary,N/A
+2023-12-01,2023,College,14091,994,College,N/A
+2024-01-01,2024,No grade completed,554,107,Other,N/A
+2024-01-01,2024,Elementary,10142,1871,Elementary,N/A
+2024-01-01,2024,Junior High School,18669,2727,Junior High,N/A
+2024-01-01,2024,Senior High School,1491,203,Senior High,N/A
+2024-01-01,2024,Post Secondary,1438,179,Post-Secondary,N/A
+2024-01-01,2024,College,13608,1210,College,N/A
+2024-02-01,2024,No grade completed,610,88,Other,N/A
+2024-02-01,2024,Elementary,10194,1725,Elementary,N/A
+2024-02-01,2024,Junior High School,20686,2608,Junior High,N/A
+2024-02-01,2024,Senior High School,1676,201,Senior High,N/A
+2024-02-01,2024,Post Secondary,1846,237,Post-Secondary,N/A
+2024-02-01,2024,College,13939,1218,College,N/A
+2024-03-01,2024,No grade completed,407,53,Other,N/A
+2024-03-01,2024,Elementary,10073,1522,Elementary,N/A
+2024-03-01,2024,Junior High School,19998,2412,Junior High,N/A
+2024-03-01,2024,Senior High School,1691,226,Senior High,N/A
+2024-03-01,2024,Post Secondary,1681,138,Post-Secondary,N/A
+2024-03-01,2024,College,15303,1039,College,N/A
+2024-04-01,2024,No grade completed,485,81,Other,N/A
+2024-04-01,2024,Elementary,10336,1894,Elementary,N/A
+2024-04-01,2024,Junior High School,20232,3157,Junior High,N/A
+2024-04-01,2024,Senior High School,1758,261,Senior High,N/A
+2024-04-01,2024,Post Secondary,1601,264,Post-Secondary,N/A
+2024-04-01,2024,College,13942,1380,College,N/A
+2024-05-01,2024,No grade completed,445,47,Other,N/A
+2024-05-01,2024,Elementary,10587,1252,Elementary,N/A
+2024-05-01,2024,Junior High School,20752,2173,Junior High,N/A
+2024-05-01,2024,Senior High School,1671,176,Senior High,N/A
+2024-05-01,2024,Post Secondary,1665,196,Post-Secondary,N/A
+2024-05-01,2024,College,13746,971,College,N/A
+2024-06-01,2024,No grade completed,474,108,Other,N/A
+2024-06-01,2024,Elementary,10813,1669,Elementary,N/A
+2024-06-01,2024,Junior High School,21053,2793,Junior High,N/A
+2024-06-01,2024,Senior High School,1869,229,Senior High,N/A
+2024-06-01,2024,Post Secondary,1678,188,Post-Secondary,N/A
+2024-06-01,2024,College,14392,1095,College,N/A
+2024-07-01,2024,No grade completed,600,113,Other,N/A
+2024-07-01,2024,Elementary,10217,1583,Elementary,N/A
+2024-07-01,2024,Junior High School,19091,2397,Junior High,N/A
+2024-07-01,2024,Senior High School,1988,241,Senior High,N/A
+2024-07-01,2024,Post Secondary,1605,210,Post-Secondary,N/A
+2024-07-01,2024,College,14181,1229,College,N/A
+2024-08-01,2024,No grade completed,440,35,Other,N/A
+2024-08-01,2024,Elementary,9524,1370,Elementary,N/A
+2024-08-01,2024,Junior High School,20705,2452,Junior High,N/A
+2024-08-01,2024,Senior High School,1813,222,Senior High,N/A
+2024-08-01,2024,Post Secondary,1677,238,Post-Secondary,N/A
+2024-08-01,2024,College,14995,1166,College,N/A
+2024-09-01,2024,No grade completed,399,40,Other,N/A
+2024-09-01,2024,Elementary,10003,1592,Elementary,N/A
+2024-09-01,2024,Junior High School,20267,2480,Junior High,N/A
+2024-09-01,2024,Senior High School,1838,223,Senior High,N/A
+2024-09-01,2024,Post Secondary,1842,277,Post-Secondary,N/A
+2024-09-01,2024,College,15523,1333,College,N/A
+2024-10-01,2024,No grade completed,510,86,Other,N/A
+2024-10-01,2024,Elementary,10188,1670,Elementary,N/A
+2024-10-01,2024,Junior High School,19809,2713,Junior High,N/A
+2024-10-01,2024,Senior High School,1455,173,Senior High,N/A
+2024-10-01,2024,Post Secondary,1478,221,Post-Secondary,N/A
+2024-10-01,2024,College,14717,1220,College,N/A
+2024-11-01,2024,No grade completed,488,76,Other,N/A
+2024-11-01,2024,Elementary,10130,1398,Elementary,N/A
+2024-11-01,2024,Junior High School,20820,2376,Junior High,N/A
+2024-11-01,2024,Senior High School,1948,263,Senior High,N/A
+2024-11-01,2024,Post Secondary,1712,266,Post-Secondary,N/A
+2024-11-01,2024,College,14443,977,College,N/A
+2024-12-01,2024,No grade completed,621,91,Other,N/A
+2024-12-01,2024,Elementary,10171,1241,Elementary,N/A
+2024-12-01,2024,Junior High School,21065,2362,Junior High,N/A
+2024-12-01,2024,Senior High School,1872,183,Senior High,N/A
+2024-12-01,2024,Post Secondary,1711,255,Post-Secondary,N/A
+2024-12-01,2024,College,14746,1349,College,N/A
+2025-01-01,2025,No grade completed,512,89,Other,N/A
+2025-01-01,2025,Elementary,9998,1827,Elementary,N/A
+2025-01-01,2025,Junior High School,20088,2895,Junior High,N/A
+2025-01-01,2025,Senior High School,1679,218,Senior High,N/A
+2025-01-01,2025,Post Secondary,1620,198,Post-Secondary,N/A
+2025-01-01,2025,College,14590,1242,College,N/A
+2025-02-01,2025,No grade completed,438,105,Other,N/A
+2025-02-01,2025,Elementary,9781,1150,Elementary,N/A
+2025-02-01,2025,Junior High School,20746,2462,Junior High,N/A
+2025-02-01,2025,Senior High School,1827,148,Senior High,N/A
+2025-02-01,2025,Post Secondary,1776,204,Post-Secondary,N/A
+2025-02-01,2025,College,14587,890,College,N/A
+2025-03-01,2025,No grade completed,375,83,Other,N/A
+2025-03-01,2025,Elementary,9586,1560,Elementary,N/A
+2025-03-01,2025,Junior High School,19685,2970,Junior High,N/A
+2025-03-01,2025,Senior High School,1819,261,Senior High,N/A
+2025-03-01,2025,Post Secondary,1951,286,Post-Secondary,N/A
+2025-03-01,2025,College,14606,1280,College,N/A
+2025-04-01,2025,No grade completed,507,91,Other,N/A
+2025-04-01,2025,Elementary,9904,1805,Elementary,N/A
+2025-04-01,2025,Junior High School,19977,3108,Junior High,N/A
+2025-04-01,2025,Senior High School,1860,269,Senior High,N/A
+2025-04-01,2025,Post Secondary,1660,277,Post-Secondary,N/A
+2025-04-01,2025,College,14763,1542,College,N/A
+2025-05-01,2025,No grade completed,417,94,Other,N/A
+2025-05-01,2025,Elementary,9861,1600,Elementary,N/A
+2025-05-01,2025,Junior High School,19981,2978,Junior High,N/A
+2025-05-01,2025,Senior High School,2213,251,Senior High,N/A
+2025-05-01,2025,Post Secondary,2248,303,Post-Secondary,N/A
+2025-05-01,2025,College,15570,1377,College,N/A
+2025-06-01,2025,No grade completed,465,94,Other,N/A
+2025-06-01,2025,Elementary,10547,1560,Elementary,N/A
+2025-06-01,2025,Junior High School,20153,2408,Junior High,N/A
+2025-06-01,2025,Senior High School,2211,207,Senior High,N/A
+2025-06-01,2025,Post Secondary,1940,287,Post-Secondary,N/A
+2025-06-01,2025,College,15160,1207,College,N/A
+2025-07-01,2025,No grade completed,501,97,Other,N/A
+2025-07-01,2025,Elementary,9318,1852,Elementary,N/A
+2025-07-01,2025,Junior High School,18403,2910,Junior High,N/A
+2025-07-01,2025,Senior High School,1761,257,Senior High,N/A
+2025-07-01,2025,Post Secondary,1439,221,Post-Secondary,N/A
+2025-07-01,2025,College,14624,1466,College,N/A
+2025-08-01,2025,No grade completed,384,65,Other,N/A
+2025-08-01,2025,Elementary,10416,1460,Elementary,N/A
+2025-08-01,2025,Junior High School,20798,2394,Junior High,N/A
+2025-08-01,2025,Senior High School,2068,234,Senior High,N/A
+2025-08-01,2025,Post Secondary,1630,205,Post-Secondary,N/A
+2025-08-01,2025,College,14800,1023,College,N/A
+2025-09-01,2025,No grade completed,426,55,Other,N/A
+2025-09-01,2025,Elementary,10347,1443,Elementary,N/A
+2025-09-01,2025,Junior High School,19773,2485,Junior High,N/A
+2025-09-01,2025,Senior High School,1891,194,Senior High,N/A
+2025-09-01,2025,Post Secondary,1666,197,Post-Secondary,N/A
+2025-09-01,2025,College,15499,1148,College,N/A
+2025-10-01,2025,No grade completed,465,89,Other,N/A
+2025-10-01,2025,Elementary,9714,1581,Elementary,N/A
+2025-10-01,2025,Junior High School,19757,2563,Junior High,N/A
+2025-10-01,2025,Senior High School,1897,219,Senior High,N/A
+2025-10-01,2025,Post Secondary,1583,189,Post-Secondary,N/A
+2025-10-01,2025,College,15204,1168,College,N/A
+2025-11-01,2025,No grade completed,398,79,Other,N/A
+2025-11-01,2025,Elementary,10032,1637,Elementary,N/A
+2025-11-01,2025,Junior High School,19611,2039,Junior High,N/A
+2025-11-01,2025,Senior High School,1908,186,Senior High,N/A
+2025-11-01,2025,Post Secondary,1848,186,Post-Secondary,N/A
+2025-11-01,2025,College,15467,984,College,N/A
+2025-12-01,2025,No grade completed,462,52,Other,N/A
+2025-12-01,2025,Elementary,9824,1135,Elementary,N/A
+2025-12-01,2025,Junior High School,19668,1713,Junior High,N/A
+2025-12-01,2025,Senior High School,2047,161,Senior High,N/A
+2025-12-01,2025,Post Secondary,1596,101,Post-Secondary,N/A
+2025-12-01,2025,College,15829,768,College,N/A
+2026-01-01,2026,No grade completed,512,99,Other,N/A
+2026-01-01,2026,Elementary,9406,1766,Elementary,N/A
+2026-01-01,2026,Junior High School,18940,2711,Junior High,N/A
+2026-01-01,2026,Senior High School,2056,267,Senior High,N/A
+2026-01-01,2026,Post Secondary,1587,208,Post-Secondary,N/A
+2026-01-01,2026,College,15438,1299,College,N/A
+2026-02-01,2026,No grade completed,401,105,Other,N/A
+2026-02-01,2026,Elementary,9278,1466,Elementary,N/A
+2026-02-01,2026,Junior High School,19970,2384,Junior High,N/A
+2026-02-01,2026,Senior High School,2106,281,Senior High,N/A
+2026-02-01,2026,Post Secondary,1972,291,Post-Secondary,N/A
+2026-02-01,2026,College,15699,1312,College,N/A
+2026-03-01,2026,No grade completed,429,96,Other,N/A
+2026-03-01,2026,Elementary,9189,1462,Elementary,N/A
+2026-03-01,2026,Junior High School,20009,2675,Junior High,N/A
+2026-03-01,2026,Senior High School,2213,259,Senior High,N/A
+2026-03-01,2026,Post Secondary,1656,265,Post-Secondary,N/A
+2026-03-01,2026,College,15573,1274,College,N/A
+2026-04-01,2026,No grade completed,480,98,Other,N/A
+2026-04-01,2026,Elementary,9551,1888,Elementary,N/A
+2026-04-01,2026,Junior High School,19086,3008,Junior High,N/A
+2026-04-01,2026,Senior High School,2523,389,Senior High,N/A
+2026-04-01,2026,Post Secondary,1645,270,Post-Secondary,N/A
+2026-04-01,2026,College,15605,1756,College,N/A
+2026-05-01,2026,No grade completed,314,53,Other,N/A
+2026-05-01,2026,Elementary,9315,1402,Elementary,N/A
+2026-05-01,2026,Junior High School,19906,2554,Junior High,N/A
+2026-05-01,2026,Senior High School,2431,302,Senior High,N/A
+2026-05-01,2026,Post Secondary,1828,290,Post-Secondary,N/A
+2026-05-01,2026,College,15835,1438,College,N/A
+2026-06-01,2026,No grade completed,360,84,Other,N/A
+2026-06-01,2026,Elementary,9534,1333,Elementary,N/A
+2026-06-01,2026,Junior High School,19881,2613,Junior High,N/A
+2026-06-01,2026,Senior High School,2447,228,Senior High,N/A
+2026-06-01,2026,Post Secondary,2001,232,Post-Secondary,N/A
+2026-06-01,2026,College,16436,1626,College,N/A
+2023-01-01,2023,Elementary Undergraduate,4989,1016,Elementary,Undergraduate
+2023-01-01,2023,Junior High Undergraduate,5154,892,Junior High,Undergraduate
+2023-01-01,2023,Senior High Undergraduate,479,49,Senior High,Undergraduate
+2023-01-01,2023,Post Secondary Undergraduate,83,12,Post-Secondary,Undergraduate
+2023-01-01,2023,College Undergraduate,4410,506,College,Undergraduate
+2023-02-01,2023,Elementary Undergraduate,5354,916,Elementary,Undergraduate
+2023-02-01,2023,Junior High Undergraduate,5404,873,Junior High,Undergraduate
+2023-02-01,2023,Senior High Undergraduate,527,55,Senior High,Undergraduate
+2023-02-01,2023,Post Secondary Undergraduate,47,1,Post-Secondary,Undergraduate
+2023-02-01,2023,College Undergraduate,4158,487,College,Undergraduate
+2023-03-01,2023,Elementary Undergraduate,5200,832,Elementary,Undergraduate
+2023-03-01,2023,Junior High Undergraduate,5706,846,Junior High,Undergraduate
+2023-03-01,2023,Senior High Undergraduate,503,63,Senior High,Undergraduate
+2023-03-01,2023,Post Secondary Undergraduate,65,2,Post-Secondary,Undergraduate
+2023-03-01,2023,College Undergraduate,4164,325,College,Undergraduate
+2023-04-01,2023,Elementary Undergraduate,5107,912,Elementary,Undergraduate
+2023-04-01,2023,Junior High Undergraduate,5382,852,Junior High,Undergraduate
+2023-04-01,2023,Senior High Undergraduate,550,51,Senior High,Undergraduate
+2023-04-01,2023,Post Secondary Undergraduate,49,2,Post-Secondary,Undergraduate
+2023-04-01,2023,College Undergraduate,4307,445,College,Undergraduate
+2023-05-01,2023,Elementary Undergraduate,5437,773,Elementary,Undergraduate
+2023-05-01,2023,Junior High Undergraduate,5564,728,Junior High,Undergraduate
+2023-05-01,2023,Senior High Undergraduate,411,30,Senior High,Undergraduate
+2023-05-01,2023,Post Secondary Undergraduate,46,8,Post-Secondary,Undergraduate
+2023-05-01,2023,College Undergraduate,3859,459,College,Undergraduate
+2023-06-01,2023,Elementary Undergraduate,5290,763,Elementary,Undergraduate
+2023-06-01,2023,Junior High Undergraduate,5751,737,Junior High,Undergraduate
+2023-06-01,2023,Senior High Undergraduate,458,58,Senior High,Undergraduate
+2023-06-01,2023,Post Secondary Undergraduate,43,3,Post-Secondary,Undergraduate
+2023-06-01,2023,College Undergraduate,4453,535,College,Undergraduate
+2023-07-01,2023,Elementary Undergraduate,5126,1098,Elementary,Undergraduate
+2023-07-01,2023,Junior High Undergraduate,5064,1018,Junior High,Undergraduate
+2023-07-01,2023,Senior High Undergraduate,395,60,Senior High,Undergraduate
+2023-07-01,2023,Post Secondary Undergraduate,23,7,Post-Secondary,Undergraduate
+2023-07-01,2023,College Undergraduate,4198,592,College,Undergraduate
+2023-08-01,2023,Elementary Undergraduate,5437,855,Elementary,Undergraduate
+2023-08-01,2023,Junior High Undergraduate,4890,725,Junior High,Undergraduate
+2023-08-01,2023,Senior High Undergraduate,539,66,Senior High,Undergraduate
+2023-08-01,2023,Post Secondary Undergraduate,24,3,Post-Secondary,Undergraduate
+2023-08-01,2023,College Undergraduate,4301,415,College,Undergraduate
+2023-09-01,2023,Elementary Undergraduate,4716,704,Elementary,Undergraduate
+2023-09-01,2023,Junior High Undergraduate,5036,686,Junior High,Undergraduate
+2023-09-01,2023,Senior High Undergraduate,384,38,Senior High,Undergraduate
+2023-09-01,2023,Post Secondary Undergraduate,25,6,Post-Secondary,Undergraduate
+2023-09-01,2023,College Undergraduate,4420,359,College,Undergraduate
+2023-10-01,2023,Elementary Undergraduate,5039,831,Elementary,Undergraduate
+2023-10-01,2023,Junior High Undergraduate,5115,789,Junior High,Undergraduate
+2023-10-01,2023,Senior High Undergraduate,354,37,Senior High,Undergraduate
+2023-10-01,2023,Post Secondary Undergraduate,32,5,Post-Secondary,Undergraduate
+2023-10-01,2023,College Undergraduate,4515,451,College,Undergraduate
+2023-11-01,2023,Elementary Undergraduate,5585,771,Elementary,Undergraduate
+2023-11-01,2023,Junior High Undergraduate,5356,798,Junior High,Undergraduate
+2023-11-01,2023,Senior High Undergraduate,399,39,Senior High,Undergraduate
+2023-11-01,2023,Post Secondary Undergraduate,69,36,Post-Secondary,Undergraduate
+2023-11-01,2023,College Undergraduate,4341,470,College,Undergraduate
+2023-12-01,2023,Elementary Undergraduate,5290,920,Elementary,Undergraduate
+2023-12-01,2023,Junior High Undergraduate,5561,923,Junior High,Undergraduate
+2023-12-01,2023,Senior High Undergraduate,437,36,Senior High,Undergraduate
+2023-12-01,2023,Post Secondary Undergraduate,0,0,Post-Secondary,Undergraduate
+2023-12-01,2023,College Undergraduate,4270,402,College,Undergraduate
+2024-01-01,2024,Elementary Undergraduate,5154,1017,Elementary,Undergraduate
+2024-01-01,2024,Junior High Undergraduate,5097,884,Junior High,Undergraduate
+2024-01-01,2024,Senior High Undergraduate,401,52,Senior High,Undergraduate
+2024-01-01,2024,Post Secondary Undergraduate,20,3,Post-Secondary,Undergraduate
+2024-01-01,2024,College Undergraduate,4156,487,College,Undergraduate
+2024-02-01,2024,Elementary Undergraduate,4958,921,Elementary,Undergraduate
+2024-02-01,2024,Junior High Undergraduate,5155,724,Junior High,Undergraduate
+2024-02-01,2024,Senior High Undergraduate,417,39,Senior High,Undergraduate
+2024-02-01,2024,Post Secondary Undergraduate,90,15,Post-Secondary,Undergraduate
+2024-02-01,2024,College Undergraduate,4298,503,College,Undergraduate
+2024-03-01,2024,Elementary Undergraduate,4742,771,Elementary,Undergraduate
+2024-03-01,2024,Junior High Undergraduate,5431,766,Junior High,Undergraduate
+2024-03-01,2024,Senior High Undergraduate,495,75,Senior High,Undergraduate
+2024-03-01,2024,Post Secondary Undergraduate,57,6,Post-Secondary,Undergraduate
+2024-03-01,2024,College Undergraduate,4553,425,College,Undergraduate
+2024-04-01,2024,Elementary Undergraduate,4910,949,Elementary,Undergraduate
+2024-04-01,2024,Junior High Undergraduate,5192,912,Junior High,Undergraduate
+2024-04-01,2024,Senior High Undergraduate,443,56,Senior High,Undergraduate
+2024-04-01,2024,Post Secondary Undergraduate,51,7,Post-Secondary,Undergraduate
+2024-04-01,2024,College Undergraduate,4325,517,College,Undergraduate
+2024-05-01,2024,Elementary Undergraduate,4897,619,Elementary,Undergraduate
+2024-05-01,2024,Junior High Undergraduate,5522,704,Junior High,Undergraduate
+2024-05-01,2024,Senior High Undergraduate,432,42,Senior High,Undergraduate
+2024-05-01,2024,Post Secondary Undergraduate,47,1,Post-Secondary,Undergraduate
+2024-05-01,2024,College Undergraduate,4343,416,College,Undergraduate
+2024-06-01,2024,Elementary Undergraduate,4945,781,Elementary,Undergraduate
+2024-06-01,2024,Junior High Undergraduate,5183,809,Junior High,Undergraduate
+2024-06-01,2024,Senior High Undergraduate,437,53,Senior High,Undergraduate
+2024-06-01,2024,Post Secondary Undergraduate,67,8,Post-Secondary,Undergraduate
+2024-06-01,2024,College Undergraduate,4783,461,College,Undergraduate
+2024-07-01,2024,Elementary Undergraduate,5019,848,Elementary,Undergraduate
+2024-07-01,2024,Junior High Undergraduate,4957,690,Junior High,Undergraduate
+2024-07-01,2024,Senior High Undergraduate,511,63,Senior High,Undergraduate
+2024-07-01,2024,Post Secondary Undergraduate,29,6,Post-Secondary,Undergraduate
+2024-07-01,2024,College Undergraduate,4715,479,College,Undergraduate
+2024-08-01,2024,Elementary Undergraduate,4379,680,Elementary,Undergraduate
+2024-08-01,2024,Junior High Undergraduate,4861,598,Junior High,Undergraduate
+2024-08-01,2024,Senior High Undergraduate,398,54,Senior High,Undergraduate
+2024-08-01,2024,Post Secondary Undergraduate,58,11,Post-Secondary,Undergraduate
+2024-08-01,2024,College Undergraduate,4786,423,College,Undergraduate
+2024-09-01,2024,Elementary Undergraduate,4661,781,Elementary,Undergraduate
+2024-09-01,2024,Junior High Undergraduate,4844,732,Junior High,Undergraduate
+2024-09-01,2024,Senior High Undergraduate,374,26,Senior High,Undergraduate
+2024-09-01,2024,Post Secondary Undergraduate,28,4,Post-Secondary,Undergraduate
+2024-09-01,2024,College Undergraduate,4830,425,College,Undergraduate
+2024-10-01,2024,Elementary Undergraduate,4821,852,Elementary,Undergraduate
+2024-10-01,2024,Junior High Undergraduate,4879,818,Junior High,Undergraduate
+2024-10-01,2024,Senior High Undergraduate,296,41,Senior High,Undergraduate
+2024-10-01,2024,Post Secondary Undergraduate,44,7,Post-Secondary,Undergraduate
+2024-10-01,2024,College Undergraduate,4343,431,College,Undergraduate
+2024-11-01,2024,Elementary Undergraduate,4604,667,Elementary,Undergraduate
+2024-11-01,2024,Junior High Undergraduate,4983,678,Junior High,Undergraduate
+2024-11-01,2024,Senior High Undergraduate,428,59,Senior High,Undergraduate
+2024-11-01,2024,Post Secondary Undergraduate,85,26,Post-Secondary,Undergraduate
+2024-11-01,2024,College Undergraduate,4618,357,College,Undergraduate
+2024-12-01,2024,Elementary Undergraduate,4571,564,Elementary,Undergraduate
+2024-12-01,2024,Junior High Undergraduate,5010,686,Junior High,Undergraduate
+2024-12-01,2024,Senior High Undergraduate,403,56,Senior High,Undergraduate
+2024-12-01,2024,Post Secondary Undergraduate,58,18,Post-Secondary,Undergraduate
+2024-12-01,2024,College Undergraduate,4867,490,College,Undergraduate
+2025-01-01,2025,Elementary Undergraduate,4726,880,Elementary,Undergraduate
+2025-01-01,2025,Junior High Undergraduate,4938,824,Junior High,Undergraduate
+2025-01-01,2025,Senior High Undergraduate,329,40,Senior High,Undergraduate
+2025-01-01,2025,Post Secondary Undergraduate,37,5,Post-Secondary,Undergraduate
+2025-01-01,2025,College Undergraduate,4620,533,College,Undergraduate
+2025-02-01,2025,Elementary Undergraduate,4496,510,Elementary,Undergraduate
+2025-02-01,2025,Junior High Undergraduate,5148,688,Junior High,Undergraduate
+2025-02-01,2025,Senior High Undergraduate,404,25,Senior High,Undergraduate
+2025-02-01,2025,Post Secondary Undergraduate,36,0,Post-Secondary,Undergraduate
+2025-02-01,2025,College Undergraduate,4342,301,College,Undergraduate
+2025-03-01,2025,Elementary Undergraduate,4491,757,Elementary,Undergraduate
+2025-03-01,2025,Junior High Undergraduate,5093,936,Junior High,Undergraduate
+2025-03-01,2025,Senior High Undergraduate,339,32,Senior High,Undergraduate
+2025-03-01,2025,Post Secondary Undergraduate,58,33,Post-Secondary,Undergraduate
+2025-03-01,2025,College Undergraduate,4546,569,College,Undergraduate
+2025-04-01,2025,Elementary Undergraduate,4664,880,Elementary,Undergraduate
+2025-04-01,2025,Junior High Undergraduate,4834,835,Junior High,Undergraduate
+2025-04-01,2025,Senior High Undergraduate,404,58,Senior High,Undergraduate
+2025-04-01,2025,Post Secondary Undergraduate,61,9,Post-Secondary,Undergraduate
+2025-04-01,2025,College Undergraduate,4655,625,College,Undergraduate
+2025-05-01,2025,Elementary Undergraduate,4505,813,Elementary,Undergraduate
+2025-05-01,2025,Junior High Undergraduate,4990,742,Junior High,Undergraduate
+2025-05-01,2025,Senior High Undergraduate,465,63,Senior High,Undergraduate
+2025-05-01,2025,Post Secondary Undergraduate,64,7,Post-Secondary,Undergraduate
+2025-05-01,2025,College Undergraduate,4852,659,College,Undergraduate
+2025-06-01,2025,Elementary Undergraduate,4916,738,Elementary,Undergraduate
+2025-06-01,2025,Junior High Undergraduate,5120,715,Junior High,Undergraduate
+2025-06-01,2025,Senior High Undergraduate,491,71,Senior High,Undergraduate
+2025-06-01,2025,Post Secondary Undergraduate,34,0,Post-Secondary,Undergraduate
+2025-06-01,2025,College Undergraduate,4660,457,College,Undergraduate
+2025-07-01,2025,Elementary Undergraduate,4645,988,Elementary,Undergraduate
+2025-07-01,2025,Junior High Undergraduate,4634,911,Junior High,Undergraduate
+2025-07-01,2025,Senior High Undergraduate,348,47,Senior High,Undergraduate
+2025-07-01,2025,Post Secondary Undergraduate,33,9,Post-Secondary,Undergraduate
+2025-07-01,2025,College Undergraduate,4379,557,College,Undergraduate
+2025-08-01,2025,Elementary Undergraduate,4948,679,Elementary,Undergraduate
+2025-08-01,2025,Junior High Undergraduate,5152,738,Junior High,Undergraduate
+2025-08-01,2025,Senior High Undergraduate,381,41,Senior High,Undergraduate
+2025-08-01,2025,Post Secondary Undergraduate,27,12,Post-Secondary,Undergraduate
+2025-08-01,2025,College Undergraduate,4386,447,College,Undergraduate
+2025-09-01,2025,Elementary Undergraduate,4679,677,Elementary,Undergraduate
+2025-09-01,2025,Junior High Undergraduate,4831,652,Junior High,Undergraduate
+2025-09-01,2025,Senior High Undergraduate,431,54,Senior High,Undergraduate
+2025-09-01,2025,Post Secondary Undergraduate,37,2,Post-Secondary,Undergraduate
+2025-09-01,2025,College Undergraduate,4726,458,College,Undergraduate
+2025-10-01,2025,Elementary Undergraduate,4615,788,Elementary,Undergraduate
+2025-10-01,2025,Junior High Undergraduate,4686,710,Junior High,Undergraduate
+2025-10-01,2025,Senior High Undergraduate,343,36,Senior High,Undergraduate
+2025-10-01,2025,Post Secondary Undergraduate,40,6,Post-Secondary,Undergraduate
+2025-10-01,2025,College Undergraduate,4572,464,College,Undergraduate
+2025-11-01,2025,Elementary Undergraduate,4494,844,Elementary,Undergraduate
+2025-11-01,2025,Junior High Undergraduate,5024,659,Junior High,Undergraduate
+2025-11-01,2025,Senior High Undergraduate,359,54,Senior High,Undergraduate
+2025-11-01,2025,Post Secondary Undergraduate,51,11,Post-Secondary,Undergraduate
+2025-11-01,2025,College Undergraduate,4432,362,College,Undergraduate
+2025-12-01,2025,Elementary Undergraduate,4198,594,Elementary,Undergraduate
+2025-12-01,2025,Junior High Undergraduate,4625,494,Junior High,Undergraduate
+2025-12-01,2025,Senior High Undergraduate,323,35,Senior High,Undergraduate
+2025-12-01,2025,Post Secondary Undergraduate,61,1,Post-Secondary,Undergraduate
+2025-12-01,2025,College Undergraduate,4664,283,College,Undergraduate
+2026-01-01,2026,Elementary Undergraduate,4662,932,Elementary,Undergraduate
+2026-01-01,2026,Junior High Undergraduate,4798,829,Junior High,Undergraduate
+2026-01-01,2026,Senior High Undergraduate,385,50,Senior High,Undergraduate
+2026-01-01,2026,Post Secondary Undergraduate,29,4,Post-Secondary,Undergraduate
+2026-01-01,2026,College Undergraduate,4570,514,College,Undergraduate
+2026-02-01,2026,Elementary Undergraduate,4276,734,Elementary,Undergraduate
+2026-02-01,2026,Junior High Undergraduate,4504,630,Junior High,Undergraduate
+2026-02-01,2026,Senior High Undergraduate,396,54,Senior High,Undergraduate
+2026-02-01,2026,Post Secondary Undergraduate,27,15,Post-Secondary,Undergraduate
+2026-02-01,2026,College Undergraduate,4514,502,College,Undergraduate
+2026-03-01,2026,Elementary Undergraduate,4237,786,Elementary,Undergraduate
+2026-03-01,2026,Junior High Undergraduate,4776,802,Junior High,Undergraduate
+2026-03-01,2026,Senior High Undergraduate,409,51,Senior High,Undergraduate
+2026-03-01,2026,Post Secondary Undergraduate,67,11,Post-Secondary,Undergraduate
+2026-03-01,2026,College Undergraduate,4581,599,College,Undergraduate
+2026-04-01,2026,Elementary Undergraduate,4578,923,Elementary,Undergraduate
+2026-04-01,2026,Junior High Undergraduate,4726,827,Junior High,Undergraduate
+2026-04-01,2026,Senior High Undergraduate,488,81,Senior High,Undergraduate
+2026-04-01,2026,Post Secondary Undergraduate,56,16,Post-Secondary,Undergraduate
+2026-04-01,2026,College Undergraduate,4731,633,College,Undergraduate
+2026-05-01,2026,Elementary Undergraduate,4359,697,Elementary,Undergraduate
+2026-05-01,2026,Junior High Undergraduate,4886,731,Junior High,Undergraduate
+2026-05-01,2026,Senior High Undergraduate,444,64,Senior High,Undergraduate
+2026-05-01,2026,Post Secondary Undergraduate,44,14,Post-Secondary,Undergraduate
+2026-05-01,2026,College Undergraduate,5037,498,College,Undergraduate
+2026-06-01,2026,Elementary Undergraduate,4281,628,Elementary,Undergraduate
+2026-06-01,2026,Junior High Undergraduate,4778,729,Junior High,Undergraduate
+2026-06-01,2026,Senior High Undergraduate,414,34,Senior High,Undergraduate
+2026-06-01,2026,Post Secondary Undergraduate,43,19,Post-Secondary,Undergraduate
+2026-06-01,2026,College Undergraduate,5155,575,College,Undergraduate
+2023-01-01,2023,Elementary Graduate,5120,896,Elementary,Graduate
+2023-01-01,2023,Senior High Graduate,1149,155,Senior High,Graduate
+2023-01-01,2023,Post Secondary Graduate,1771,235,Post-Secondary,Graduate
+2023-01-01,2023,College Graduate,9643,759,College,Graduate
+2023-02-01,2023,Elementary Graduate,5503,892,Elementary,Graduate
+2023-02-01,2023,Senior High Graduate,1144,121,Senior High,Graduate
+2023-02-01,2023,Post Secondary Graduate,2290,322,Post-Secondary,Graduate
+2023-02-01,2023,College Graduate,9616,590,College,Graduate
+2023-03-01,2023,Elementary Graduate,5924,843,Elementary,Graduate
+2023-03-01,2023,Senior High Graduate,1163,89,Senior High,Graduate
+2023-03-01,2023,Post Secondary Graduate,2038,225,Post-Secondary,Graduate
+2023-03-01,2023,College Graduate,9305,560,College,Graduate
+2023-04-01,2023,Elementary Graduate,5467,874,Elementary,Graduate
+2023-04-01,2023,Senior High Graduate,1152,134,Senior High,Graduate
+2023-04-01,2023,Post Secondary Graduate,1787,290,Post-Secondary,Graduate
+2023-04-01,2023,College Graduate,9835,751,College,Graduate
+2023-05-01,2023,Elementary Graduate,5909,727,Elementary,Graduate
+2023-05-01,2023,Senior High Graduate,1159,180,Senior High,Graduate
+2023-05-01,2023,Post Secondary Graduate,2098,284,Post-Secondary,Graduate
+2023-05-01,2023,College Graduate,9440,581,College,Graduate
+2023-06-01,2023,Elementary Graduate,5567,793,Elementary,Graduate
+2023-06-01,2023,Senior High Graduate,1070,102,Senior High,Graduate
+2023-06-01,2023,Post Secondary Graduate,1892,288,Post-Secondary,Graduate
+2023-06-01,2023,College Graduate,9513,693,College,Graduate
+2023-07-01,2023,Elementary Graduate,4804,901,Elementary,Graduate
+2023-07-01,2023,Senior High Graduate,955,155,Senior High,Graduate
+2023-07-01,2023,Post Secondary Graduate,1419,233,Post-Secondary,Graduate
+2023-07-01,2023,College Graduate,9041,848,College,Graduate
+2023-08-01,2023,Elementary Graduate,5895,960,Elementary,Graduate
+2023-08-01,2023,Senior High Graduate,1198,131,Senior High,Graduate
+2023-08-01,2023,Post Secondary Graduate,1670,192,Post-Secondary,Graduate
+2023-08-01,2023,College Graduate,9307,612,College,Graduate
+2023-09-01,2023,Elementary Graduate,5434,723,Elementary,Graduate
+2023-09-01,2023,Senior High Graduate,1121,73,Senior High,Graduate
+2023-09-01,2023,Post Secondary Graduate,1709,227,Post-Secondary,Graduate
+2023-09-01,2023,College Graduate,10027,622,College,Graduate
+2023-10-01,2023,Elementary Graduate,5224,760,Elementary,Graduate
+2023-10-01,2023,Senior High Graduate,1082,112,Senior High,Graduate
+2023-10-01,2023,Post Secondary Graduate,1487,173,Post-Secondary,Graduate
+2023-10-01,2023,College Graduate,10094,671,College,Graduate
+2023-11-01,2023,Elementary Graduate,6123,738,Elementary,Graduate
+2023-11-01,2023,Senior High Graduate,1299,161,Senior High,Graduate
+2023-11-01,2023,Post Secondary Graduate,1445,181,Post-Secondary,Graduate
+2023-11-01,2023,College Graduate,9515,813,College,Graduate
+2023-12-01,2023,Elementary Graduate,6228,924,Elementary,Graduate
+2023-12-01,2023,Senior High Graduate,1305,140,Senior High,Graduate
+2023-12-01,2023,Post Secondary Graduate,1604,165,Post-Secondary,Graduate
+2023-12-01,2023,College Graduate,9821,591,College,Graduate
+2024-01-01,2024,Elementary Graduate,4988,854,Elementary,Graduate
+2024-01-01,2024,Senior High Graduate,1091,150,Senior High,Graduate
+2024-01-01,2024,Post Secondary Graduate,1418,176,Post-Secondary,Graduate
+2024-01-01,2024,College Graduate,9452,723,College,Graduate
+2024-02-01,2024,Elementary Graduate,5235,803,Elementary,Graduate
+2024-02-01,2024,Senior High Graduate,1259,162,Senior High,Graduate
+2024-02-01,2024,Post Secondary Graduate,1756,222,Post-Secondary,Graduate
+2024-02-01,2024,College Graduate,9640,714,College,Graduate
+2024-03-01,2024,Elementary Graduate,5331,751,Elementary,Graduate
+2024-03-01,2024,Senior High Graduate,1196,151,Senior High,Graduate
+2024-03-01,2024,Post Secondary Graduate,1624,132,Post-Secondary,Graduate
+2024-03-01,2024,College Graduate,10750,615,College,Graduate
+2024-04-01,2024,Elementary Graduate,5426,945,Elementary,Graduate
+2024-04-01,2024,Senior High Graduate,1315,205,Senior High,Graduate
+2024-04-01,2024,Post Secondary Graduate,1550,257,Post-Secondary,Graduate
+2024-04-01,2024,College Graduate,9617,862,College,Graduate
+2024-05-01,2024,Elementary Graduate,5690,634,Elementary,Graduate
+2024-05-01,2024,Senior High Graduate,1239,135,Senior High,Graduate
+2024-05-01,2024,Post Secondary Graduate,1618,194,Post-Secondary,Graduate
+2024-05-01,2024,College Graduate,9403,554,College,Graduate
+2024-06-01,2024,Elementary Graduate,5868,888,Elementary,Graduate
+2024-06-01,2024,Senior High Graduate,1432,176,Senior High,Graduate
+2024-06-01,2024,Post Secondary Graduate,1611,180,Post-Secondary,Graduate
+2024-06-01,2024,College Graduate,9608,634,College,Graduate
+2024-07-01,2024,Elementary Graduate,5198,735,Elementary,Graduate
+2024-07-01,2024,Senior High Graduate,1477,177,Senior High,Graduate
+2024-07-01,2024,Post Secondary Graduate,1576,204,Post-Secondary,Graduate
+2024-07-01,2024,College Graduate,9466,750,College,Graduate
+2024-08-01,2024,Elementary Graduate,5145,690,Elementary,Graduate
+2024-08-01,2024,Senior High Graduate,1415,169,Senior High,Graduate
+2024-08-01,2024,Post Secondary Graduate,1619,227,Post-Secondary,Graduate
+2024-08-01,2024,College Graduate,10209,743,College,Graduate
+2024-09-01,2024,Elementary Graduate,5342,811,Elementary,Graduate
+2024-09-01,2024,Senior High Graduate,1465,196,Senior High,Graduate
+2024-09-01,2024,Post Secondary Graduate,1815,273,Post-Secondary,Graduate
+2024-09-01,2024,College Graduate,10693,908,College,Graduate
+2024-10-01,2024,Elementary Graduate,5367,818,Elementary,Graduate
+2024-10-01,2024,Senior High Graduate,1159,131,Senior High,Graduate
+2024-10-01,2024,Post Secondary Graduate,1433,214,Post-Secondary,Graduate
+2024-10-01,2024,College Graduate,10374,789,College,Graduate
+2024-11-01,2024,Elementary Graduate,5526,731,Elementary,Graduate
+2024-11-01,2024,Senior High Graduate,1520,203,Senior High,Graduate
+2024-11-01,2024,Post Secondary Graduate,1627,240,Post-Secondary,Graduate
+2024-11-01,2024,College Graduate,9825,620,College,Graduate
+2024-12-01,2024,Elementary Graduate,5600,677,Elementary,Graduate
+2024-12-01,2024,Senior High Graduate,1468,126,Senior High,Graduate
+2024-12-01,2024,Post Secondary Graduate,1653,237,Post-Secondary,Graduate
+2024-12-01,2024,College Graduate,9879,859,College,Graduate
+2025-01-01,2025,Elementary Graduate,5273,948,Elementary,Graduate
+2025-01-01,2025,Senior High Graduate,1350,178,Senior High,Graduate
+2025-01-01,2025,Post Secondary Graduate,1582,193,Post-Secondary,Graduate
+2025-01-01,2025,College Graduate,9969,709,College,Graduate
+2025-02-01,2025,Elementary Graduate,5285,640,Elementary,Graduate
+2025-02-01,2025,Senior High Graduate,1423,124,Senior High,Graduate
+2025-02-01,2025,Post Secondary Graduate,1740,204,Post-Secondary,Graduate
+2025-02-01,2025,College Graduate,10245,589,College,Graduate
+2025-03-01,2025,Elementary Graduate,5095,803,Elementary,Graduate
+2025-03-01,2025,Senior High Graduate,1480,229,Senior High,Graduate
+2025-03-01,2025,Post Secondary Graduate,1893,253,Post-Secondary,Graduate
+2025-03-01,2025,College Graduate,10061,711,College,Graduate
+2025-04-01,2025,Elementary Graduate,5240,925,Elementary,Graduate
+2025-04-01,2025,Senior High Graduate,1456,210,Senior High,Graduate
+2025-04-01,2025,Post Secondary Graduate,1599,267,Post-Secondary,Graduate
+2025-04-01,2025,College Graduate,10108,917,College,Graduate
+2025-05-01,2025,Elementary Graduate,5356,786,Elementary,Graduate
+2025-05-01,2025,Senior High Graduate,1748,188,Senior High,Graduate
+2025-05-01,2025,Post Secondary Graduate,2184,296,Post-Secondary,Graduate
+2025-05-01,2025,College Graduate,10718,718,College,Graduate
+2025-06-01,2025,Elementary Graduate,5631,822,Elementary,Graduate
+2025-06-01,2025,Senior High Graduate,1720,135,Senior High,Graduate
+2025-06-01,2025,Post Secondary Graduate,1905,287,Post-Secondary,Graduate
+2025-06-01,2025,College Graduate,10500,751,College,Graduate
+2025-07-01,2025,Elementary Graduate,4673,865,Elementary,Graduate
+2025-07-01,2025,Senior High Graduate,1413,210,Senior High,Graduate
+2025-07-01,2025,Post Secondary Graduate,1405,212,Post-Secondary,Graduate
+2025-07-01,2025,College Graduate,10245,908,College,Graduate
+2025-08-01,2025,Elementary Graduate,5468,781,Elementary,Graduate
+2025-08-01,2025,Senior High Graduate,1687,193,Senior High,Graduate
+2025-08-01,2025,Post Secondary Graduate,1603,194,Post-Secondary,Graduate
+2025-08-01,2025,College Graduate,10414,575,College,Graduate
+2025-09-01,2025,Elementary Graduate,5668,766,Elementary,Graduate
+2025-09-01,2025,Senior High Graduate,1460,140,Senior High,Graduate
+2025-09-01,2025,Post Secondary Graduate,1628,195,Post-Secondary,Graduate
+2025-09-01,2025,College Graduate,10773,690,College,Graduate
+2025-10-01,2025,Elementary Graduate,5099,794,Elementary,Graduate
+2025-10-01,2025,Senior High Graduate,1554,183,Senior High,Graduate
+2025-10-01,2025,Post Secondary Graduate,1543,183,Post-Secondary,Graduate
+2025-10-01,2025,College Graduate,10631,704,College,Graduate
+2025-11-01,2025,Elementary Graduate,5538,793,Elementary,Graduate
+2025-11-01,2025,Senior High Graduate,1550,132,Senior High,Graduate
+2025-11-01,2025,Post Secondary Graduate,1798,175,Post-Secondary,Graduate
+2025-11-01,2025,College Graduate,11034,621,College,Graduate
+2025-12-01,2025,Elementary Graduate,5626,542,Elementary,Graduate
+2025-12-01,2025,Senior High Graduate,1724,126,Senior High,Graduate
+2025-12-01,2025,Post Secondary Graduate,1535,100,Post-Secondary,Graduate
+2025-12-01,2025,College Graduate,11165,485,College,Graduate
+2026-01-01,2026,Elementary Graduate,4744,834,Elementary,Graduate
+2026-01-01,2026,Senior High Graduate,1671,217,Senior High,Graduate
+2026-01-01,2026,Post Secondary Graduate,1558,203,Post-Secondary,Graduate
+2026-01-01,2026,College Graduate,10868,785,College,Graduate
+2026-02-01,2026,Elementary Graduate,5002,732,Elementary,Graduate
+2026-02-01,2026,Senior High Graduate,1710,227,Senior High,Graduate
+2026-02-01,2026,Post Secondary Graduate,1945,276,Post-Secondary,Graduate
+2026-02-01,2026,College Graduate,11185,810,College,Graduate
+2026-03-01,2026,Elementary Graduate,4952,676,Elementary,Graduate
+2026-03-01,2026,Senior High Graduate,1804,208,Senior High,Graduate
+2026-03-01,2026,Post Secondary Graduate,1589,254,Post-Secondary,Graduate
+2026-03-01,2026,College Graduate,10993,676,College,Graduate
+2026-04-01,2026,Elementary Graduate,4973,965,Elementary,Graduate
+2026-04-01,2026,Senior High Graduate,2035,309,Senior High,Graduate
+2026-04-01,2026,Post Secondary Graduate,1589,254,Post-Secondary,Graduate
+2026-04-01,2026,College Graduate,10874,1123,College,Graduate
+2026-05-01,2026,Elementary Graduate,4955,705,Elementary,Graduate
+2026-05-01,2026,Senior High Graduate,1987,238,Senior High,Graduate
+2026-05-01,2026,Post Secondary Graduate,1784,276,Post-Secondary,Graduate
+2026-05-01,2026,College Graduate,10797,940,College,Graduate
+2026-06-01,2026,Elementary Graduate,5253,705,Elementary,Graduate
+2026-06-01,2026,Senior High Graduate,2033,194,Senior High,Graduate
+2026-06-01,2026,Post Secondary Graduate,1959,213,Post-Secondary,Graduate
+2026-06-01,2026,College Graduate,11281,1051,College,Graduate
+2023-01-01,2023,Junior High Completed,14016,2064,Junior High,Completed
+2023-02-01,2023,Junior High Completed,14187,1926,Junior High,Completed
+2023-03-01,2023,Junior High Completed,13978,1609,Junior High,Completed
+2023-04-01,2023,Junior High Completed,13891,1813,Junior High,Completed
+2023-05-01,2023,Junior High Completed,13875,1837,Junior High,Completed
+2023-06-01,2023,Junior High Completed,14192,1813,Junior High,Completed
+2023-07-01,2023,Junior High Completed,13003,2053,Junior High,Completed
+2023-08-01,2023,Junior High Completed,14202,1580,Junior High,Completed
+2023-09-01,2023,Junior High Completed,14367,1603,Junior High,Completed
+2023-10-01,2023,Junior High Completed,14327,1684,Junior High,Completed
+2023-11-01,2023,Junior High Completed,14882,1732,Junior High,Completed
+2023-12-01,2023,Junior High Completed,15563,1814,Junior High,Completed
+2024-01-01,2024,Junior High Completed,13572,1842,Junior High,Completed
+2024-02-01,2024,Junior High Completed,15531,1885,Junior High,Completed
+2024-03-01,2024,Junior High Completed,14567,1646,Junior High,Completed
+2024-04-01,2024,Junior High Completed,15040,2244,Junior High,Completed
+2024-05-01,2024,Junior High Completed,15230,1469,Junior High,Completed
+2024-06-01,2024,Junior High Completed,15869,1983,Junior High,Completed
+2024-07-01,2024,Junior High Completed,14134,1707,Junior High,Completed
+2024-08-01,2024,Junior High Completed,15844,1855,Junior High,Completed
+2024-09-01,2024,Junior High Completed,15423,1748,Junior High,Completed
+2024-10-01,2024,Junior High Completed,14930,1895,Junior High,Completed
+2024-11-01,2024,Junior High Completed,15837,1698,Junior High,Completed
+2024-12-01,2024,Junior High Completed,16054,1676,Junior High,Completed
+2025-01-01,2025,Junior High Completed,15150,2071,Junior High,Completed
+2025-02-01,2025,Junior High Completed,15599,1774,Junior High,Completed
+2025-03-01,2025,Junior High Completed,14592,2034,Junior High,Completed
+2025-04-01,2025,Junior High Completed,15143,2273,Junior High,Completed
+2025-05-01,2025,Junior High Completed,14991,2235,Junior High,Completed
+2025-06-01,2025,Junior High Completed,15033,1693,Junior High,Completed
+2025-07-01,2025,Junior High Completed,13769,1999,Junior High,Completed
+2025-08-01,2025,Junior High Completed,15646,1656,Junior High,Completed
+2025-09-01,2025,Junior High Completed,14942,1834,Junior High,Completed
+2025-10-01,2025,Junior High Completed,15072,1854,Junior High,Completed
+2025-11-01,2025,Junior High Completed,14587,1380,Junior High,Completed
+2025-12-01,2025,Junior High Completed,15043,1220,Junior High,Completed
+2026-01-01,2026,Junior High Completed,14141,1882,Junior High,Completed
+2026-02-01,2026,Junior High Completed,15466,1754,Junior High,Completed
+2026-03-01,2026,Junior High Completed,15233,1872,Junior High,Completed
+2026-04-01,2026,Junior High Completed,14360,2181,Junior High,Completed
+2026-05-01,2026,Junior High Completed,15020,1823,Junior High,Completed
+2026-06-01,2026,Junior High Completed,15103,1884,Junior High,Completed

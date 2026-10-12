@@ -1,0 +1,441 @@
+Date,Year,Occupation,Employed Count,Classification System
+2005-04-01,2005,Officials of the government,3943,1992 PSOC
+2005-04-01,2005,Professional,1385,1992 PSOC
+2005-04-01,2005,Technicians & Associate Professionals,892,1992 PSOC
+2005-04-01,2005,Clerks,1461,1992 PSOC
+2005-04-01,2005,Service Workers and Shop,3116,1992 PSOC
+2005-04-01,2005,Farmers forestry,5923,1992 PSOC
+2005-04-01,2005,Trades & related,3060,1992 PSOC
+2005-04-01,2005,Plant & machine,2379,1992 PSOC
+2005-04-01,2005,Laborers & Unskilled,9910,1992 PSOC
+2005-04-01,2005,Special Occupations,153,1992 PSOC
+2005-07-01,2005,Officials of the government,3751,1992 PSOC
+2005-07-01,2005,Professional,1421,1992 PSOC
+2005-07-01,2005,Technicians & Associate Professionals,827,1992 PSOC
+2005-07-01,2005,Clerks,1484,1992 PSOC
+2005-07-01,2005,Service Workers and Shop,2963,1992 PSOC
+2005-07-01,2005,Farmers forestry,6279,1992 PSOC
+2005-07-01,2005,Trades & related,2836,1992 PSOC
+2005-07-01,2005,Plant & machine,2430,1992 PSOC
+2005-07-01,2005,Laborers & Unskilled,10396,1992 PSOC
+2005-07-01,2005,Special Occupations,135,1992 PSOC
+2005-10-01,2005,Officials of the government,3767,1992 PSOC
+2005-10-01,2005,Professional,1391,1992 PSOC
+2005-10-01,2005,Technicians & Associate Professionals,871,1992 PSOC
+2005-10-01,2005,Clerks,1465,1992 PSOC
+2005-10-01,2005,Service Workers and Shop,3042,1992 PSOC
+2005-10-01,2005,Farmers forestry,6268,1992 PSOC
+2005-10-01,2005,Trades & related,2767,1992 PSOC
+2005-10-01,2005,Plant & machine,2553,1992 PSOC
+2005-10-01,2005,Laborers & Unskilled,10612,1992 PSOC
+2005-10-01,2005,Special Occupations,139,1992 PSOC
+2006-01-01,2006,Officials of the government,3663,1992 PSOC
+2006-01-01,2006,Professional,1392,1992 PSOC
+2006-01-01,2006,Technicians & Associate Professionals,856,1992 PSOC
+2006-01-01,2006,Clerks,1418,1992 PSOC
+2006-01-01,2006,Service Workers and Shop,3012,1992 PSOC
+2006-01-01,2006,Farmers forestry,6233,1992 PSOC
+2006-01-01,2006,Trades & related,2768,1992 PSOC
+2006-01-01,2006,Plant & machine,2484,1992 PSOC
+2006-01-01,2006,Laborers & Unskilled,10055,1992 PSOC
+2006-01-01,2006,Special Occupations,149,1992 PSOC
+2006-04-01,2006,Officials of the government,3883,1992 PSOC
+2006-04-01,2006,Professional,1422,1992 PSOC
+2006-04-01,2006,Technicians & Associate Professionals,867,1992 PSOC
+2006-04-01,2006,Clerks,1532,1992 PSOC
+2006-04-01,2006,Service Workers and Shop,3191,1992 PSOC
+2006-04-01,2006,Farmers forestry,6049,1992 PSOC
+2006-04-01,2006,Trades & related,2981,1992 PSOC
+2006-04-01,2006,Plant & machine,2466,1992 PSOC
+2006-04-01,2006,Laborers & Unskilled,10151,1992 PSOC
+2006-04-01,2006,Special Occupations,156,1992 PSOC
+2006-07-01,2006,Officials of the government,3900,1992 PSOC
+2006-07-01,2006,Professional,1387,1992 PSOC
+2006-07-01,2006,Technicians & Associate Professionals,896,1992 PSOC
+2006-07-01,2006,Clerks,1524,1992 PSOC
+2006-07-01,2006,Service Workers and Shop,3115,1992 PSOC
+2006-07-01,2006,Farmers forestry,6034,1992 PSOC
+2006-07-01,2006,Trades & related,2782,1992 PSOC
+2006-07-01,2006,Plant & machine,2490,1992 PSOC
+2006-07-01,2006,Laborers & Unskilled,10658,1992 PSOC
+2006-07-01,2006,Special Occupations,141,1992 PSOC
+2006-10-01,2006,Officials of the government,3797,1992 PSOC
+2006-10-01,2006,Professional,1416,1992 PSOC
+2006-10-01,2006,Technicians & Associate Professionals,899,1992 PSOC
+2006-10-01,2006,Clerks,1544,1992 PSOC
+2006-10-01,2006,Service Workers and Shop,3167,1992 PSOC
+2006-10-01,2006,Farmers forestry,6191,1992 PSOC
+2006-10-01,2006,Trades & related,2682,1992 PSOC
+2006-10-01,2006,Plant & machine,2538,1992 PSOC
+2006-10-01,2006,Laborers & Unskilled,10507,1992 PSOC
+2006-10-01,2006,Special Occupations,144,1992 PSOC
+2007-01-01,2007,Officials of the government,4051,1992 PSOC
+2007-01-01,2007,Professional,1454,1992 PSOC
+2007-01-01,2007,Technicians & Associate Professionals,919,1992 PSOC
+2007-01-01,2007,Clerks,1647,1992 PSOC
+2007-01-01,2007,Service Workers and Shop,3281,1992 PSOC
+2007-01-01,2007,Farmers forestry,5913,1992 PSOC
+2007-01-01,2007,Trades & related,2710,1992 PSOC
+2007-01-01,2007,Plant & machine,2588,1992 PSOC
+2007-01-01,2007,Laborers & Unskilled,10838,1992 PSOC
+2007-01-01,2007,Special Occupations,144,1992 PSOC
+2007-04-01,2007,Officials of the government,3958,1992 PSOC
+2007-04-01,2007,Professional,1422,1992 PSOC
+2007-04-01,2007,Technicians & Associate Professionals,911,1992 PSOC
+2007-04-01,2007,Clerks,1606,1992 PSOC
+2007-04-01,2007,Service Workers and Shop,3298,1992 PSOC
+2007-04-01,2007,Farmers forestry,6046,1992 PSOC
+2007-04-01,2007,Trades & related,2826,1992 PSOC
+2007-04-01,2007,Plant & machine,2592,1992 PSOC
+2007-04-01,2007,Laborers & Unskilled,10905,1992 PSOC
+2007-04-01,2007,Special Occupations,140,1992 PSOC
+2007-07-01,2007,Officials of the government,4005,1992 PSOC
+2007-07-01,2007,Professional,1435,1992 PSOC
+2007-07-01,2007,Technicians & Associate Professionals,914,1992 PSOC
+2007-07-01,2007,Clerks,1665,1992 PSOC
+2007-07-01,2007,Service Workers and Shop,3271,1992 PSOC
+2007-07-01,2007,Farmers forestry,6003,1992 PSOC
+2007-07-01,2007,Trades & related,2897,1992 PSOC
+2007-07-01,2007,Plant & machine,2508,1992 PSOC
+2007-07-01,2007,Laborers & Unskilled,10485,1992 PSOC
+2007-07-01,2007,Special Occupations,135,1992 PSOC
+2007-10-01,2007,Officials of the government,3817,1992 PSOC
+2007-10-01,2007,Professional,1503,1992 PSOC
+2007-10-01,2007,Technicians & Associate Professionals,887,1992 PSOC
+2007-10-01,2007,Clerks,1691,1992 PSOC
+2007-10-01,2007,Service Workers and Shop,3141,1992 PSOC
+2007-10-01,2007,Farmers forestry,6314,1992 PSOC
+2007-10-01,2007,Trades & related,2812,1992 PSOC
+2007-10-01,2007,Plant & machine,2603,1992 PSOC
+2007-10-01,2007,Laborers & Unskilled,10768,1992 PSOC
+2007-10-01,2007,Special Occupations,134,1992 PSOC
+2008-01-01,2008,Officials of the government,3997,1992 PSOC
+2008-01-01,2008,Professional,1523,1992 PSOC
+2008-01-01,2008,Technicians & Associate Professionals,878,1992 PSOC
+2008-01-01,2008,Clerks,1735,1992 PSOC
+2008-01-01,2008,Service Workers and Shop,3306,1992 PSOC
+2008-01-01,2008,Farmers forestry,6115,1992 PSOC
+2008-01-01,2008,Trades & related,2759,1992 PSOC
+2008-01-01,2008,Plant & machine,2605,1992 PSOC
+2008-01-01,2008,Laborers & Unskilled,10636,1992 PSOC
+2008-01-01,2008,Special Occupations,138,1992 PSOC
+2008-04-01,2008,Officials of the government,4481,1992 PSOC
+2008-04-01,2008,Professional,1471,1992 PSOC
+2008-04-01,2008,Technicians & Associate Professionals,858,1992 PSOC
+2008-04-01,2008,Clerks,1677,1992 PSOC
+2008-04-01,2008,Service Workers and Shop,3352,1992 PSOC
+2008-04-01,2008,Farmers forestry,5699,1992 PSOC
+2008-04-01,2008,Trades & related,2683,1992 PSOC
+2008-04-01,2008,Plant & machine,2213,1992 PSOC
+2008-04-01,2008,Laborers & Unskilled,10965,1992 PSOC
+2008-04-01,2008,Special Occupations,137,1992 PSOC
+2008-07-01,2008,Officials of the government,4529,1992 PSOC
+2008-07-01,2008,Professional,1524,1992 PSOC
+2008-07-01,2008,Technicians & Associate Professionals,885,1992 PSOC
+2008-07-01,2008,Clerks,1706,1992 PSOC
+2008-07-01,2008,Service Workers and Shop,3474,1992 PSOC
+2008-07-01,2008,Farmers forestry,6057,1992 PSOC
+2008-07-01,2008,Trades & related,2758,1992 PSOC
+2008-07-01,2008,Plant & machine,2251,1992 PSOC
+2008-07-01,2008,Laborers & Unskilled,11245,1992 PSOC
+2008-07-01,2008,Special Occupations,165,1992 PSOC
+2008-10-01,2008,Officials of the government,4300,1992 PSOC
+2008-10-01,2008,Professional,1585,1992 PSOC
+2008-10-01,2008,Technicians & Associate Professionals,882,1992 PSOC
+2008-10-01,2008,Clerks,1743,1992 PSOC
+2008-10-01,2008,Service Workers and Shop,3445,1992 PSOC
+2008-10-01,2008,Farmers forestry,6127,1992 PSOC
+2008-10-01,2008,Trades & related,2721,1992 PSOC
+2008-10-01,2008,Plant & machine,2345,1992 PSOC
+2008-10-01,2008,Laborers & Unskilled,11239,1992 PSOC
+2008-10-01,2008,Special Occupations,148,1992 PSOC
+2009-01-01,2009,Officials of the government,4531,1992 PSOC
+2009-01-01,2009,Professional,1608,1992 PSOC
+2009-01-01,2009,Technicians & Associate Professionals,923,1992 PSOC
+2009-01-01,2009,Clerks,1776,1992 PSOC
+2009-01-01,2009,Service Workers and Shop,3606,1992 PSOC
+2009-01-01,2009,Farmers forestry,5911,1992 PSOC
+2009-01-01,2009,Trades & related,2573,1992 PSOC
+2009-01-01,2009,Plant & machine,2272,1992 PSOC
+2009-01-01,2009,Laborers & Unskilled,10923,1992 PSOC
+2009-01-01,2009,Special Occupations,138,1992 PSOC
+2009-04-01,2009,Officials of the government,4662,1992 PSOC
+2009-04-01,2009,Professional,1584,1992 PSOC
+2009-04-01,2009,Technicians & Associate Professionals,906,1992 PSOC
+2009-04-01,2009,Clerks,1899,1992 PSOC
+2009-04-01,2009,Service Workers and Shop,3617,1992 PSOC
+2009-04-01,2009,Farmers forestry,5939,1992 PSOC
+2009-04-01,2009,Trades & related,2704,1992 PSOC
+2009-04-01,2009,Plant & machine,2153,1992 PSOC
+2009-04-01,2009,Laborers & Unskilled,11387,1992 PSOC
+2009-04-01,2009,Special Occupations,145,1992 PSOC
+2009-07-01,2009,Officials of the government,4899,1992 PSOC
+2009-07-01,2009,Professional,1599,1992 PSOC
+2009-07-01,2009,Technicians & Associate Professionals,923,1992 PSOC
+2009-07-01,2009,Clerks,1819,1992 PSOC
+2009-07-01,2009,Service Workers and Shop,3729,1992 PSOC
+2009-07-01,2009,Farmers forestry,5733,1992 PSOC
+2009-07-01,2009,Trades & related,2766,1992 PSOC
+2009-07-01,2009,Plant & machine,2183,1992 PSOC
+2009-07-01,2009,Laborers & Unskilled,11711,1992 PSOC
+2009-07-01,2009,Special Occupations,152,1992 PSOC
+2009-10-01,2009,Officials of the government,4794,1992 PSOC
+2009-10-01,2009,Professional,1641,1992 PSOC
+2009-10-01,2009,Technicians & Associate Professionals,977,1992 PSOC
+2009-10-01,2009,Clerks,1944,1992 PSOC
+2009-10-01,2009,Service Workers and Shop,3735,1992 PSOC
+2009-10-01,2009,Farmers forestry,5815,1992 PSOC
+2009-10-01,2009,Trades & related,2608,1992 PSOC
+2009-10-01,2009,Plant & machine,2268,1992 PSOC
+2009-10-01,2009,Laborers & Unskilled,11530,1992 PSOC
+2009-10-01,2009,Special Occupations,165,1992 PSOC
+2010-01-01,2010,Officials of the government,5219,1992 PSOC
+2010-01-01,2010,Professional,1600,1992 PSOC
+2010-01-01,2010,Technicians & Associate Professionals,979,1992 PSOC
+2010-01-01,2010,Clerks,1916,1992 PSOC
+2010-01-01,2010,Service Workers and Shop,3854,1992 PSOC
+2010-01-01,2010,Farmers forestry,5535,1992 PSOC
+2010-01-01,2010,Trades & related,2769,1992 PSOC
+2010-01-01,2010,Plant & machine,2207,1992 PSOC
+2010-01-01,2010,Laborers & Unskilled,11761,1992 PSOC
+2010-01-01,2010,Special Occupations,161,1992 PSOC
+2010-04-01,2010,Officials of the government,4800,1992 PSOC
+2010-04-01,2010,Professional,1720,1992 PSOC
+2010-04-01,2010,Technicians & Associate Professionals,925,1992 PSOC
+2010-04-01,2010,Clerks,1971,1992 PSOC
+2010-04-01,2010,Service Workers and Shop,3768,1992 PSOC
+2010-04-01,2010,Farmers forestry,5540,1992 PSOC
+2010-04-01,2010,Trades & related,2846,1992 PSOC
+2010-04-01,2010,Plant & machine,2269,1992 PSOC
+2010-04-01,2010,Laborers & Unskilled,11410,1992 PSOC
+2010-04-01,2010,Special Occupations,163,1992 PSOC
+2010-07-01,2010,Officials of the government,4968,1992 PSOC
+2010-07-01,2010,Professional,1716,1992 PSOC
+2010-07-01,2010,Technicians & Associate Professionals,946,1992 PSOC
+2010-07-01,2010,Clerks,2087,1992 PSOC
+2010-07-01,2010,Service Workers and Shop,3758,1992 PSOC
+2010-07-01,2010,Farmers forestry,6012,1992 PSOC
+2010-07-01,2010,Trades & related,2850,1992 PSOC
+2010-07-01,2010,Plant & machine,2256,1992 PSOC
+2010-07-01,2010,Laborers & Unskilled,11507,1992 PSOC
+2010-07-01,2010,Special Occupations,137,1992 PSOC
+2010-10-01,2010,Officials of the government,4928,1992 PSOC
+2010-10-01,2010,Professional,1706,1992 PSOC
+2010-10-01,2010,Technicians & Associate Professionals,965,1992 PSOC
+2010-10-01,2010,Clerks,2040,1992 PSOC
+2010-10-01,2010,Service Workers and Shop,3971,1992 PSOC
+2010-10-01,2010,Farmers forestry,5900,1992 PSOC
+2010-10-01,2010,Trades & related,2704,1992 PSOC
+2010-10-01,2010,Plant & machine,2302,1992 PSOC
+2010-10-01,2010,Laborers & Unskilled,11809,1992 PSOC
+2010-10-01,2010,Special Occupations,162,1992 PSOC
+2011-01-01,2011,Officials of the government,5114,1992 PSOC
+2011-01-01,2011,Professional,1674,1992 PSOC
+2011-01-01,2011,Technicians & Associate Professionals,955,1992 PSOC
+2011-01-01,2011,Clerks,2051,1992 PSOC
+2011-01-01,2011,Service Workers and Shop,4068,1992 PSOC
+2011-01-01,2011,Farmers forestry,5795,1992 PSOC
+2011-01-01,2011,Trades & related,2705,1992 PSOC
+2011-01-01,2011,Plant & machine,2244,1992 PSOC
+2011-01-01,2011,Laborers & Unskilled,11514,1992 PSOC
+2011-01-01,2011,Special Occupations,173,1992 PSOC
+2011-04-01,2011,Officials of the government,5106,1992 PSOC
+2011-04-01,2011,Professional,1752,1992 PSOC
+2011-04-01,2011,Technicians & Associate Professionals,981,1992 PSOC
+2011-04-01,2011,Clerks,2127,1992 PSOC
+2011-04-01,2011,Service Workers and Shop,3998,1992 PSOC
+2011-04-01,2011,Farmers forestry,5633,1992 PSOC
+2011-04-01,2011,Trades & related,2793,1992 PSOC
+2011-04-01,2011,Plant & machine,2212,1992 PSOC
+2011-04-01,2011,Laborers & Unskilled,12057,1992 PSOC
+2011-04-01,2011,Special Occupations,161,1992 PSOC
+2011-07-01,2011,Officials of the government,5281,1992 PSOC
+2011-07-01,2011,Professional,1737,1992 PSOC
+2011-07-01,2011,Technicians & Associate Professionals,988,1992 PSOC
+2011-07-01,2011,Clerks,2154,1992 PSOC
+2011-07-01,2011,Service Workers and Shop,4019,1992 PSOC
+2011-07-01,2011,Farmers forestry,5631,1992 PSOC
+2011-07-01,2011,Trades & related,2805,1992 PSOC
+2011-07-01,2011,Plant & machine,2233,1992 PSOC
+2011-07-01,2011,Laborers & Unskilled,12110,1992 PSOC
+2011-07-01,2011,Special Occupations,147,1992 PSOC
+2011-10-01,2011,Officials of the government,5366,1992 PSOC
+2011-10-01,2011,Professional,1765,1992 PSOC
+2011-10-01,2011,Technicians & Associate Professionals,1016,1992 PSOC
+2011-10-01,2011,Clerks,2105,1992 PSOC
+2011-10-01,2011,Service Workers and Shop,4479,1992 PSOC
+2011-10-01,2011,Farmers forestry,5800,1992 PSOC
+2011-10-01,2011,Trades & related,2775,1992 PSOC
+2011-10-01,2011,Plant & machine,2291,1992 PSOC
+2011-10-01,2011,Laborers & Unskilled,12790,1992 PSOC
+2011-10-01,2011,Special Occupations,164,1992 PSOC
+2012-01-01,2012,Officials of the government,5397,1992 PSOC
+2012-01-01,2012,Professional,1827,1992 PSOC
+2012-01-01,2012,Technicians & Associate Professionals,1018,1992 PSOC
+2012-01-01,2012,Clerks,2145,1992 PSOC
+2012-01-01,2012,Service Workers and Shop,4599,1992 PSOC
+2012-01-01,2012,Farmers forestry,5681,1992 PSOC
+2012-01-01,2012,Trades & related,2401,1992 PSOC
+2012-01-01,2012,Plant & machine,1952,1992 PSOC
+2012-01-01,2012,Laborers & Unskilled,12205,1992 PSOC
+2012-01-01,2012,Special Occupations,108,1992 PSOC
+2012-04-01,2012,Officials of the government,5560,1992 PSOC
+2012-04-01,2012,Professional,1800,1992 PSOC
+2012-04-01,2012,Technicians & Associate Professionals,1037,1992 PSOC
+2012-04-01,2012,Clerks,2086,1992 PSOC
+2012-04-01,2012,Service Workers and Shop,4442,1992 PSOC
+2012-04-01,2012,Farmers forestry,5398,1992 PSOC
+2012-04-01,2012,Trades & related,2626,1992 PSOC
+2012-04-01,2012,Plant & machine,2044,1992 PSOC
+2012-04-01,2012,Laborers & Unskilled,12722,1992 PSOC
+2012-04-01,2012,Special Occupations,126,1992 PSOC
+2012-07-01,2012,Officials of the government,5494,1992 PSOC
+2012-07-01,2012,Professional,1773,1992 PSOC
+2012-07-01,2012,Technicians & Associate Professionals,1105,1992 PSOC
+2012-07-01,2012,Clerks,2090,1992 PSOC
+2012-07-01,2012,Service Workers and Shop,4680,1992 PSOC
+2012-07-01,2012,Farmers forestry,4900,1992 PSOC
+2012-07-01,2012,Trades & related,2553,1992 PSOC
+2012-07-01,2012,Plant & machine,2138,1992 PSOC
+2012-07-01,2012,Laborers & Unskilled,12721,1992 PSOC
+2012-07-01,2012,Special Occupations,102,1992 PSOC
+2012-10-01,2012,Officials of the government,5981,1992 PSOC
+2012-10-01,2012,Professional,1828,1992 PSOC
+2012-10-01,2012,Technicians & Associate Professionals,958,1992 PSOC
+2012-10-01,2012,Clerks,2144,1992 PSOC
+2012-10-01,2012,Service Workers and Shop,4494,1992 PSOC
+2012-10-01,2012,Farmers forestry,5210,1992 PSOC
+2012-10-01,2012,Trades & related,2464,1992 PSOC
+2012-10-01,2012,Plant & machine,1923,1992 PSOC
+2012-10-01,2012,Laborers & Unskilled,12538,1992 PSOC
+2012-10-01,2012,Special Occupations,129,1992 PSOC
+2013-01-01,2013,Officials of the government,6104,1992 PSOC
+2013-01-01,2013,Professional,1871,1992 PSOC
+2013-01-01,2013,Technicians & Associate Professionals,1059,1992 PSOC
+2013-01-01,2013,Clerks,2171,1992 PSOC
+2013-01-01,2013,Service Workers and Shop,4792,1992 PSOC
+2013-01-01,2013,Farmers forestry,4808,1992 PSOC
+2013-01-01,2013,Trades & related,2567,1992 PSOC
+2013-01-01,2013,Plant & machine,1999,1992 PSOC
+2013-01-01,2013,Laborers & Unskilled,12475,1992 PSOC
+2013-01-01,2013,Special Occupations,93,1992 PSOC
+2013-04-01,2013,Officials of the government,6064,1992 PSOC
+2013-04-01,2013,Professional,1785,1992 PSOC
+2013-04-01,2013,Technicians & Associate Professionals,1025,1992 PSOC
+2013-04-01,2013,Clerks,2273,1992 PSOC
+2013-04-01,2013,Service Workers and Shop,4550,1992 PSOC
+2013-04-01,2013,Farmers forestry,4962,1992 PSOC
+2013-04-01,2013,Trades & related,2682,1992 PSOC
+2013-04-01,2013,Plant & machine,2019,1992 PSOC
+2013-04-01,2013,Laborers & Unskilled,12342,1992 PSOC
+2013-04-01,2013,Special Occupations,117,1992 PSOC
+2013-07-01,2013,Officials of the government,6309,1992 PSOC
+2013-07-01,2013,Professional,1906,1992 PSOC
+2013-07-01,2013,Technicians & Associate Professionals,974,1992 PSOC
+2013-07-01,2013,Clerks,2258,1992 PSOC
+2013-07-01,2013,Service Workers and Shop,4639,1992 PSOC
+2013-07-01,2013,Farmers forestry,5019,1992 PSOC
+2013-07-01,2013,Trades & related,2644,1992 PSOC
+2013-07-01,2013,Plant & machine,2021,1992 PSOC
+2013-07-01,2013,Laborers & Unskilled,12299,1992 PSOC
+2013-07-01,2013,Special Occupations,107,1992 PSOC
+2013-10-01,2013,Officials of the government,6215,1992 PSOC
+2013-10-01,2013,Professional,1933,1992 PSOC
+2013-10-01,2013,Technicians & Associate Professionals,927,1992 PSOC
+2013-10-01,2013,Clerks,2291,1992 PSOC
+2013-10-01,2013,Service Workers and Shop,4793,1992 PSOC
+2013-10-01,2013,Farmers forestry,5186,1992 PSOC
+2013-10-01,2013,Trades & related,2507,1992 PSOC
+2013-10-01,2013,Plant & machine,2071,1992 PSOC
+2013-10-01,2013,Laborers & Unskilled,12498,1992 PSOC
+2013-10-01,2013,Special Occupations,115,1992 PSOC
+2014-01-01,2014,Officials of the government,5996,1992 PSOC
+2014-01-01,2014,Professional,1848,1992 PSOC
+2014-01-01,2014,Technicians & Associate Professionals,954,1992 PSOC
+2014-01-01,2014,Clerks,2280,1992 PSOC
+2014-01-01,2014,Service Workers and Shop,4426,1992 PSOC
+2014-01-01,2014,Farmers forestry,5008,1992 PSOC
+2014-01-01,2014,Trades & related,2464,1992 PSOC
+2014-01-01,2014,Plant & machine,1922,1992 PSOC
+2014-01-01,2014,Laborers & Unskilled,11399,1992 PSOC
+2014-01-01,2014,Special Occupations,119,1992 PSOC
+2014-04-01,2014,Officials of the government,6191,1992 PSOC
+2014-04-01,2014,Professional,1876,1992 PSOC
+2014-04-01,2014,Technicians & Associate Professionals,1005,1992 PSOC
+2014-04-01,2014,Clerks,2378,1992 PSOC
+2014-04-01,2014,Service Workers and Shop,4850,1992 PSOC
+2014-04-01,2014,Farmers forestry,5151,1992 PSOC
+2014-04-01,2014,Trades & related,2668,1992 PSOC
+2014-04-01,2014,Plant & machine,1932,1992 PSOC
+2014-04-01,2014,Laborers & Unskilled,12490,1992 PSOC
+2014-04-01,2014,Special Occupations,124,1992 PSOC
+2014-07-01,2014,Officials of the government,6179,1992 PSOC
+2014-07-01,2014,Professional,1946,1992 PSOC
+2014-07-01,2014,Technicians & Associate Professionals,991,1992 PSOC
+2014-07-01,2014,Clerks,2406,1992 PSOC
+2014-07-01,2014,Service Workers and Shop,4811,1992 PSOC
+2014-07-01,2014,Farmers forestry,5213,1992 PSOC
+2014-07-01,2014,Trades & related,2596,1992 PSOC
+2014-07-01,2014,Plant & machine,2034,1992 PSOC
+2014-07-01,2014,Laborers & Unskilled,12168,1992 PSOC
+2014-07-01,2014,Special Occupations,108,1992 PSOC
+2014-10-01,2014,Officials of the government,6129,1992 PSOC
+2014-10-01,2014,Professional,1954,1992 PSOC
+2014-10-01,2014,Technicians & Associate Professionals,973,1992 PSOC
+2014-10-01,2014,Clerks,2426,1992 PSOC
+2014-10-01,2014,Service Workers and Shop,4908,1992 PSOC
+2014-10-01,2014,Farmers forestry,5289,1992 PSOC
+2014-10-01,2014,Trades & related,2613,1992 PSOC
+2014-10-01,2014,Plant & machine,2035,1992 PSOC
+2014-10-01,2014,Laborers & Unskilled,12385,1992 PSOC
+2014-10-01,2014,Special Occupations,124,1992 PSOC
+2015-01-01,2015,Officials of the government,6337,1992 PSOC
+2015-01-01,2015,Professional,1954,1992 PSOC
+2015-01-01,2015,Technicians & Associate Professionals,1011,1992 PSOC
+2015-01-01,2015,Clerks,2385,1992 PSOC
+2015-01-01,2015,Service Workers and Shop,4930,1992 PSOC
+2015-01-01,2015,Farmers forestry,5149,1992 PSOC
+2015-01-01,2015,Trades & related,2509,1992 PSOC
+2015-01-01,2015,Plant & machine,2086,1992 PSOC
+2015-01-01,2015,Laborers & Unskilled,11999,1992 PSOC
+2015-01-01,2015,Special Occupations,102,1992 PSOC
+2015-04-01,2015,Officials of the government,6460,1992 PSOC
+2015-04-01,2015,Professional,1993,1992 PSOC
+2015-04-01,2015,Technicians & Associate Professionals,1030,1992 PSOC
+2015-04-01,2015,Clerks,2545,1992 PSOC
+2015-04-01,2015,Service Workers and Shop,4955,1992 PSOC
+2015-04-01,2015,Farmers forestry,5097,1992 PSOC
+2015-04-01,2015,Trades & related,2622,1992 PSOC
+2015-04-01,2015,Plant & machine,2044,1992 PSOC
+2015-04-01,2015,Laborers & Unskilled,12287,1992 PSOC
+2015-04-01,2015,Special Occupations,125,1992 PSOC
+2015-07-01,2015,Officials of the government,6428,1992 PSOC
+2015-07-01,2015,Professional,2016,1992 PSOC
+2015-07-01,2015,Technicians & Associate Professionals,1070,1992 PSOC
+2015-07-01,2015,Clerks,2520,1992 PSOC
+2015-07-01,2015,Service Workers and Shop,4888,1992 PSOC
+2015-07-01,2015,Farmers forestry,4616,1992 PSOC
+2015-07-01,2015,Trades & related,2721,1992 PSOC
+2015-07-01,2015,Plant & machine,2145,1992 PSOC
+2015-07-01,2015,Laborers & Unskilled,12658,1992 PSOC
+2015-07-01,2015,Special Occupations,114,1992 PSOC
+2015-10-01,2015,Officials of the government,6234,1992 PSOC
+2015-10-01,2015,Professional,2069,1992 PSOC
+2015-10-01,2015,Technicians & Associate Professionals,1051,1992 PSOC
+2015-10-01,2015,Clerks,2595,1992 PSOC
+2015-10-01,2015,Service Workers and Shop,5121,1992 PSOC
+2015-10-01,2015,Farmers forestry,5362,1992 PSOC
+2015-10-01,2015,Trades & related,2611,1992 PSOC
+2015-10-01,2015,Plant & machine,2099,1992 PSOC
+2015-10-01,2015,Laborers & Unskilled,12517,1992 PSOC
+2015-10-01,2015,Special Occupations,115,1992 PSOC
+2016-01-01,2016,Officials of the government,6979,1992 PSOC
+2016-01-01,2016,Professional,2088,1992 PSOC
+2016-01-01,2016,Technicians & Associate Professionals,1075,1992 PSOC
+2016-01-01,2016,Clerks,2712,1992 PSOC
+2016-01-01,2016,Service Workers and Shop,5231,1992 PSOC
+2016-01-01,2016,Farmers forestry,4697,1992 PSOC
+2016-01-01,2016,Trades & related,2779,1992 PSOC
+2016-01-01,2016,Plant & machine,2243,1992 PSOC
+2016-01-01,2016,Laborers & Unskilled,12763,1992 PSOC
+2016-01-01,2016,Special Occupations,121,1992 PSOC

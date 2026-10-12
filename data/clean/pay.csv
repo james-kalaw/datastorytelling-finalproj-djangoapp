@@ -1,0 +1,883 @@
+Date,Industry,Sector,Average Daily Basic Pay (PHP)
+2016-01-01,Accommodation and Food Service Activities,Services,333.34
+2016-01-01,Activities of Extraterritorial Organizations and Bodies,Services,967.86
+2016-01-01,Administrative and Support Service Activities,Services,582.37
+2016-01-01,Agriculture and Forestry,Agriculture,200.39
+2016-01-01,Arts Entertainment and Recreation,Services,437.09
+2016-01-01,Construction,Industry,356.12
+2016-01-01,Education,Services,766.85
+2016-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,655.28
+2016-01-01,Financial and Insurance Activities,Services,655.64
+2016-01-01,Fishing and aquaculture,Agriculture,219.48
+2016-01-01,Human Health and Social Work Activities,Services,574.01
+2016-01-01,Information and Communication,Services,679.86
+2016-01-01,Manufacturing,Industry,361.49
+2016-01-01,Mining and Quarrying,Industry,362.53
+2016-01-01,Other Service Activities,Services,197.83
+2016-01-01,Professional Scientific  and Technical Activities,Services,802.97
+2016-01-01,Public Administration and Defense; Compulsory Social Security,Services,601.37
+2016-01-01,Real Estate Activities,Services,622.76
+2016-01-01,Transportation and Storage,Services,426.23
+2016-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,470.1
+2016-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,322.24
+2016-04-01,Accommodation and Food Service Activities,Services,344.67
+2016-04-01,Activities of Extraterritorial Organizations and Bodies,Services,807.75
+2016-04-01,Administrative and Support Service Activities,Services,581.44
+2016-04-01,Agriculture and Forestry,Agriculture,213.28
+2016-04-01,Arts Entertainment and Recreation,Services,411.19
+2016-04-01,Construction,Industry,358.32
+2016-04-01,Education,Services,798.94
+2016-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,722.08
+2016-04-01,Financial and Insurance Activities,Services,754.06
+2016-04-01,Fishing and aquaculture,Agriculture,227.09
+2016-04-01,Human Health and Social Work Activities,Services,600.66
+2016-04-01,Information and Communication,Services,635.66
+2016-04-01,Manufacturing,Industry,373.84
+2016-04-01,Mining and Quarrying,Industry,348.95
+2016-04-01,Other Service Activities,Services,207.48
+2016-04-01,Professional Scientific  and Technical Activities,Services,694.85
+2016-04-01,Public Administration and Defense; Compulsory Social Security,Services,616.5
+2016-04-01,Real Estate Activities,Services,716.4
+2016-04-01,Transportation and Storage,Services,441.76
+2016-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,434.9
+2016-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,322.68
+2016-07-01,Accommodation and Food Service Activities,Services,334.85
+2016-07-01,Activities of Extraterritorial Organizations and Bodies,Services,702.92
+2016-07-01,Administrative and Support Service Activities,Services,589.17
+2016-07-01,Agriculture and Forestry,Agriculture,203.07
+2016-07-01,Arts Entertainment and Recreation,Services,474.78
+2016-07-01,Construction,Industry,359.92
+2016-07-01,Education,Services,802.24
+2016-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,691.49
+2016-07-01,Financial and Insurance Activities,Services,676.52
+2016-07-01,Fishing and aquaculture,Agriculture,222.37
+2016-07-01,Human Health and Social Work Activities,Services,581.93
+2016-07-01,Information and Communication,Services,656.36
+2016-07-01,Manufacturing,Industry,390.08
+2016-07-01,Mining and Quarrying,Industry,362.25
+2016-07-01,Other Service Activities,Services,201.1
+2016-07-01,Professional Scientific  and Technical Activities,Services,668.59
+2016-07-01,Public Administration and Defense; Compulsory Social Security,Services,606.22
+2016-07-01,Real Estate Activities,Services,867.64
+2016-07-01,Transportation and Storage,Services,433.03
+2016-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,442.53
+2016-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,335.63
+2016-10-01,Accommodation and Food Service Activities,Services,341.18
+2016-10-01,Activities of Extraterritorial Organizations and Bodies,Services,738.4
+2016-10-01,Administrative and Support Service Activities,Services,578.93
+2016-10-01,Agriculture and Forestry,Agriculture,219.12
+2016-10-01,Arts Entertainment and Recreation,Services,515.22
+2016-10-01,Construction,Industry,366.25
+2016-10-01,Education,Services,766.14
+2016-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,931.42
+2016-10-01,Financial and Insurance Activities,Services,631.63
+2016-10-01,Fishing and aquaculture,Agriculture,241.45
+2016-10-01,Human Health and Social Work Activities,Services,631.88
+2016-10-01,Information and Communication,Services,677.03
+2016-10-01,Manufacturing,Industry,408.92
+2016-10-01,Mining and Quarrying,Industry,352.28
+2016-10-01,Other Service Activities,Services,209.82
+2016-10-01,Professional Scientific  and Technical Activities,Services,673.86
+2016-10-01,Public Administration and Defense; Compulsory Social Security,Services,615.41
+2016-10-01,Real Estate Activities,Services,727.6
+2016-10-01,Transportation and Storage,Services,456.37
+2016-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,428.91
+2016-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,341.23
+2017-01-01,Accommodation and Food Service Activities,Services,346.15
+2017-01-01,Activities of Extraterritorial Organizations and Bodies,Services,696.22
+2017-01-01,Administrative and Support Service Activities,Services,567.4
+2017-01-01,Agriculture and Forestry,Agriculture,210.21
+2017-01-01,Arts Entertainment and Recreation,Services,496.69
+2017-01-01,Construction,Industry,379.5
+2017-01-01,Education,Services,801.0
+2017-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,821.61
+2017-01-01,Financial and Insurance Activities,Services,659.53
+2017-01-01,Fishing and aquaculture,Agriculture,208.58
+2017-01-01,Human Health and Social Work Activities,Services,653.27
+2017-01-01,Information and Communication,Services,688.77
+2017-01-01,Manufacturing,Industry,373.64
+2017-01-01,Mining and Quarrying,Industry,306.07
+2017-01-01,Other Service Activities,Services,219.81
+2017-01-01,Professional Scientific  and Technical Activities,Services,682.59
+2017-01-01,Public Administration and Defense; Compulsory Social Security,Services,639.61
+2017-01-01,Real Estate Activities,Services,586.7
+2017-01-01,Transportation and Storage,Services,424.69
+2017-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,407.26
+2017-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,334.57
+2017-04-01,Accommodation and Food Service Activities,Services,358.62
+2017-04-01,Activities of Extraterritorial Organizations and Bodies,Services,1703.14
+2017-04-01,Administrative and Support Service Activities,Services,549.69
+2017-04-01,Agriculture and Forestry,Agriculture,218.31
+2017-04-01,Arts Entertainment and Recreation,Services,455.25
+2017-04-01,Construction,Industry,366.42
+2017-04-01,Education,Services,779.88
+2017-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,531.86
+2017-04-01,Financial and Insurance Activities,Services,579.04
+2017-04-01,Fishing and aquaculture,Agriculture,252.06
+2017-04-01,Human Health and Social Work Activities,Services,578.44
+2017-04-01,Information and Communication,Services,619.99
+2017-04-01,Manufacturing,Industry,391.76
+2017-04-01,Mining and Quarrying,Industry,362.58
+2017-04-01,Other Service Activities,Services,214.24
+2017-04-01,Professional Scientific  and Technical Activities,Services,714.46
+2017-04-01,Public Administration and Defense; Compulsory Social Security,Services,633.63
+2017-04-01,Real Estate Activities,Services,549.56
+2017-04-01,Transportation and Storage,Services,434.02
+2017-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,486.61
+2017-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,339.72
+2017-07-01,Accommodation and Food Service Activities,Services,354.27
+2017-07-01,Activities of Extraterritorial Organizations and Bodies,Services,1231.74
+2017-07-01,Administrative and Support Service Activities,Services,537.46
+2017-07-01,Agriculture and Forestry,Agriculture,229.11
+2017-07-01,Arts Entertainment and Recreation,Services,431.19
+2017-07-01,Construction,Industry,373.72
+2017-07-01,Education,Services,749.16
+2017-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,659.23
+2017-07-01,Financial and Insurance Activities,Services,637.28
+2017-07-01,Fishing and aquaculture,Agriculture,240.83
+2017-07-01,Human Health and Social Work Activities,Services,639.04
+2017-07-01,Information and Communication,Services,711.37
+2017-07-01,Manufacturing,Industry,411.87
+2017-07-01,Mining and Quarrying,Industry,379.93
+2017-07-01,Other Service Activities,Services,222.83
+2017-07-01,Professional Scientific  and Technical Activities,Services,764.12
+2017-07-01,Public Administration and Defense; Compulsory Social Security,Services,595.91
+2017-07-01,Real Estate Activities,Services,564.71
+2017-07-01,Transportation and Storage,Services,430.02
+2017-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,423.86
+2017-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,343.66
+2017-10-01,Accommodation and Food Service Activities,Services,362.02
+2017-10-01,Activities of Extraterritorial Organizations and Bodies,Services,803.79
+2017-10-01,Administrative and Support Service Activities,Services,565.7
+2017-10-01,Agriculture and Forestry,Agriculture,219.71
+2017-10-01,Arts Entertainment and Recreation,Services,462.62
+2017-10-01,Construction,Industry,383.01
+2017-10-01,Education,Services,781.98
+2017-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,641.51
+2017-10-01,Financial and Insurance Activities,Services,645.34
+2017-10-01,Fishing and aquaculture,Agriculture,222.97
+2017-10-01,Human Health and Social Work Activities,Services,575.63
+2017-10-01,Information and Communication,Services,751.44
+2017-10-01,Manufacturing,Industry,397.49
+2017-10-01,Mining and Quarrying,Industry,400.31
+2017-10-01,Other Service Activities,Services,225.8
+2017-10-01,Professional Scientific  and Technical Activities,Services,775.52
+2017-10-01,Public Administration and Defense; Compulsory Social Security,Services,615.63
+2017-10-01,Real Estate Activities,Services,634.08
+2017-10-01,Transportation and Storage,Services,433.71
+2017-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,522.24
+2017-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,353.83
+2018-01-01,Accommodation and Food Service Activities,Services,360.57
+2018-01-01,Activities of Extraterritorial Organizations and Bodies,Services,861.58
+2018-01-01,Administrative and Support Service Activities,Services,587.16
+2018-01-01,Agriculture and Forestry,Agriculture,221.39
+2018-01-01,Arts Entertainment and Recreation,Services,468.7
+2018-01-01,Construction,Industry,386.52
+2018-01-01,Education,Services,787.82
+2018-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,679.62
+2018-01-01,Financial and Insurance Activities,Services,651.02
+2018-01-01,Fishing and aquaculture,Agriculture,237.9
+2018-01-01,Human Health and Social Work Activities,Services,602.27
+2018-01-01,Information and Communication,Services,711.38
+2018-01-01,Manufacturing,Industry,417.16
+2018-01-01,Mining and Quarrying,Industry,376.51
+2018-01-01,Other Service Activities,Services,220.81
+2018-01-01,Professional Scientific  and Technical Activities,Services,690.89
+2018-01-01,Public Administration and Defense; Compulsory Social Security,Services,661.41
+2018-01-01,Real Estate Activities,Services,524.37
+2018-01-01,Transportation and Storage,Services,464.51
+2018-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,492.49
+2018-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,358.37
+2018-04-01,Accommodation and Food Service Activities,Services,390.74
+2018-04-01,Activities of Extraterritorial Organizations and Bodies,Services,531.95
+2018-04-01,Administrative and Support Service Activities,Services,578.33
+2018-04-01,Agriculture and Forestry,Agriculture,227.2
+2018-04-01,Arts Entertainment and Recreation,Services,401.11
+2018-04-01,Construction,Industry,393.37
+2018-04-01,Education,Services,784.39
+2018-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,591.03
+2018-04-01,Financial and Insurance Activities,Services,686.94
+2018-04-01,Fishing and aquaculture,Agriculture,263.34
+2018-04-01,Human Health and Social Work Activities,Services,595.63
+2018-04-01,Information and Communication,Services,671.36
+2018-04-01,Manufacturing,Industry,410.35
+2018-04-01,Mining and Quarrying,Industry,388.67
+2018-04-01,Other Service Activities,Services,239.01
+2018-04-01,Professional Scientific  and Technical Activities,Services,788.28
+2018-04-01,Public Administration and Defense; Compulsory Social Security,Services,636.82
+2018-04-01,Real Estate Activities,Services,777.15
+2018-04-01,Transportation and Storage,Services,485.75
+2018-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,409.29
+2018-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,375.01
+2018-07-01,Accommodation and Food Service Activities,Services,377.06
+2018-07-01,Activities of Extraterritorial Organizations and Bodies,Services,1589.13
+2018-07-01,Administrative and Support Service Activities,Services,609.33
+2018-07-01,Agriculture and Forestry,Agriculture,240.88
+2018-07-01,Arts Entertainment and Recreation,Services,427.11
+2018-07-01,Construction,Industry,407.86
+2018-07-01,Education,Services,805.69
+2018-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,802.29
+2018-07-01,Financial and Insurance Activities,Services,739.55
+2018-07-01,Fishing and aquaculture,Agriculture,279.06
+2018-07-01,Human Health and Social Work Activities,Services,628.84
+2018-07-01,Information and Communication,Services,692.66
+2018-07-01,Manufacturing,Industry,420.55
+2018-07-01,Mining and Quarrying,Industry,435.15
+2018-07-01,Other Service Activities,Services,247.19
+2018-07-01,Professional Scientific  and Technical Activities,Services,735.28
+2018-07-01,Public Administration and Defense; Compulsory Social Security,Services,697.48
+2018-07-01,Real Estate Activities,Services,817.47
+2018-07-01,Transportation and Storage,Services,454.45
+2018-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,458.4
+2018-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,371.64
+2018-10-01,Accommodation and Food Service Activities,Services,390.09
+2018-10-01,Activities of Extraterritorial Organizations and Bodies,Services,639.51
+2018-10-01,Administrative and Support Service Activities,Services,620.56
+2018-10-01,Agriculture and Forestry,Agriculture,252.55
+2018-10-01,Arts Entertainment and Recreation,Services,462.87
+2018-10-01,Construction,Industry,409.39
+2018-10-01,Education,Services,831.52
+2018-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,766.42
+2018-10-01,Financial and Insurance Activities,Services,647.45
+2018-10-01,Fishing and aquaculture,Agriculture,275.73
+2018-10-01,Human Health and Social Work Activities,Services,631.78
+2018-10-01,Information and Communication,Services,763.66
+2018-10-01,Manufacturing,Industry,425.64
+2018-10-01,Mining and Quarrying,Industry,394.26
+2018-10-01,Other Service Activities,Services,246.51
+2018-10-01,Professional Scientific  and Technical Activities,Services,882.44
+2018-10-01,Public Administration and Defense; Compulsory Social Security,Services,671.33
+2018-10-01,Real Estate Activities,Services,638.44
+2018-10-01,Transportation and Storage,Services,475.35
+2018-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,469.97
+2018-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,380.45
+2019-01-01,Accommodation and Food Service Activities,Services,390.85
+2019-01-01,Activities of Extraterritorial Organizations and Bodies,Services,0.0
+2019-01-01,Administrative and Support Service Activities,Services,630.58
+2019-01-01,Agriculture and Forestry,Agriculture,256.86
+2019-01-01,Arts Entertainment and Recreation,Services,488.82
+2019-01-01,Construction,Industry,420.1
+2019-01-01,Education,Services,836.5
+2019-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,760.84
+2019-01-01,Financial and Insurance Activities,Services,698.24
+2019-01-01,Fishing and aquaculture,Agriculture,302.35
+2019-01-01,Human Health and Social Work Activities,Services,690.53
+2019-01-01,Information and Communication,Services,758.21
+2019-01-01,Manufacturing,Industry,449.13
+2019-01-01,Mining and Quarrying,Industry,452.44
+2019-01-01,Other Service Activities,Services,274.98
+2019-01-01,Professional Scientific  and Technical Activities,Services,766.06
+2019-01-01,Public Administration and Defense; Compulsory Social Security,Services,704.66
+2019-01-01,Real Estate Activities,Services,648.8
+2019-01-01,Transportation and Storage,Services,492.7
+2019-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,460.24
+2019-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,384.09
+2019-04-01,Accommodation and Food Service Activities,Services,428.43
+2019-04-01,Activities of Extraterritorial Organizations and Bodies,Services,800.49
+2019-04-01,Administrative and Support Service Activities,Services,639.14
+2019-04-01,Agriculture and Forestry,Agriculture,259.0
+2019-04-01,Arts Entertainment and Recreation,Services,523.86
+2019-04-01,Construction,Industry,427.89
+2019-04-01,Education,Services,868.66
+2019-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,723.64
+2019-04-01,Financial and Insurance Activities,Services,687.82
+2019-04-01,Fishing and aquaculture,Agriculture,277.4
+2019-04-01,Human Health and Social Work Activities,Services,698.67
+2019-04-01,Information and Communication,Services,807.68
+2019-04-01,Manufacturing,Industry,433.23
+2019-04-01,Mining and Quarrying,Industry,415.24
+2019-04-01,Other Service Activities,Services,277.54
+2019-04-01,Professional Scientific  and Technical Activities,Services,797.02
+2019-04-01,Public Administration and Defense; Compulsory Social Security,Services,733.85
+2019-04-01,Real Estate Activities,Services,669.05
+2019-04-01,Transportation and Storage,Services,539.74
+2019-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,588.06
+2019-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,388.89
+2019-07-01,Accommodation and Food Service Activities,Services,397.52
+2019-07-01,Activities of Extraterritorial Organizations and Bodies,Services,1686.25
+2019-07-01,Administrative and Support Service Activities,Services,639.12
+2019-07-01,Agriculture and Forestry,Agriculture,256.13
+2019-07-01,Arts Entertainment and Recreation,Services,479.65
+2019-07-01,Construction,Industry,429.99
+2019-07-01,Education,Services,809.54
+2019-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,813.5
+2019-07-01,Financial and Insurance Activities,Services,729.01
+2019-07-01,Fishing and aquaculture,Agriculture,291.81
+2019-07-01,Human Health and Social Work Activities,Services,698.38
+2019-07-01,Information and Communication,Services,782.06
+2019-07-01,Manufacturing,Industry,436.95
+2019-07-01,Mining and Quarrying,Industry,408.76
+2019-07-01,Other Service Activities,Services,261.44
+2019-07-01,Professional Scientific  and Technical Activities,Services,812.97
+2019-07-01,Public Administration and Defense; Compulsory Social Security,Services,752.57
+2019-07-01,Real Estate Activities,Services,691.52
+2019-07-01,Transportation and Storage,Services,527.05
+2019-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,523.45
+2019-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,377.93
+2019-10-01,Accommodation and Food Service Activities,Services,407.2
+2019-10-01,Activities of Extraterritorial Organizations and Bodies,Services,1512.45
+2019-10-01,Administrative and Support Service Activities,Services,667.11
+2019-10-01,Agriculture and Forestry,Agriculture,260.8
+2019-10-01,Arts Entertainment and Recreation,Services,510.02
+2019-10-01,Construction,Industry,450.82
+2019-10-01,Education,Services,862.76
+2019-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,669.04
+2019-10-01,Financial and Insurance Activities,Services,759.92
+2019-10-01,Fishing and aquaculture,Agriculture,272.27
+2019-10-01,Human Health and Social Work Activities,Services,758.92
+2019-10-01,Information and Communication,Services,818.61
+2019-10-01,Manufacturing,Industry,467.2
+2019-10-01,Mining and Quarrying,Industry,497.16
+2019-10-01,Other Service Activities,Services,257.67
+2019-10-01,Professional Scientific  and Technical Activities,Services,1054.94
+2019-10-01,Public Administration and Defense; Compulsory Social Security,Services,752.16
+2019-10-01,Real Estate Activities,Services,861.7
+2019-10-01,Transportation and Storage,Services,508.67
+2019-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,590.39
+2019-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,409.3
+2020-01-01,Accommodation and Food Service Activities,Services,408.91
+2020-01-01,Activities of Extraterritorial Organizations and Bodies,Services,1014.08
+2020-01-01,Administrative and Support Service Activities,Services,649.15
+2020-01-01,Agriculture and Forestry,Agriculture,261.45
+2020-01-01,Arts Entertainment and Recreation,Services,537.26
+2020-01-01,Construction,Industry,439.39
+2020-01-01,Education,Services,854.76
+2020-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,723.58
+2020-01-01,Financial and Insurance Activities,Services,703.86
+2020-01-01,Fishing and aquaculture,Agriculture,296.72
+2020-01-01,Human Health and Social Work Activities,Services,711.94
+2020-01-01,Information and Communication,Services,913.86
+2020-01-01,Manufacturing,Industry,455.9
+2020-01-01,Mining and Quarrying,Industry,386.07
+2020-01-01,Other Service Activities,Services,277.37
+2020-01-01,Professional Scientific  and Technical Activities,Services,958.82
+2020-01-01,Public Administration and Defense; Compulsory Social Security,Services,808.12
+2020-01-01,Real Estate Activities,Services,562.44
+2020-01-01,Transportation and Storage,Services,547.79
+2020-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,489.56
+2020-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,401.88
+2020-04-01,Accommodation and Food Service Activities,Services,424.64
+2020-04-01,Activities of Extraterritorial Organizations and Bodies,Services,699.95
+2020-04-01,Administrative and Support Service Activities,Services,653.5
+2020-04-01,Agriculture and Forestry,Agriculture,263.51
+2020-04-01,Arts Entertainment and Recreation,Services,520.72
+2020-04-01,Construction,Industry,433.54
+2020-04-01,Education,Services,922.02
+2020-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,688.95
+2020-04-01,Financial and Insurance Activities,Services,776.57
+2020-04-01,Fishing and aquaculture,Agriculture,281.32
+2020-04-01,Human Health and Social Work Activities,Services,710.82
+2020-04-01,Information and Communication,Services,825.38
+2020-04-01,Manufacturing,Industry,456.7
+2020-04-01,Mining and Quarrying,Industry,368.42
+2020-04-01,Other Service Activities,Services,280.38
+2020-04-01,Professional Scientific  and Technical Activities,Services,791.02
+2020-04-01,Public Administration and Defense; Compulsory Social Security,Services,761.77
+2020-04-01,Real Estate Activities,Services,582.35
+2020-04-01,Transportation and Storage,Services,513.69
+2020-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,594.66
+2020-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,395.96
+2020-07-01,Accommodation and Food Service Activities,Services,420.11
+2020-07-01,Activities of Extraterritorial Organizations and Bodies,Services,767.85
+2020-07-01,Administrative and Support Service Activities,Services,656.66
+2020-07-01,Agriculture and Forestry,Agriculture,270.59
+2020-07-01,Arts Entertainment and Recreation,Services,516.11
+2020-07-01,Construction,Industry,427.91
+2020-07-01,Education,Services,939.2
+2020-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,765.47
+2020-07-01,Financial and Insurance Activities,Services,684.39
+2020-07-01,Fishing and aquaculture,Agriculture,284.99
+2020-07-01,Human Health and Social Work Activities,Services,698.48
+2020-07-01,Information and Communication,Services,769.23
+2020-07-01,Manufacturing,Industry,442.18
+2020-07-01,Mining and Quarrying,Industry,382.89
+2020-07-01,Other Service Activities,Services,277.29
+2020-07-01,Professional Scientific  and Technical Activities,Services,861.49
+2020-07-01,Public Administration and Defense; Compulsory Social Security,Services,821.96
+2020-07-01,Real Estate Activities,Services,607.62
+2020-07-01,Transportation and Storage,Services,488.46
+2020-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,447.95
+2020-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,389.12
+2020-10-01,Accommodation and Food Service Activities,Services,419.52
+2020-10-01,Activities of Extraterritorial Organizations and Bodies,Services,366.36
+2020-10-01,Administrative and Support Service Activities,Services,618.57
+2020-10-01,Agriculture and Forestry,Agriculture,284.72
+2020-10-01,Arts Entertainment and Recreation,Services,532.25
+2020-10-01,Construction,Industry,454.53
+2020-10-01,Education,Services,890.92
+2020-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,665.8
+2020-10-01,Financial and Insurance Activities,Services,704.77
+2020-10-01,Fishing and aquaculture,Agriculture,259.18
+2020-10-01,Human Health and Social Work Activities,Services,709.41
+2020-10-01,Information and Communication,Services,723.32
+2020-10-01,Manufacturing,Industry,470.7
+2020-10-01,Mining and Quarrying,Industry,472.1
+2020-10-01,Other Service Activities,Services,278.94
+2020-10-01,Professional Scientific  and Technical Activities,Services,865.17
+2020-10-01,Public Administration and Defense; Compulsory Social Security,Services,753.44
+2020-10-01,Real Estate Activities,Services,568.09
+2020-10-01,Transportation and Storage,Services,527.17
+2020-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,485.44
+2020-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,395.73
+2021-01-01,Accommodation and Food Service Activities,Services,426.65
+2021-01-01,Activities of Extraterritorial Organizations and Bodies,Services,757.5
+2021-01-01,Administrative and Support Service Activities,Services,637.51
+2021-01-01,Agriculture and Forestry,Agriculture,275.48
+2021-01-01,Arts Entertainment and Recreation,Services,567.17
+2021-01-01,Construction,Industry,446.87
+2021-01-01,Education,Services,904.59
+2021-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,708.55
+2021-01-01,Financial and Insurance Activities,Services,757.75
+2021-01-01,Fishing and aquaculture,Agriculture,334.37
+2021-01-01,Human Health and Social Work Activities,Services,780.99
+2021-01-01,Information and Communication,Services,803.91
+2021-01-01,Manufacturing,Industry,451.17
+2021-01-01,Mining and Quarrying,Industry,443.97
+2021-01-01,Other Service Activities,Services,283.28
+2021-01-01,Professional Scientific  and Technical Activities,Services,903.93
+2021-01-01,Public Administration and Defense; Compulsory Social Security,Services,748.98
+2021-01-01,Real Estate Activities,Services,645.45
+2021-01-01,Transportation and Storage,Services,502.42
+2021-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,448.26
+2021-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,396.35
+2021-04-01,Accommodation and Food Service Activities,Services,384.84
+2021-04-01,Activities of Extraterritorial Organizations and Bodies,Services,599.12
+2021-04-01,Administrative and Support Service Activities,Services,649.35
+2021-04-01,Agriculture and Forestry,Agriculture,272.42
+2021-04-01,Arts Entertainment and Recreation,Services,427.59
+2021-04-01,Construction,Industry,448.09
+2021-04-01,Education,Services,922.62
+2021-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,705.08
+2021-04-01,Financial and Insurance Activities,Services,720.82
+2021-04-01,Fishing and aquaculture,Agriculture,424.73
+2021-04-01,Human Health and Social Work Activities,Services,725.12
+2021-04-01,Information and Communication,Services,893.68
+2021-04-01,Manufacturing,Industry,458.65
+2021-04-01,Mining and Quarrying,Industry,440.58
+2021-04-01,Other Service Activities,Services,290.64
+2021-04-01,Professional Scientific  and Technical Activities,Services,831.05
+2021-04-01,Public Administration and Defense; Compulsory Social Security,Services,763.89
+2021-04-01,Real Estate Activities,Services,665.37
+2021-04-01,Transportation and Storage,Services,501.39
+2021-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,540.15
+2021-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,396.2
+2021-07-01,Accommodation and Food Service Activities,Services,421.53
+2021-07-01,Activities of Extraterritorial Organizations and Bodies,Services,988.27
+2021-07-01,Administrative and Support Service Activities,Services,657.41
+2021-07-01,Agriculture and Forestry,Agriculture,292.57
+2021-07-01,Arts Entertainment and Recreation,Services,469.97
+2021-07-01,Construction,Industry,467.96
+2021-07-01,Education,Services,904.02
+2021-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,719.02
+2021-07-01,Financial and Insurance Activities,Services,758.3
+2021-07-01,Fishing and aquaculture,Agriculture,309.36
+2021-07-01,Human Health and Social Work Activities,Services,722.85
+2021-07-01,Information and Communication,Services,797.28
+2021-07-01,Manufacturing,Industry,474.24
+2021-07-01,Mining and Quarrying,Industry,480.32
+2021-07-01,Other Service Activities,Services,325.74
+2021-07-01,Professional Scientific  and Technical Activities,Services,851.3
+2021-07-01,Public Administration and Defense; Compulsory Social Security,Services,686.14
+2021-07-01,Real Estate Activities,Services,684.41
+2021-07-01,Transportation and Storage,Services,514.31
+2021-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,478.74
+2021-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,413.69
+2021-10-01,Accommodation and Food Service Activities,Services,451.78
+2021-10-01,Activities of Extraterritorial Organizations and Bodies,Services,1279.06
+2021-10-01,Administrative and Support Service Activities,Services,674.28
+2021-10-01,Agriculture and Forestry,Agriculture,282.54
+2021-10-01,Arts Entertainment and Recreation,Services,501.39
+2021-10-01,Construction,Industry,470.32
+2021-10-01,Education,Services,950.03
+2021-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,778.85
+2021-10-01,Financial and Insurance Activities,Services,745.48
+2021-10-01,Fishing and aquaculture,Agriculture,330.01
+2021-10-01,Human Health and Social Work Activities,Services,767.64
+2021-10-01,Information and Communication,Services,865.62
+2021-10-01,Manufacturing,Industry,481.53
+2021-10-01,Mining and Quarrying,Industry,413.93
+2021-10-01,Other Service Activities,Services,295.69
+2021-10-01,Professional Scientific  and Technical Activities,Services,904.46
+2021-10-01,Public Administration and Defense; Compulsory Social Security,Services,760.99
+2021-10-01,Real Estate Activities,Services,651.83
+2021-10-01,Transportation and Storage,Services,525.74
+2021-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,517.33
+2021-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,413.42
+2022-01-01,Accommodation and Food Service Activities,Services,424.41
+2022-01-01,Activities of Extraterritorial Organizations and Bodies,Services,721.71
+2022-01-01,Administrative and Support Service Activities,Services,676.24
+2022-01-01,Agriculture and Forestry,Agriculture,296.02
+2022-01-01,Arts Entertainment and Recreation,Services,520.72
+2022-01-01,Construction,Industry,480.67
+2022-01-01,Education,Services,970.56
+2022-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,815.15
+2022-01-01,Financial and Insurance Activities,Services,772.18
+2022-01-01,Fishing and aquaculture,Agriculture,331.05
+2022-01-01,Human Health and Social Work Activities,Services,792.95
+2022-01-01,Information and Communication,Services,831.9
+2022-01-01,Manufacturing,Industry,480.49
+2022-01-01,Mining and Quarrying,Industry,501.85
+2022-01-01,Other Service Activities,Services,304.62
+2022-01-01,Professional Scientific  and Technical Activities,Services,847.92
+2022-01-01,Public Administration and Defense; Compulsory Social Security,Services,740.95
+2022-01-01,Real Estate Activities,Services,639.79
+2022-01-01,Transportation and Storage,Services,524.07
+2022-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,515.3
+2022-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,417.01
+2022-04-01,Accommodation and Food Service Activities,Services,438.99
+2022-04-01,Activities of Extraterritorial Organizations and Bodies,Services,1411.78
+2022-04-01,Administrative and Support Service Activities,Services,688.57
+2022-04-01,Agriculture and Forestry,Agriculture,293.68
+2022-04-01,Arts Entertainment and Recreation,Services,512.72
+2022-04-01,Construction,Industry,484.44
+2022-04-01,Education,Services,982.2
+2022-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,738.16
+2022-04-01,Financial and Insurance Activities,Services,772.9
+2022-04-01,Fishing and aquaculture,Agriculture,285.23
+2022-04-01,Human Health and Social Work Activities,Services,812.77
+2022-04-01,Information and Communication,Services,805.4
+2022-04-01,Manufacturing,Industry,489.06
+2022-04-01,Mining and Quarrying,Industry,494.55
+2022-04-01,Other Service Activities,Services,304.81
+2022-04-01,Professional Scientific  and Technical Activities,Services,887.13
+2022-04-01,Public Administration and Defense; Compulsory Social Security,Services,729.67
+2022-04-01,Real Estate Activities,Services,707.34
+2022-04-01,Transportation and Storage,Services,559.87
+2022-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,558.35
+2022-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,416.45
+2022-07-01,Accommodation and Food Service Activities,Services,418.22
+2022-07-01,Activities of Extraterritorial Organizations and Bodies,Services,853.3
+2022-07-01,Administrative and Support Service Activities,Services,707.55
+2022-07-01,Agriculture and Forestry,Agriculture,305.8
+2022-07-01,Arts Entertainment and Recreation,Services,581.8
+2022-07-01,Construction,Industry,489.18
+2022-07-01,Education,Services,991.96
+2022-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,777.02
+2022-07-01,Financial and Insurance Activities,Services,771.57
+2022-07-01,Fishing and aquaculture,Agriculture,322.06
+2022-07-01,Human Health and Social Work Activities,Services,771.36
+2022-07-01,Information and Communication,Services,1257.04
+2022-07-01,Manufacturing,Industry,487.26
+2022-07-01,Mining and Quarrying,Industry,555.15
+2022-07-01,Other Service Activities,Services,311.11
+2022-07-01,Professional Scientific  and Technical Activities,Services,885.67
+2022-07-01,Public Administration and Defense; Compulsory Social Security,Services,787.3
+2022-07-01,Real Estate Activities,Services,703.09
+2022-07-01,Transportation and Storage,Services,541.28
+2022-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,433.07
+2022-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,420.78
+2022-10-01,Accommodation and Food Service Activities,Services,445.01
+2022-10-01,Activities of Extraterritorial Organizations and Bodies,Services,703.55
+2022-10-01,Administrative and Support Service Activities,Services,700.86
+2022-10-01,Agriculture and Forestry,Agriculture,305.87
+2022-10-01,Arts Entertainment and Recreation,Services,549.03
+2022-10-01,Construction,Industry,502.93
+2022-10-01,Education,Services,1003.79
+2022-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,677.94
+2022-10-01,Financial and Insurance Activities,Services,781.03
+2022-10-01,Fishing and aquaculture,Agriculture,322.13
+2022-10-01,Human Health and Social Work Activities,Services,813.94
+2022-10-01,Information and Communication,Services,884.82
+2022-10-01,Manufacturing,Industry,483.43
+2022-10-01,Mining and Quarrying,Industry,531.11
+2022-10-01,Other Service Activities,Services,295.21
+2022-10-01,Professional Scientific  and Technical Activities,Services,986.4
+2022-10-01,Public Administration and Defense; Compulsory Social Security,Services,779.84
+2022-10-01,Real Estate Activities,Services,697.73
+2022-10-01,Transportation and Storage,Services,542.69
+2022-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,497.54
+2022-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,418.2
+2023-01-01,Accommodation and Food Service Activities,Services,440.98
+2023-01-01,Activities of Extraterritorial Organizations and Bodies,Services,527.06
+2023-01-01,Administrative and Support Service Activities,Services,744.27
+2023-01-01,Agriculture and Forestry,Agriculture,308.62
+2023-01-01,Arts Entertainment and Recreation,Services,581.39
+2023-01-01,Construction,Industry,502.17
+2023-01-01,Education,Services,1023.34
+2023-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,674.98
+2023-01-01,Financial and Insurance Activities,Services,791.78
+2023-01-01,Fishing and aquaculture,Agriculture,338.64
+2023-01-01,Human Health and Social Work Activities,Services,885.11
+2023-01-01,Information and Communication,Services,988.88
+2023-01-01,Manufacturing,Industry,497.55
+2023-01-01,Mining and Quarrying,Industry,499.37
+2023-01-01,Other Service Activities,Services,324.21
+2023-01-01,Professional Scientific  and Technical Activities,Services,960.78
+2023-01-01,Public Administration and Defense; Compulsory Social Security,Services,795.43
+2023-01-01,Real Estate Activities,Services,801.54
+2023-01-01,Transportation and Storage,Services,562.27
+2023-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,526.49
+2023-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,444.12
+2023-04-01,Accommodation and Food Service Activities,Services,453.97
+2023-04-01,Activities of Extraterritorial Organizations and Bodies,Services,1552.46
+2023-04-01,Administrative and Support Service Activities,Services,756.52
+2023-04-01,Agriculture and Forestry,Agriculture,310.38
+2023-04-01,Arts Entertainment and Recreation,Services,545.84
+2023-04-01,Construction,Industry,509.5
+2023-04-01,Education,Services,1029.1
+2023-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,823.84
+2023-04-01,Financial and Insurance Activities,Services,809.84
+2023-04-01,Fishing and aquaculture,Agriculture,327.09
+2023-04-01,Human Health and Social Work Activities,Services,812.83
+2023-04-01,Information and Communication,Services,971.94
+2023-04-01,Manufacturing,Industry,512.4
+2023-04-01,Mining and Quarrying,Industry,493.79
+2023-04-01,Other Service Activities,Services,323.15
+2023-04-01,Professional Scientific  and Technical Activities,Services,941.37
+2023-04-01,Public Administration and Defense; Compulsory Social Security,Services,799.67
+2023-04-01,Real Estate Activities,Services,723.93
+2023-04-01,Transportation and Storage,Services,626.25
+2023-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,603.48
+2023-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,436.04
+2023-07-01,Accommodation and Food Service Activities,Services,470.11
+2023-07-01,Activities of Extraterritorial Organizations and Bodies,Services,762.73
+2023-07-01,Administrative and Support Service Activities,Services,716.46
+2023-07-01,Agriculture and Forestry,Agriculture,331.62
+2023-07-01,Arts Entertainment and Recreation,Services,576.09
+2023-07-01,Construction,Industry,523.3
+2023-07-01,Education,Services,1002.66
+2023-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,830.6
+2023-07-01,Financial and Insurance Activities,Services,826.75
+2023-07-01,Fishing and aquaculture,Agriculture,348.73
+2023-07-01,Human Health and Social Work Activities,Services,808.4
+2023-07-01,Information and Communication,Services,907.34
+2023-07-01,Manufacturing,Industry,522.07
+2023-07-01,Mining and Quarrying,Industry,526.41
+2023-07-01,Other Service Activities,Services,350.59
+2023-07-01,Professional Scientific  and Technical Activities,Services,919.26
+2023-07-01,Public Administration and Defense; Compulsory Social Security,Services,763.17
+2023-07-01,Real Estate Activities,Services,773.41
+2023-07-01,Transportation and Storage,Services,577.76
+2023-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,556.74
+2023-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,458.41
+2023-10-01,Accommodation and Food Service Activities,Services,463.88
+2023-10-01,Activities of Extraterritorial Organizations and Bodies,Services,1195.42
+2023-10-01,Administrative and Support Service Activities,Services,790.23
+2023-10-01,Agriculture and Forestry,Agriculture,325.54
+2023-10-01,Arts Entertainment and Recreation,Services,488.01
+2023-10-01,Construction,Industry,535.19
+2023-10-01,Education,Services,1054.55
+2023-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,929.37
+2023-10-01,Financial and Insurance Activities,Services,805.89
+2023-10-01,Fishing and aquaculture,Agriculture,358.55
+2023-10-01,Human Health and Social Work Activities,Services,855.47
+2023-10-01,Information and Communication,Services,959.2
+2023-10-01,Manufacturing,Industry,543.22
+2023-10-01,Mining and Quarrying,Industry,443.77
+2023-10-01,Other Service Activities,Services,338.07
+2023-10-01,Professional Scientific  and Technical Activities,Services,958.64
+2023-10-01,Public Administration and Defense; Compulsory Social Security,Services,805.36
+2023-10-01,Real Estate Activities,Services,880.94
+2023-10-01,Transportation and Storage,Services,623.6
+2023-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,673.72
+2023-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,461.56
+2024-01-01,Accommodation and Food Service Activities,Services,478.9
+2024-01-01,Activities of Extraterritorial Organizations and Bodies,Services,1256.77
+2024-01-01,Administrative and Support Service Activities,Services,765.79
+2024-01-01,Agriculture and Forestry,Agriculture,338.41
+2024-01-01,Arts Entertainment and Recreation,Services,615.12
+2024-01-01,Construction,Industry,539.94
+2024-01-01,Education,Services,1022.76
+2024-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,906.39
+2024-01-01,Financial and Insurance Activities,Services,821.6
+2024-01-01,Fishing and aquaculture,Agriculture,362.21
+2024-01-01,Human Health and Social Work Activities,Services,877.16
+2024-01-01,Information and Communication,Services,980.73
+2024-01-01,Manufacturing,Industry,546.46
+2024-01-01,Mining and Quarrying,Industry,535.78
+2024-01-01,Other Service Activities,Services,364.5
+2024-01-01,Professional Scientific  and Technical Activities,Services,979.94
+2024-01-01,Public Administration and Defense; Compulsory Social Security,Services,817.08
+2024-01-01,Real Estate Activities,Services,848.22
+2024-01-01,Transportation and Storage,Services,583.33
+2024-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,588.05
+2024-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,473.33
+2024-04-01,Accommodation and Food Service Activities,Services,486.85
+2024-04-01,Activities of Extraterritorial Organizations and Bodies,Services,883.97
+2024-04-01,Administrative and Support Service Activities,Services,791.58
+2024-04-01,Agriculture and Forestry,Agriculture,344.08
+2024-04-01,Arts Entertainment and Recreation,Services,683.99
+2024-04-01,Construction,Industry,539.26
+2024-04-01,Education,Services,1084.77
+2024-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,905.54
+2024-04-01,Financial and Insurance Activities,Services,807.72
+2024-04-01,Fishing and aquaculture,Agriculture,346.69
+2024-04-01,Human Health and Social Work Activities,Services,914.11
+2024-04-01,Information and Communication,Services,1090.75
+2024-04-01,Manufacturing,Industry,546.64
+2024-04-01,Mining and Quarrying,Industry,541.34
+2024-04-01,Other Service Activities,Services,351.36
+2024-04-01,Professional Scientific  and Technical Activities,Services,1013.44
+2024-04-01,Public Administration and Defense; Compulsory Social Security,Services,871.79
+2024-04-01,Real Estate Activities,Services,988.85
+2024-04-01,Transportation and Storage,Services,619.22
+2024-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,691.59
+2024-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,467.8
+2024-07-01,Accommodation and Food Service Activities,Services,507.78
+2024-07-01,Activities of Extraterritorial Organizations and Bodies,Services,1571.03
+2024-07-01,Administrative and Support Service Activities,Services,769.54
+2024-07-01,Agriculture and Forestry,Agriculture,342.49
+2024-07-01,Arts Entertainment and Recreation,Services,597.68
+2024-07-01,Construction,Industry,541.6
+2024-07-01,Education,Services,1025.25
+2024-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,951.92
+2024-07-01,Financial and Insurance Activities,Services,785.71
+2024-07-01,Fishing and aquaculture,Agriculture,445.07
+2024-07-01,Human Health and Social Work Activities,Services,917.13
+2024-07-01,Information and Communication,Services,1062.78
+2024-07-01,Manufacturing,Industry,544.98
+2024-07-01,Mining and Quarrying,Industry,456.39
+2024-07-01,Other Service Activities,Services,370.12
+2024-07-01,Professional Scientific  and Technical Activities,Services,1000.6
+2024-07-01,Public Administration and Defense; Compulsory Social Security,Services,842.05
+2024-07-01,Real Estate Activities,Services,778.41
+2024-07-01,Transportation and Storage,Services,591.24
+2024-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,599.23
+2024-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,481.13
+2024-10-01,Accommodation and Food Service Activities,Services,509.01
+2024-10-01,Activities of Extraterritorial Organizations and Bodies,Services,749.72
+2024-10-01,Administrative and Support Service Activities,Services,800.69
+2024-10-01,Agriculture and Forestry,Agriculture,353.09
+2024-10-01,Arts Entertainment and Recreation,Services,532.64
+2024-10-01,Construction,Industry,549.71
+2024-10-01,Education,Services,1063.23
+2024-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,882.11
+2024-10-01,Financial and Insurance Activities,Services,808.96
+2024-10-01,Fishing and aquaculture,Agriculture,435.4
+2024-10-01,Human Health and Social Work Activities,Services,928.94
+2024-10-01,Information and Communication,Services,1015.61
+2024-10-01,Manufacturing,Industry,541.6
+2024-10-01,Mining and Quarrying,Industry,522.78
+2024-10-01,Other Service Activities,Services,356.91
+2024-10-01,Professional Scientific  and Technical Activities,Services,1056.77
+2024-10-01,Public Administration and Defense; Compulsory Social Security,Services,858.49
+2024-10-01,Real Estate Activities,Services,683.6
+2024-10-01,Transportation and Storage,Services,652.38
+2024-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,555.5
+2024-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,483.08
+2025-01-01,Accommodation and Food Service Activities,Services,509.44
+2025-01-01,Activities of Extraterritorial Organizations and Bodies,Services,6620.08
+2025-01-01,Administrative and Support Service Activities,Services,801.5
+2025-01-01,Agriculture and Forestry,Agriculture,350.44
+2025-01-01,Arts Entertainment and Recreation,Services,625.48
+2025-01-01,Construction,Industry,568.34
+2025-01-01,Education,Services,1099.77
+2025-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,924.33
+2025-01-01,Financial and Insurance Activities,Services,833.25
+2025-01-01,Fishing and aquaculture,Agriculture,412.1
+2025-01-01,Human Health and Social Work Activities,Services,873.58
+2025-01-01,Information and Communication,Services,963.9
+2025-01-01,Manufacturing,Industry,572.47
+2025-01-01,Mining and Quarrying,Industry,590.01
+2025-01-01,Other Service Activities,Services,356.38
+2025-01-01,Professional Scientific  and Technical Activities,Services,1016.31
+2025-01-01,Public Administration and Defense; Compulsory Social Security,Services,880.68
+2025-01-01,Real Estate Activities,Services,864.22
+2025-01-01,Transportation and Storage,Services,633.99
+2025-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,557.1
+2025-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,486.02
+2025-04-01,Accommodation and Food Service Activities,Services,512.17
+2025-04-01,Activities of Extraterritorial Organizations and Bodies,Services,699.19
+2025-04-01,Administrative and Support Service Activities,Services,789.86
+2025-04-01,Agriculture and Forestry,Agriculture,356.48
+2025-04-01,Arts Entertainment and Recreation,Services,645.28
+2025-04-01,Construction,Industry,570.75
+2025-04-01,Education,Services,1124.84
+2025-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,968.59
+2025-04-01,Financial and Insurance Activities,Services,843.47
+2025-04-01,Fishing and aquaculture,Agriculture,361.72
+2025-04-01,Human Health and Social Work Activities,Services,956.02
+2025-04-01,Information and Communication,Services,1028.31
+2025-04-01,Manufacturing,Industry,590.87
+2025-04-01,Mining and Quarrying,Industry,634.8
+2025-04-01,Other Service Activities,Services,376.54
+2025-04-01,Professional Scientific  and Technical Activities,Services,960.78
+2025-04-01,Public Administration and Defense; Compulsory Social Security,Services,908.71
+2025-04-01,Real Estate Activities,Services,659.32
+2025-04-01,Transportation and Storage,Services,640.06
+2025-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,573.8
+2025-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,499.76
+2025-07-01,Accommodation and Food Service Activities,Services,540.13
+2025-07-01,Activities of Extraterritorial Organizations and Bodies,Services,2329.94
+2025-07-01,Administrative and Support Service Activities,Services,840.11
+2025-07-01,Agriculture and Forestry,Agriculture,375.82
+2025-07-01,Arts Entertainment and Recreation,Services,665.16
+2025-07-01,Construction,Industry,587.45
+2025-07-01,Education,Services,1132.11
+2025-07-01,Electricity Gas Steam and Airconditioning Supply,Industry,946.22
+2025-07-01,Financial and Insurance Activities,Services,979.25
+2025-07-01,Fishing and aquaculture,Agriculture,379.1
+2025-07-01,Human Health and Social Work Activities,Services,977.19
+2025-07-01,Information and Communication,Services,1118.26
+2025-07-01,Manufacturing,Industry,603.15
+2025-07-01,Mining and Quarrying,Industry,566.75
+2025-07-01,Other Service Activities,Services,391.31
+2025-07-01,Professional Scientific  and Technical Activities,Services,1173.72
+2025-07-01,Public Administration and Defense; Compulsory Social Security,Services,916.1
+2025-07-01,Real Estate Activities,Services,884.04
+2025-07-01,Transportation and Storage,Services,659.53
+2025-07-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,583.23
+2025-07-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,525.07
+2025-10-01,Accommodation and Food Service Activities,Services,522.93
+2025-10-01,Activities of Extraterritorial Organizations and Bodies,Services,869.66
+2025-10-01,Administrative and Support Service Activities,Services,845.75
+2025-10-01,Agriculture and Forestry,Agriculture,377.06
+2025-10-01,Arts Entertainment and Recreation,Services,671.6
+2025-10-01,Construction,Industry,596.76
+2025-10-01,Education,Services,1126.42
+2025-10-01,Electricity Gas Steam and Airconditioning Supply,Industry,935.97
+2025-10-01,Financial and Insurance Activities,Services,871.98
+2025-10-01,Fishing and aquaculture,Agriculture,383.89
+2025-10-01,Human Health and Social Work Activities,Services,980.29
+2025-10-01,Information and Communication,Services,1042.54
+2025-10-01,Manufacturing,Industry,636.52
+2025-10-01,Mining and Quarrying,Industry,606.97
+2025-10-01,Other Service Activities,Services,388.45
+2025-10-01,Professional Scientific  and Technical Activities,Services,1115.7
+2025-10-01,Public Administration and Defense; Compulsory Social Security,Services,929.52
+2025-10-01,Real Estate Activities,Services,722.22
+2025-10-01,Transportation and Storage,Services,683.79
+2025-10-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,585.22
+2025-10-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,524.31
+2026-01-01,Accommodation and Food Service Activities,Services,547.66
+2026-01-01,Activities of Extraterritorial Organizations and Bodies,Services,2387.45
+2026-01-01,Administrative and Support Service Activities,Services,895.34
+2026-01-01,Agriculture and Forestry,Agriculture,395.19
+2026-01-01,Arts Entertainment and Recreation,Services,738.38
+2026-01-01,Construction,Industry,605.09
+2026-01-01,Education,Services,1162.64
+2026-01-01,Electricity Gas Steam and Airconditioning Supply,Industry,977.67
+2026-01-01,Financial and Insurance Activities,Services,1005.58
+2026-01-01,Fishing and aquaculture,Agriculture,383.56
+2026-01-01,Human Health and Social Work Activities,Services,1023.86
+2026-01-01,Information and Communication,Services,1146.03
+2026-01-01,Manufacturing,Industry,628.96
+2026-01-01,Mining and Quarrying,Industry,598.52
+2026-01-01,Other Service Activities,Services,403.01
+2026-01-01,Professional Scientific  and Technical Activities,Services,1243.28
+2026-01-01,Public Administration and Defense; Compulsory Social Security,Services,965.92
+2026-01-01,Real Estate Activities,Services,905.12
+2026-01-01,Transportation and Storage,Services,686.56
+2026-01-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,635.28
+2026-01-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,538.35
+2026-04-01,Accommodation and Food Service Activities,Services,572.42
+2026-04-01,Activities of Extraterritorial Organizations and Bodies,Services,2000.08
+2026-04-01,Administrative and Support Service Activities,Services,945.72
+2026-04-01,Agriculture and Forestry,Agriculture,387.9
+2026-04-01,Arts Entertainment and Recreation,Services,709.22
+2026-04-01,Construction,Industry,611.15
+2026-04-01,Education,Services,1194.96
+2026-04-01,Electricity Gas Steam and Airconditioning Supply,Industry,866.38
+2026-04-01,Financial and Insurance Activities,Services,951.2
+2026-04-01,Fishing and aquaculture,Agriculture,412.27
+2026-04-01,Human Health and Social Work Activities,Services,1020.1
+2026-04-01,Information and Communication,Services,1257.78
+2026-04-01,Manufacturing,Industry,624.41
+2026-04-01,Mining and Quarrying,Industry,594.29
+2026-04-01,Other Service Activities,Services,411.64
+2026-04-01,Professional Scientific  and Technical Activities,Services,1208.17
+2026-04-01,Public Administration and Defense; Compulsory Social Security,Services,933.85
+2026-04-01,Real Estate Activities,Services,857.91
+2026-04-01,Transportation and Storage,Services,721.41
+2026-04-01,Water Supply; Sewerage Waste Management and Remediation Activities,Industry,690.1
+2026-04-01,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Services,541.92

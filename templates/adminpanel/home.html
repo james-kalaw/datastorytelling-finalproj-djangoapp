@@ -1,0 +1,23 @@
+{% extends "adminpanel/base_panel.html" %}
+
+{% block title %}Overview{% endblock %}
+
+{% block panel %}
+<div class="stack" style="gap:4px">
+  <span class="eyebrow" style="font-size:12px">Content manager</span>
+  <h1>Welcome, {{ request.user.get_short_name|default:request.user.username }}</h1>
+  <span class="muted">Choose what to edit. Changes show on the website right away.</span>
+</div>
+<div class="cards4">
+  {% for item in nav %}
+    <a class="kpi" href="{% url 'adminpanel:section' item.key %}">
+      <div class="n">{{ item.count }}</div>
+      <div class="muted small">{{ item.title }}</div>
+    </a>
+  {% endfor %}
+</div>
+<div class="edit-form" style="flex:none">
+  <h2>Updating the data</h2>
+  <p class="small" style="margin:0;line-height:1.6;color:#33475E">To refresh every dataset and the Explore search after a new DAX Studio export, run <code>python manage.py prepare_data</code> and then <code>python manage.py build_charts</code> in the VS Code terminal. To replace just one CSV, open Datasets and upload a new file.</p>
+</div>
+{% endblock %}

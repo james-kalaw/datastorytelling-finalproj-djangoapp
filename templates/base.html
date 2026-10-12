@@ -1,0 +1,74 @@
+{% load static %}<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}The Shape of Work{% endblock %}</title>
+  <meta name="description" content="A data story on underemployment and job quality in the Philippine labor market, 2005–2026.">
+  <link rel="icon" href="{% static 'img/logo.png' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+  {% with section=request.resolver_match.app_name name=request.resolver_match.url_name %}
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="{% url 'core:home' %}">
+        <img src="{% static 'img/logo.png' %}" alt="">
+        <span>The Shape of Work</span>
+      </a>
+      <nav class="main-nav" aria-label="Main">
+        <a href="{% url 'core:home' %}" class="{% if section == 'core' and name == 'home' %}on{% endif %}">Home</a>
+        <details class="dd">
+          <summary class="{% if section == 'dashboard' %}on{% endif %}">Dashboard
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+          </summary>
+          <div class="dd-menu">
+            <a href="{% url 'dashboard:overview' %}" class="{% if current == 'all' %}cur{% endif %}">All pages</a>
+            <div class="sep"></div>
+            {% for p in nav_pages %}
+              <a href="{% url 'dashboard:page' p.slug %}" class="{% if current == p.slug %}cur{% endif %}">{{ p.title }}</a>
+            {% endfor %}
+            <a href="{% url 'dashboard:recommendations' %}" class="{% if current == 'recommendations' %}cur{% endif %}">Recommendations</a>
+          </div>
+        </details>
+        <a href="{% url 'datahub:data' %}" class="{% if section == 'datahub' %}on{% endif %}">Data</a>
+        <a href="{% url 'core:about' %}" class="{% if section == 'core' and name == 'about' %}on{% endif %}">About</a>
+      </nav>
+    </div>
+  </header>
+  {% endwith %}
+
+  {% block switcher %}{% endblock %}
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div>
+        <div class="name">The Shape of Work</div>
+        <div>DS 009 Data Storytelling · Group 2, DS31S1 · TIP Quezon City</div>
+        <div>Detera · Ituralde · Kalaw · Valdestamon</div>
+      </div>
+      <div>
+        <div>Source: Philippine Statistics Authority, Labor Force Survey</div>
+        <div><a href="{% url 'datahub:data' %}?tab=download">Download the data</a></div>
+        {% if not is_live %}<div><a class="quiet" href="{% url 'adminpanel:login' %}">Admin sign-in</a></div>{% endif %}
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Close the Dashboard dropdown when clicking anywhere else
+    document.addEventListener('click', function (e) {
+      document.querySelectorAll('details.dd[open]').forEach(function (d) {
+        if (!d.contains(e.target)) d.removeAttribute('open');
+      });
+    });
+  </script>
+</body>
+</html>

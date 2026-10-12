@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}Recommendations · The Shape of Work{% endblock %}
+
+{% block switcher %}{% include "dashboard/_switcher.html" %}{% endblock %}
+
+{% block content %}
+<section class="page-head dark">
+  <div class="wrap">
+    <p class="eyebrow">Recommendations · website feature</p>
+    <h1>From Findings to Action</h1>
+    <p class="lead">Six actions the data points to. Each starts from a number on the dashboard, says what could be done, and names who is in a position to act.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap stack" style="gap:24px">
+    {% for rec in items %}
+      <article class="rec">
+        <div class="rec-evidence">
+          <span class="mono tiny" style="color:#2E5C8A">{{ rec.number|stringformat:"02d" }} · THE EVIDENCE</span>
+          <p>{{ rec.evidence }}</p>
+          {% if rec.related_page %}
+            <a class="link-strong small" style="margin-top:auto" href="{% url 'dashboard:page' rec.related_page.slug %}">See it on the {{ rec.related_page.title }} dashboard →</a>
+          {% endif %}
+        </div>
+        <div class="rec-action">
+          {% if rec.image %}
+            <img class="rec-img" src="{{ rec.image.url }}" alt="{{ rec.image_alt }}">
+          {% endif %}
+          <h2>{{ rec.title }}</h2>
+          <p>{{ rec.action }}</p>
+          <div class="rec-meta">
+            <span><span class="muted">Who could act:</span> <strong>{{ rec.who }}</strong></span>
+            <span><span class="muted">Focus:</span> <strong>{{ rec.focus }}</strong></span>
+          </div>
+        </div>
+      </article>
+    {% empty %}
+      <p class="muted">No recommendations yet. Run <code>python manage.py seed_content</code>.</p>
+    {% endfor %}
+
+    <p class="muted small" style="margin:0;max-width:820px;line-height:1.6">These are suggestions drawn from descriptive PSA data. They show where attention is warranted, not proof that any single action will cause a change. Agencies and programs are named as examples of who could lead.</p>
+    <div class="pager">
+      <a class="link-strong" href="{% url 'dashboard:page' 'synthesis' %}">← Synthesis</a>
+      <a class="link-strong" href="{% url 'datahub:data' %}">Explore the data →</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

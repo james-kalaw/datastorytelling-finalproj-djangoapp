@@ -1,0 +1,60 @@
+{% extends "adminpanel/base_panel.html" %}
+
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block panel %}
+<div class="row-between" style="align-items:flex-end">
+  <div class="stack" style="gap:4px">
+    <span class="eyebrow" style="font-size:12px">Content manager</span>
+    <h1>{{ section.title }}</h1>
+    <span class="muted">{{ section.description }}</span>
+  </div>
+  <a class="btn btn-solid" href="?new=1">+ {{ section.add_label }}</a>
+</div>
+
+<div class="admin-split">
+  <div class="admin-table">
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>{% for h in headers %}<th scope="col">{{ h }}</th>{% endfor %}<th scope="col"><span class="visually-hidden">Action</span></th></tr>
+        </thead>
+        <tbody>
+          {% for row in rows %}
+            <tr class="{% if row.on %}on{% endif %}">
+              {% for cell in row.cells %}<td>{{ cell|truncatechars:70 }}</td>{% endfor %}
+              <td><a class="btn btn-line btn-sm" href="?edit={{ row.pk }}">Edit</a></td>
+            </tr>
+          {% empty %}
+            <tr><td colspan="{{ headers|length|add:1 }}" class="muted">Nothing here yet.</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <form class="edit-form" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <h2>{% if creating %}{{ section.add_label }}{% else %}Edit item{% endif %}</h2>
+    {% if instance %}<input type="hidden" name="pk" value="{{ instance.pk }}">{% endif %}
+    {% for field in form %}
+      <div class="field">
+        <label for="{{ field.id_for_label }}">{{ field.label }}</label>
+        {{ field }}
+        {% if field.help_text %}<span class="help-text">{{ field.help_text }}</span>{% endif %}
+        {{ field.errors }}
+      </div>
+    {% endfor %}
+    <div class="form-actions">
+      <button class="btn btn-solid" type="submit">Save changes</button>
+    </div>
+  </form>
+</div>
+
+{% if instance %}
+  <form method="post" action="{% url 'adminpanel:delete' key instance.pk %}" onsubmit="return confirm('Delete this item? This cannot be undone.');">
+    {% csrf_token %}
+    <button class="btn btn-danger btn-sm" type="submit">Delete “{{ instance }}”</button>
+  </form>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,388 @@
+Date,Year,Month,Sex,Unemployment Rate (%),Underemployment Rate (%),Underemployment-to-Unemployment Ratio,Survey Round
+2005-04-01,2005,April,Both Sexes,8.28,26.14,3.16,Quarterly month
+2005-04-01,2005,April,Female,8.19,21.84,2.67,Quarterly month
+2005-04-01,2005,April,Male,8.34,28.86,3.46,Quarterly month
+2005-07-01,2005,July,Both Sexes,7.7,20.48,2.66,Quarterly month
+2005-07-01,2005,July,Female,7.84,15.89,2.03,Quarterly month
+2005-07-01,2005,July,Male,7.62,23.36,3.07,Quarterly month
+2005-10-01,2005,October,Both Sexes,7.38,21.18,2.87,Quarterly month
+2005-10-01,2005,October,Female,7.33,16.76,2.29,Quarterly month
+2005-10-01,2005,October,Male,7.41,23.95,3.23,Quarterly month
+2006-01-01,2006,January,Both Sexes,8.14,21.15,2.6,Quarterly month
+2006-01-01,2006,January,Female,7.72,16.61,2.15,Quarterly month
+2006-01-01,2006,January,Male,8.39,23.93,2.85,Quarterly month
+2006-04-01,2006,April,Both Sexes,8.24,25.41,3.09,Quarterly month
+2006-04-01,2006,April,Female,7.56,20.89,2.76,Quarterly month
+2006-04-01,2006,April,Male,8.66,28.31,3.27,Quarterly month
+2006-07-01,2006,July,Both Sexes,8.14,23.44,2.88,Quarterly month
+2006-07-01,2006,July,Female,7.96,18.81,2.36,Quarterly month
+2006-07-01,2006,July,Male,8.26,26.43,3.2,Quarterly month
+2006-10-01,2006,October,Both Sexes,7.39,20.32,2.75,Quarterly month
+2006-10-01,2006,October,Female,6.94,15.83,2.28,Quarterly month
+2006-10-01,2006,October,Male,7.67,23.1,3.01,Quarterly month
+2007-01-01,2007,January,Both Sexes,7.83,21.5,2.75,Quarterly month
+2007-01-01,2007,January,Female,7.39,16.8,2.27,Quarterly month
+2007-01-01,2007,January,Male,8.12,24.57,3.03,Quarterly month
+2007-04-01,2007,April,Both Sexes,7.4,18.92,2.56,Quarterly month
+2007-04-01,2007,April,Female,6.92,14.65,2.12,Quarterly month
+2007-04-01,2007,April,Male,7.69,21.59,2.81,Quarterly month
+2007-07-01,2007,July,Both Sexes,7.81,21.99,2.81,Quarterly month
+2007-07-01,2007,July,Female,7.63,17.63,2.31,Quarterly month
+2007-07-01,2007,July,Male,7.93,24.77,3.12,Quarterly month
+2007-10-01,2007,October,Both Sexes,6.25,18.14,2.9,Quarterly month
+2007-10-01,2007,October,Female,5.98,14.14,2.37,Quarterly month
+2007-10-01,2007,October,Male,6.42,20.63,3.21,Quarterly month
+2008-01-01,2008,January,Both Sexes,7.36,18.9,2.57,Quarterly month
+2008-01-01,2008,January,Female,6.69,14.76,2.21,Quarterly month
+2008-01-01,2008,January,Male,7.77,21.51,2.77,Quarterly month
+2008-04-01,2008,April,Both Sexes,8.0,19.76,2.47,Quarterly month
+2008-04-01,2008,April,Female,7.9,15.55,1.97,Quarterly month
+2008-04-01,2008,April,Male,8.06,22.34,2.77,Quarterly month
+2008-07-01,2008,July,Both Sexes,7.36,21.08,2.86,Quarterly month
+2008-07-01,2008,July,Female,7.24,16.61,2.29,Quarterly month
+2008-07-01,2008,July,Male,7.44,23.93,3.22,Quarterly month
+2008-10-01,2008,October,Both Sexes,6.81,17.46,2.56,Quarterly month
+2008-10-01,2008,October,Female,6.55,12.78,1.95,Quarterly month
+2008-10-01,2008,October,Male,6.98,20.37,2.92,Quarterly month
+2009-01-01,2009,January,Both Sexes,7.69,18.21,2.37,Quarterly month
+2009-01-01,2009,January,Female,7.17,13.81,1.93,Quarterly month
+2009-01-01,2009,January,Male,8.02,20.98,2.62,Quarterly month
+2009-04-01,2009,April,Both Sexes,7.48,18.92,2.53,Quarterly month
+2009-04-01,2009,April,Female,7.43,15.38,2.07,Quarterly month
+2009-04-01,2009,April,Male,7.5,21.16,2.82,Quarterly month
+2009-07-01,2009,July,Both Sexes,7.6,19.81,2.61,Quarterly month
+2009-07-01,2009,July,Female,7.57,15.76,2.08,Quarterly month
+2009-07-01,2009,July,Male,7.63,22.46,2.94,Quarterly month
+2009-10-01,2009,October,Both Sexes,7.12,19.38,2.72,Quarterly month
+2009-10-01,2009,October,Female,6.66,15.01,2.25,Quarterly month
+2009-10-01,2009,October,Male,7.41,22.16,2.99,Quarterly month
+2010-01-01,2010,January,Both Sexes,7.28,19.74,2.71,Quarterly month
+2010-01-01,2010,January,Female,6.53,15.51,2.38,Quarterly month
+2010-01-01,2010,January,Male,7.77,22.53,2.9,Quarterly month
+2010-04-01,2010,April,Both Sexes,8.05,17.78,2.21,Quarterly month
+2010-04-01,2010,April,Female,7.76,14.2,1.83,Quarterly month
+2010-04-01,2010,April,Male,8.23,20.08,2.44,Quarterly month
+2010-07-01,2010,July,Both Sexes,6.96,17.94,2.58,Quarterly month
+2010-07-01,2010,July,Female,6.7,14.07,2.1,Quarterly month
+2010-07-01,2010,July,Male,7.12,20.41,2.87,Quarterly month
+2010-10-01,2010,October,Both Sexes,7.12,19.57,2.75,Quarterly month
+2010-10-01,2010,October,Female,6.74,15.21,2.26,Quarterly month
+2010-10-01,2010,October,Male,7.37,22.36,3.03,Quarterly month
+2011-01-01,2011,January,Both Sexes,7.44,19.42,2.61,Quarterly month
+2011-01-01,2011,January,Female,7.17,15.39,2.15,Quarterly month
+2011-01-01,2011,January,Male,7.61,21.99,2.89,Quarterly month
+2011-04-01,2011,April,Both Sexes,7.23,19.36,2.68,Quarterly month
+2011-04-01,2011,April,Female,6.69,15.27,2.28,Quarterly month
+2011-04-01,2011,April,Male,7.58,21.99,2.9,Quarterly month
+2011-07-01,2011,July,Both Sexes,7.07,19.12,2.71,Quarterly month
+2011-07-01,2011,July,Female,6.73,15.32,2.28,Quarterly month
+2011-07-01,2011,July,Male,7.28,21.59,2.96,Quarterly month
+2011-10-01,2011,October,Both Sexes,6.42,19.15,2.98,Quarterly month
+2011-10-01,2011,October,Female,6.05,15.58,2.57,Quarterly month
+2011-10-01,2011,October,Male,6.66,21.49,3.23,Quarterly month
+2012-01-01,2012,January,Both Sexes,7.19,18.8,2.61,Quarterly month
+2012-01-01,2012,January,Female,6.7,15.21,2.27,Quarterly month
+2012-01-01,2012,January,Male,7.5,21.11,2.81,Quarterly month
+2012-04-01,2012,April,Both Sexes,6.9,19.33,2.8,Quarterly month
+2012-04-01,2012,April,Female,6.67,15.71,2.36,Quarterly month
+2012-04-01,2012,April,Male,7.04,21.65,3.07,Quarterly month
+2012-07-01,2012,July,Both Sexes,7.05,22.81,3.24,Quarterly month
+2012-07-01,2012,July,Female,6.78,18.44,2.72,Quarterly month
+2012-07-01,2012,July,Male,7.22,25.66,3.55,Quarterly month
+2012-10-01,2012,October,Both Sexes,6.83,19.01,2.78,Quarterly month
+2012-10-01,2012,October,Female,6.65,15.37,2.31,Quarterly month
+2012-10-01,2012,October,Male,6.95,21.34,3.07,Quarterly month
+2013-01-01,2013,January,Both Sexes,7.09,20.91,2.95,Quarterly month
+2013-01-01,2013,January,Female,6.52,16.78,2.58,Quarterly month
+2013-01-01,2013,January,Male,7.46,23.64,3.17,Quarterly month
+2013-04-01,2013,April,Both Sexes,7.55,19.17,2.54,Quarterly month
+2013-04-01,2013,April,Female,7.49,15.47,2.06,Quarterly month
+2013-04-01,2013,April,Male,7.58,21.54,2.84,Quarterly month
+2013-07-01,2013,July,Both Sexes,7.29,19.23,2.64,Quarterly month
+2013-07-01,2013,July,Female,7.22,15.63,2.16,Quarterly month
+2013-07-01,2013,July,Male,7.34,21.53,2.93,Quarterly month
+2013-10-01,2013,October,Both Sexes,6.4,18.06,2.82,Quarterly month
+2013-10-01,2013,October,Female,5.86,13.99,2.39,Quarterly month
+2013-10-01,2013,October,Male,6.74,20.69,3.07,Quarterly month
+2014-01-01,2014,January,Both Sexes,7.54,19.5,2.59,Quarterly month
+2014-01-01,2014,January,Female,6.93,15.61,2.25,Quarterly month
+2014-01-01,2014,January,Male,7.93,22.04,2.78,Quarterly month
+2014-04-01,2014,April,Both Sexes,7.03,18.18,2.58,Quarterly month
+2014-04-01,2014,April,Female,6.8,14.75,2.17,Quarterly month
+2014-04-01,2014,April,Male,7.18,20.42,2.84,Quarterly month
+2014-07-01,2014,July,Both Sexes,6.74,18.33,2.72,Quarterly month
+2014-07-01,2014,July,Female,6.28,14.64,2.33,Quarterly month
+2014-07-01,2014,July,Male,7.04,20.75,2.95,Quarterly month
+2014-10-01,2014,October,Both Sexes,6.01,18.74,3.12,Quarterly month
+2014-10-01,2014,October,Female,5.34,14.82,2.78,Quarterly month
+2014-10-01,2014,October,Male,6.44,21.29,3.31,Quarterly month
+2015-01-01,2015,January,Both Sexes,6.57,17.9,2.73,Quarterly month
+2015-01-01,2015,January,Female,5.71,14.1,2.47,Quarterly month
+2015-01-01,2015,January,Male,7.11,20.37,2.86,Quarterly month
+2015-04-01,2015,April,Both Sexes,6.41,17.83,2.78,Quarterly month
+2015-04-01,2015,April,Female,5.96,14.17,2.38,Quarterly month
+2015-04-01,2015,April,Male,6.7,20.26,3.02,Quarterly month
+2015-07-01,2015,July,Both Sexes,6.5,20.98,3.23,Quarterly month
+2015-07-01,2015,July,Female,6.24,17.12,2.74,Quarterly month
+2015-07-01,2015,July,Male,6.67,23.52,3.53,Quarterly month
+2015-10-01,2015,October,Both Sexes,5.62,17.65,3.14,Quarterly month
+2015-10-01,2015,October,Female,5.24,14.37,2.74,Quarterly month
+2015-10-01,2015,October,Male,5.87,19.78,3.37,Quarterly month
+2016-01-01,2016,January,Both Sexes,5.69,19.6,3.44,Quarterly month
+2016-01-01,2016,January,Female,5.2,16.06,3.09,Quarterly month
+2016-01-01,2016,January,Male,6.01,21.93,3.65,Quarterly month
+2016-04-01,2016,April,Both Sexes,6.06,18.27,3.01,Quarterly month
+2016-04-01,2016,April,Female,5.79,14.51,2.51,Quarterly month
+2016-04-01,2016,April,Male,6.24,20.64,3.31,Quarterly month
+2016-07-01,2016,July,Both Sexes,5.39,17.42,3.23,Quarterly month
+2016-07-01,2016,July,Female,5.5,13.89,2.53,Quarterly month
+2016-07-01,2016,July,Male,5.32,19.65,3.69,Quarterly month
+2016-10-01,2016,October,Both Sexes,4.66,18.02,3.86,Quarterly month
+2016-10-01,2016,October,Female,4.35,14.08,3.24,Quarterly month
+2016-10-01,2016,October,Male,4.86,20.51,4.22,Quarterly month
+2017-01-01,2017,January,Both Sexes,6.56,16.26,2.48,Quarterly month
+2017-01-01,2017,January,Female,5.35,12.85,2.4,Quarterly month
+2017-01-01,2017,January,Male,7.28,18.32,2.52,Quarterly month
+2017-04-01,2017,April,Both Sexes,5.72,16.06,2.81,Quarterly month
+2017-04-01,2017,April,Female,5.51,13.19,2.39,Quarterly month
+2017-04-01,2017,April,Male,5.84,17.8,3.05,Quarterly month
+2017-07-01,2017,July,Both Sexes,5.58,16.28,2.92,Quarterly month
+2017-07-01,2017,July,Female,5.36,13.72,2.56,Quarterly month
+2017-07-01,2017,July,Male,5.71,17.82,3.12,Quarterly month
+2017-10-01,2017,October,Both Sexes,5.0,15.92,3.19,Quarterly month
+2017-10-01,2017,October,Female,4.68,13.66,2.92,Quarterly month
+2017-10-01,2017,October,Male,5.2,17.33,3.33,Quarterly month
+2018-01-01,2018,January,Both Sexes,5.26,17.96,3.41,Quarterly month
+2018-01-01,2018,January,Female,4.77,14.27,2.99,Quarterly month
+2018-01-01,2018,January,Male,5.57,20.24,3.63,Quarterly month
+2018-04-01,2018,April,Both Sexes,5.46,16.96,3.11,Quarterly month
+2018-04-01,2018,April,Female,5.34,14.87,2.78,Quarterly month
+2018-04-01,2018,April,Male,5.53,18.24,3.3,Quarterly month
+2018-07-01,2018,July,Both Sexes,5.42,17.23,3.18,Quarterly month
+2018-07-01,2018,July,Female,5.51,14.28,2.59,Quarterly month
+2018-07-01,2018,July,Male,5.37,19.05,3.55,Quarterly month
+2018-10-01,2018,October,Both Sexes,5.06,13.31,2.63,Quarterly month
+2018-10-01,2018,October,Female,4.84,10.93,2.26,Quarterly month
+2018-10-01,2018,October,Male,5.2,14.79,2.84,Quarterly month
+2019-01-01,2019,January,Both Sexes,5.29,15.42,2.91,Quarterly month
+2019-01-01,2019,January,Female,4.89,12.73,2.61,Quarterly month
+2019-01-01,2019,January,Male,5.54,17.11,3.09,Quarterly month
+2019-04-01,2019,April,Both Sexes,5.15,13.33,2.59,Quarterly month
+2019-04-01,2019,April,Female,4.97,10.87,2.19,Quarterly month
+2019-04-01,2019,April,Male,5.26,14.86,2.82,Quarterly month
+2019-07-01,2019,July,Both Sexes,5.42,13.64,2.52,Quarterly month
+2019-07-01,2019,July,Female,5.48,11.49,2.1,Quarterly month
+2019-07-01,2019,July,Male,5.38,15.01,2.79,Quarterly month
+2019-10-01,2019,October,Both Sexes,4.59,12.78,2.79,Quarterly month
+2019-10-01,2019,October,Female,4.59,10.51,2.29,Quarterly month
+2019-10-01,2019,October,Male,4.58,14.22,3.1,Quarterly month
+2020-01-01,2020,January,Both Sexes,5.32,14.81,2.78,Quarterly month
+2020-01-01,2020,January,Female,5.01,12.52,2.5,Quarterly month
+2020-01-01,2020,January,Male,5.52,16.28,2.95,Quarterly month
+2020-04-01,2020,April,Both Sexes,17.6,18.91,1.07,Quarterly month
+2020-04-01,2020,April,Female,15.63,15.74,1.01,Quarterly month
+2020-04-01,2020,April,Male,18.78,20.86,1.11,Quarterly month
+2020-07-01,2020,July,Both Sexes,9.96,17.28,1.73,Quarterly month
+2020-07-01,2020,July,Female,9.95,14.53,1.46,Quarterly month
+2020-07-01,2020,July,Male,9.96,19.03,1.91,Quarterly month
+2020-10-01,2020,October,Both Sexes,8.74,14.43,1.65,Quarterly month
+2020-10-01,2020,October,Female,8.87,11.99,1.35,Quarterly month
+2020-10-01,2020,October,Male,8.65,15.92,1.84,Quarterly month
+2021-01-01,2021,January,Both Sexes,8.77,15.97,1.82,Quarterly month
+2021-01-01,2021,January,Female,8.79,13.41,1.53,Quarterly month
+2021-01-01,2021,January,Male,8.76,17.59,2.01,Quarterly month
+2021-02-01,2021,February,Both Sexes,8.85,18.19,2.06,Monthly round
+2021-02-01,2021,February,Female,9.52,15.01,1.58,Monthly round
+2021-02-01,2021,February,Male,8.4,20.28,2.42,Monthly round
+2021-03-01,2021,March,Both Sexes,7.05,16.18,2.29,Monthly round
+2021-03-01,2021,March,Female,7.76,13.41,1.73,Monthly round
+2021-03-01,2021,March,Male,6.57,18.05,2.75,Monthly round
+2021-04-01,2021,April,Both Sexes,8.73,17.22,1.97,Quarterly month
+2021-04-01,2021,April,Female,9.13,14.61,1.6,Quarterly month
+2021-04-01,2021,April,Male,8.45,18.99,2.25,Quarterly month
+2021-05-01,2021,May,Both Sexes,7.72,12.28,1.59,Monthly round
+2021-05-01,2021,May,Female,7.64,9.69,1.27,Monthly round
+2021-05-01,2021,May,Male,7.77,14.06,1.81,Monthly round
+2021-06-01,2021,June,Both Sexes,7.72,14.22,1.84,Monthly round
+2021-06-01,2021,June,Female,9.0,12.37,1.37,Monthly round
+2021-06-01,2021,June,Male,6.82,15.48,2.27,Monthly round
+2021-07-01,2021,July,Both Sexes,7.19,21.04,2.93,Quarterly month
+2021-07-01,2021,July,Female,7.89,18.06,2.29,Quarterly month
+2021-07-01,2021,July,Male,6.74,22.94,3.4,Quarterly month
+2021-08-01,2021,August,Both Sexes,8.07,14.66,1.82,Monthly round
+2021-08-01,2021,August,Female,8.32,11.85,1.42,Monthly round
+2021-08-01,2021,August,Male,7.9,16.54,2.09,Monthly round
+2021-09-01,2021,September,Both Sexes,8.94,14.18,1.59,Monthly round
+2021-09-01,2021,September,Female,9.75,11.66,1.2,Monthly round
+2021-09-01,2021,September,Male,8.39,15.85,1.89,Monthly round
+2021-10-01,2021,October,Both Sexes,7.4,16.07,2.17,Quarterly month
+2021-10-01,2021,October,Female,7.66,13.1,1.71,Quarterly month
+2021-10-01,2021,October,Male,7.24,18.03,2.49,Quarterly month
+2021-11-01,2021,November,Both Sexes,6.5,16.75,2.58,Monthly round
+2021-11-01,2021,November,Female,6.66,14.4,2.16,Monthly round
+2021-11-01,2021,November,Male,6.39,18.34,2.87,Monthly round
+2021-12-01,2021,December,Both Sexes,6.63,14.72,2.22,Monthly round
+2021-12-01,2021,December,Female,7.0,11.92,1.7,Monthly round
+2021-12-01,2021,December,Male,6.36,16.68,2.62,Monthly round
+2022-01-01,2022,January,Both Sexes,6.39,14.87,2.33,Quarterly month
+2022-01-01,2022,January,Female,6.8,12.51,1.84,Quarterly month
+2022-01-01,2022,January,Male,6.12,16.4,2.68,Quarterly month
+2022-02-01,2022,February,Both Sexes,6.43,14.03,2.18,Monthly round
+2022-02-01,2022,February,Female,7.23,12.22,1.69,Monthly round
+2022-02-01,2022,February,Male,5.89,15.24,2.59,Monthly round
+2022-03-01,2022,March,Both Sexes,5.77,15.8,2.74,Monthly round
+2022-03-01,2022,March,Female,6.41,13.31,2.08,Monthly round
+2022-03-01,2022,March,Male,5.33,17.5,3.28,Monthly round
+2022-04-01,2022,April,Both Sexes,5.71,14.02,2.46,Quarterly month
+2022-04-01,2022,April,Female,5.68,12.0,2.11,Quarterly month
+2022-04-01,2022,April,Male,5.73,15.4,2.69,Quarterly month
+2022-05-01,2022,May,Both Sexes,5.97,14.47,2.42,Monthly round
+2022-05-01,2022,May,Female,6.02,12.58,2.09,Monthly round
+2022-05-01,2022,May,Male,5.94,15.77,2.66,Monthly round
+2022-06-01,2022,June,Both Sexes,6.03,12.64,2.1,Monthly round
+2022-06-01,2022,June,Female,6.93,10.5,1.51,Monthly round
+2022-06-01,2022,June,Male,5.41,14.1,2.61,Monthly round
+2022-07-01,2022,July,Both Sexes,5.2,13.81,2.65,Quarterly month
+2022-07-01,2022,July,Female,5.35,11.61,2.17,Quarterly month
+2022-07-01,2022,July,Male,5.1,15.34,3.01,Quarterly month
+2022-08-01,2022,August,Both Sexes,5.3,14.69,2.77,Monthly round
+2022-08-01,2022,August,Female,5.78,12.18,2.11,Monthly round
+2022-08-01,2022,August,Male,4.96,16.51,3.33,Monthly round
+2022-09-01,2022,September,Both Sexes,4.99,15.4,3.09,Monthly round
+2022-09-01,2022,September,Female,5.6,13.72,2.45,Monthly round
+2022-09-01,2022,September,Male,4.55,16.6,3.65,Monthly round
+2022-10-01,2022,October,Both Sexes,4.54,14.16,3.12,Quarterly month
+2022-10-01,2022,October,Female,4.65,11.73,2.52,Quarterly month
+2022-10-01,2022,October,Male,4.47,15.87,3.55,Quarterly month
+2022-11-01,2022,November,Both Sexes,4.2,14.4,3.43,Monthly round
+2022-11-01,2022,November,Female,4.05,12.08,2.98,Monthly round
+2022-11-01,2022,November,Male,4.3,16.14,3.75,Monthly round
+2022-12-01,2022,December,Both Sexes,4.33,12.65,2.92,Monthly round
+2022-12-01,2022,December,Female,4.95,10.94,2.21,Monthly round
+2022-12-01,2022,December,Male,3.88,13.87,3.57,Monthly round
+2023-01-01,2023,January,Both Sexes,4.78,14.05,2.94,Quarterly month
+2023-01-01,2023,January,Female,4.44,11.23,2.53,Quarterly month
+2023-01-01,2023,January,Male,5.02,16.06,3.2,Quarterly month
+2023-02-01,2023,February,Both Sexes,4.83,12.88,2.67,Monthly round
+2023-02-01,2023,February,Female,5.26,10.4,1.97,Monthly round
+2023-02-01,2023,February,Male,4.51,14.67,3.25,Monthly round
+2023-03-01,2023,March,Both Sexes,4.74,11.2,2.36,Monthly round
+2023-03-01,2023,March,Female,5.36,9.12,1.7,Monthly round
+2023-03-01,2023,March,Male,4.29,12.7,2.96,Monthly round
+2023-04-01,2023,April,Both Sexes,4.48,12.91,2.88,Quarterly month
+2023-04-01,2023,April,Female,4.03,10.64,2.64,Quarterly month
+2023-04-01,2023,April,Male,4.81,14.56,3.03,Quarterly month
+2023-05-01,2023,May,Both Sexes,4.3,11.73,2.73,Monthly round
+2023-05-01,2023,May,Female,4.71,9.43,2.0,Monthly round
+2023-05-01,2023,May,Male,4.0,13.38,3.35,Monthly round
+2023-06-01,2023,June,Both Sexes,4.55,12.03,2.65,Monthly round
+2023-06-01,2023,June,Female,4.93,10.15,2.06,Monthly round
+2023-06-01,2023,June,Male,4.27,13.38,3.14,Monthly round
+2023-07-01,2023,July,Both Sexes,4.89,15.86,3.25,Quarterly month
+2023-07-01,2023,July,Female,5.27,13.48,2.56,Quarterly month
+2023-07-01,2023,July,Male,4.63,17.43,3.76,Quarterly month
+2023-08-01,2023,August,Both Sexes,4.41,11.71,2.65,Monthly round
+2023-08-01,2023,August,Female,4.95,9.68,1.95,Monthly round
+2023-08-01,2023,August,Male,4.04,13.1,3.24,Monthly round
+2023-09-01,2023,September,Both Sexes,4.53,10.72,2.37,Monthly round
+2023-09-01,2023,September,Female,5.16,9.8,1.9,Monthly round
+2023-09-01,2023,September,Male,4.08,11.37,2.78,Monthly round
+2023-10-01,2023,October,Both Sexes,4.19,11.71,2.8,Quarterly month
+2023-10-01,2023,October,Female,4.18,9.59,2.29,Quarterly month
+2023-10-01,2023,October,Male,4.19,13.2,3.15,Quarterly month
+2023-11-01,2023,November,Both Sexes,3.56,11.66,3.27,Monthly round
+2023-11-01,2023,November,Female,4.06,10.62,2.62,Monthly round
+2023-11-01,2023,November,Male,3.21,12.4,3.87,Monthly round
+2023-12-01,2023,December,Both Sexes,3.07,11.9,3.87,Monthly round
+2023-12-01,2023,December,Female,3.34,9.94,2.98,Monthly round
+2023-12-01,2023,December,Male,2.88,13.31,4.62,Monthly round
+2024-01-01,2024,January,Both Sexes,4.49,13.72,3.06,Quarterly month
+2024-01-01,2024,January,Female,4.61,11.4,2.48,Quarterly month
+2024-01-01,2024,January,Male,4.41,15.28,3.46,Quarterly month
+2024-02-01,2024,February,Both Sexes,3.54,12.41,3.51,Monthly round
+2024-02-01,2024,February,Female,3.85,10.42,2.71,Monthly round
+2024-02-01,2024,February,Male,3.32,13.83,4.17,Monthly round
+2024-03-01,2024,March,Both Sexes,3.91,10.97,2.8,Monthly round
+2024-03-01,2024,March,Female,4.18,9.03,2.16,Monthly round
+2024-03-01,2024,March,Male,3.71,12.37,3.33,Monthly round
+2024-04-01,2024,April,Both Sexes,4.05,14.55,3.59,Quarterly month
+2024-04-01,2024,April,Female,3.86,12.54,3.25,Quarterly month
+2024-04-01,2024,April,Male,4.18,15.97,3.82,Quarterly month
+2024-05-01,2024,May,Both Sexes,4.13,9.85,2.38,Monthly round
+2024-05-01,2024,May,Female,4.25,8.24,1.94,Monthly round
+2024-05-01,2024,May,Male,4.04,11.01,2.72,Monthly round
+2024-06-01,2024,June,Both Sexes,3.12,12.1,3.88,Monthly round
+2024-06-01,2024,June,Female,3.69,10.31,2.8,Monthly round
+2024-06-01,2024,June,Male,2.71,13.38,4.94,Monthly round
+2024-07-01,2024,July,Both Sexes,4.74,12.11,2.55,Quarterly month
+2024-07-01,2024,July,Female,5.2,10.12,1.95,Quarterly month
+2024-07-01,2024,July,Male,4.43,13.48,3.04,Quarterly month
+2024-08-01,2024,August,Both Sexes,4.04,11.16,2.76,Monthly round
+2024-08-01,2024,August,Female,4.75,8.61,1.81,Monthly round
+2024-08-01,2024,August,Male,3.53,12.98,3.68,Monthly round
+2024-09-01,2024,September,Both Sexes,3.66,11.92,3.26,Monthly round
+2024-09-01,2024,September,Female,4.25,10.24,2.41,Monthly round
+2024-09-01,2024,September,Male,3.22,13.14,4.08,Monthly round
+2024-10-01,2024,October,Both Sexes,3.92,12.63,3.22,Quarterly month
+2024-10-01,2024,October,Female,3.97,10.65,2.68,Quarterly month
+2024-10-01,2024,October,Male,3.89,14.01,3.6,Quarterly month
+2024-11-01,2024,November,Both Sexes,3.25,10.81,3.33,Monthly round
+2024-11-01,2024,November,Female,3.11,9.14,2.94,Monthly round
+2024-11-01,2024,November,Male,3.34,11.99,3.59,Monthly round
+2024-12-01,2024,December,Both Sexes,3.14,10.92,3.47,Monthly round
+2024-12-01,2024,December,Female,3.49,10.0,2.87,Monthly round
+2024-12-01,2024,December,Male,2.9,11.58,4.0,Monthly round
+2025-01-01,2025,January,Both Sexes,4.28,13.34,3.12,Quarterly month
+2025-01-01,2025,January,Female,4.19,10.69,2.55,Quarterly month
+2025-01-01,2025,January,Male,4.33,15.21,3.51,Quarterly month
+2025-02-01,2025,February,Both Sexes,3.79,10.09,2.66,Monthly round
+2025-02-01,2025,February,Female,4.04,7.95,1.97,Monthly round
+2025-02-01,2025,February,Male,3.61,11.62,3.22,Monthly round
+2025-03-01,2025,March,Both Sexes,3.87,13.41,3.47,Monthly round
+2025-03-01,2025,March,Female,3.9,11.27,2.89,Monthly round
+2025-03-01,2025,March,Male,3.84,14.93,3.89,Monthly round
+2025-04-01,2025,April,Both Sexes,4.07,14.57,3.58,Quarterly month
+2025-04-01,2025,April,Female,4.11,12.55,3.05,Quarterly month
+2025-04-01,2025,April,Male,4.04,15.99,3.96,Quarterly month
+2025-05-01,2025,May,Both Sexes,3.89,13.13,3.38,Monthly round
+2025-05-01,2025,May,Female,4.03,11.11,2.76,Monthly round
+2025-05-01,2025,May,Male,3.78,14.61,3.86,Monthly round
+2025-06-01,2025,June,Both Sexes,3.72,11.42,3.07,Monthly round
+2025-06-01,2025,June,Female,3.72,9.38,2.52,Monthly round
+2025-06-01,2025,June,Male,3.71,12.89,3.47,Monthly round
+2025-07-01,2025,July,Both Sexes,5.33,14.77,2.77,Quarterly month
+2025-07-01,2025,July,Female,5.62,12.22,2.18,Quarterly month
+2025-07-01,2025,July,Male,5.14,16.48,3.2,Quarterly month
+2025-08-01,2025,August,Both Sexes,3.9,10.74,2.75,Monthly round
+2025-08-01,2025,August,Female,3.98,9.0,2.26,Monthly round
+2025-08-01,2025,August,Male,3.84,11.98,3.12,Monthly round
+2025-09-01,2025,September,Both Sexes,3.79,11.13,2.94,Monthly round
+2025-09-01,2025,September,Female,3.98,9.38,2.36,Monthly round
+2025-09-01,2025,September,Male,3.66,12.39,3.38,Monthly round
+2025-10-01,2025,October,Both Sexes,4.97,11.95,2.41,Quarterly month
+2025-10-01,2025,October,Female,5.04,9.84,1.95,Quarterly month
+2025-10-01,2025,October,Male,4.92,13.4,2.72,Quarterly month
+2025-11-01,2025,November,Both Sexes,4.37,10.37,2.37,Monthly round
+2025-11-01,2025,November,Female,4.41,8.71,1.97,Monthly round
+2025-11-01,2025,November,Male,4.34,11.57,2.66,Monthly round
+2025-12-01,2025,December,Both Sexes,4.37,7.95,1.82,Monthly round
+2025-12-01,2025,December,Female,5.36,6.41,1.2,Monthly round
+2025-12-01,2025,December,Male,3.68,9.02,2.45,Monthly round
+2026-01-01,2026,January,Both Sexes,5.81,13.24,2.28,Quarterly month
+2026-01-01,2026,January,Female,5.86,10.89,1.86,Quarterly month
+2026-01-01,2026,January,Male,5.77,14.84,2.57,Quarterly month
+2026-02-01,2026,February,Both Sexes,5.11,11.81,2.31,Monthly round
+2026-02-01,2026,February,Female,4.87,9.54,1.96,Monthly round
+2026-02-01,2026,February,Male,5.28,13.43,2.54,Monthly round
+2026-03-01,2026,March,Both Sexes,4.99,12.29,2.46,Monthly round
+2026-03-01,2026,March,Female,5.28,9.6,1.82,Monthly round
+2026-03-01,2026,March,Male,4.79,14.18,2.96,Monthly round
+2026-04-01,2026,April,Both Sexes,4.71,15.16,3.22,Quarterly month
+2026-04-01,2026,April,Female,4.78,12.67,2.65,Quarterly month
+2026-04-01,2026,April,Male,4.66,16.86,3.62,Quarterly month
+2026-05-01,2026,May,Both Sexes,4.79,12.17,2.54,Monthly round
+2026-05-01,2026,May,Female,4.89,10.16,2.08,Monthly round
+2026-05-01,2026,May,Male,4.73,13.58,2.87,Monthly round
+2026-06-01,2026,June,Both Sexes,4.86,12.07,2.48,Monthly round
+2026-06-01,2026,June,Female,4.5,9.82,2.18,Monthly round
+2026-06-01,2026,June,Male,5.12,13.7,2.68,Monthly round

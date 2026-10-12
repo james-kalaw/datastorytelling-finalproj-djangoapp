@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block title %}About · The Shape of Work{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">About the project</p>
+    <h1>A multidimensional look at underemployment and job quality in the Philippines</h1>
+    <p class="lead">The Shape of Work is a data story built for DS 009 – Data Storytelling at the Technological Institute of the Philippines – Quezon City. It asks what the headline unemployment rate leaves out.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap grid" style="gap:40px">
+    <div class="stack" style="gap:14px">
+      <h2 class="section-title">The Three Questions</h2>
+      <ol style="margin:0;padding-left:22px;display:flex;flex-direction:column;gap:14px;line-height:1.6;color:#33475E">
+        <li><strong style="color:#0B2545">How Has Underemployment Compared With Unemployment in the Philippines From 2005 to 2026?</strong> Trends, 2005–2026.</li>
+        <li><strong style="color:#0B2545">How Does Underemployment Vary Across Provinces, Sex, Age Groups and Sectors?</strong> Impact.</li>
+        <li><strong style="color:#0B2545">How Are Working Hours, Education and Pay Related to Underemployment?</strong> Reality.</li>
+      </ol>
+    </div>
+    <div class="stack" style="gap:14px">
+      <h2 class="section-title">How We Built It</h2>
+      <p style="margin:0;line-height:1.65;color:#33475E">PSA Labor Force Survey tables were cleaned and reshaped in Power Query, modeled in Power BI as a galaxy schema with DAX measures, and published to the Power BI Service. Inside the report, the province map is a native Azure Maps visual so it displays in the web embed. The model tables were exported with DAX Studio and cleaned with Python into eight datasets. This Django site embeds each dashboard page, draws the Python visuals on the server (a GeoPandas province map, a matplotlib education chart and one results chart per sub-question), and serves the datasets.</p>
+      <div class="chips-static" style="display:flex;flex-wrap:wrap;gap:8px">
+        <span>Power BI</span><span>Azure Maps</span><span>Power Query · DAX</span><span>DAX Studio</span><span>Python · pandas · GeoPandas</span><span>Django</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap stack">
+    <h2 class="section-title">The Team</h2>
+    <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(220px,1fr))">
+      {% for member in team %}
+        <div class="member">
+          <div class="avatar" role="img" aria-label="Photo placeholder"></div>
+          <strong>{{ member.name }}</strong>
+          <span class="muted small">{{ member.role }}</span>
+        </div>
+      {% endfor %}
+    </div>
+    <p class="muted" style="margin:0">DS31S1 · Submitted to Dr. Rosmina Joy Cabautan</p>
+  </div>
+</section>
+
+<section class="section tint">
+  <div class="wrap grid" style="gap:32px">
+    <div class="stack" style="gap:10px">
+      <h2 class="section-title" style="font-size:22px">Data Sources</h2>
+      <p style="margin:0;line-height:1.65;color:#33475E">Philippine Statistics Authority: OpenSTAT Labor Force Survey tables (2005–2026), Provincial Labor Market Statistics (2023–2025), and the June 2026 LFS press-release Tables 3 and C.</p>
+    </div>
+    <div class="stack" style="gap:10px">
+      <h2 class="section-title" style="font-size:22px">Limits of This Study</h2>
+      <p style="margin:0;line-height:1.65;color:#33475E">Findings come from published aggregate tables, so they describe patterns, not causes. Coverage windows differ by table, and 2025–2026 figures are partly preliminary.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

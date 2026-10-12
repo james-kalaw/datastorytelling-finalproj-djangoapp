@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ page.title }} · The Shape of Work{% endblock %}
+
+{% block switcher %}{% include "dashboard/_switcher.html" %}{% endblock %}
+
+{% block content %}
+<section class="page-head {% if page.slug == 'synthesis' %}dark{% endif %}">
+  <div class="wrap">
+    <p class="eyebrow">{{ page.act_label }}</p>
+    <h1>{{ page.question }}</h1>
+  </div>
+</section>
+
+<section class="section" style="padding-bottom:24px">
+  <div class="wrap stack" style="gap:16px">
+    <div class="row-between">
+      <h2 class="section-title" style="font-size:26px">The Interactive Dashboard</h2>
+      {% if page.slug == 'trends' %}
+        <span class="muted small">Tip: switch Quarterly / Monthly with the View Mode slicer, and hover the cards for the story.</span>
+      {% else %}
+        <span class="muted small">Tip: hover the cards and buttons in the report for the story behind each chart.</span>
+      {% endif %}
+    </div>
+    {% include "dashboard/_embed.html" %}
+  </div>
+</section>
+
+<section class="section" style="padding-top:32px">
+  <div class="wrap stack">
+    {% if chart %}
+      <figure class="chart-card">
+        <div class="row-between">
+          <span class="display" style="font-size:20px;font-weight:700">{{ chart.title }}</span>
+          <span class="tag">{{ chart.tag }}</span>
+        </div>
+        <span class="muted small">{{ chart.subtitle }}</span>
+        <img src="{% static chart.file %}" alt="{{ chart.title }}: {{ chart.subtitle }}">
+        <figcaption class="muted tiny" style="line-height:1.55">{{ chart.note }}</figcaption>
+      </figure>
+    {% endif %}
+
+    <h2 class="section-title" style="font-size:26px">What the Charts Say</h2>
+
+    <div class="rq-banner">
+      <div class="rq-q">
+        <span class="rq-label">{% if page.slug == 'synthesis' %}Main Finding{% else %}Research Question{% endif %}</span>
+        <h3>{{ page.question }}</h3>
+      </div>
+      <div class="rq-a">
+        <span class="rq-label">Answer</span>
+        <p>{{ page.intro }}</p>
+      </div>
+    </div>
+
+    <div class="qrc-grid">
+      {% for insight in insights %}
+        <article class="qrc {% if insight.label|upper == 'THE TWIST' %}hl{% endif %}">
+          <div class="qrc-box qrc-q">
+            <span class="qrc-tag">Question</span>
+            <span class="qrc-label">{{ insight.label }}</span>
+            {% if insight.question %}<h3>{{ insight.question }}</h3>{% endif %}
+          </div>
+          <div class="qrc-box qrc-r">
+            <span class="qrc-tag">Results</span>
+            {% if insight.result_image %}
+              <a href="{{ insight.result_image.url }}" target="_blank" rel="noopener">
+                <img src="{{ insight.result_image.url }}" alt="{{ insight.image_alt|default:insight.question }}" loading="lazy">
+              </a>
+            {% elif insight.chart %}
+              <a href="{% static insight.chart %}" target="_blank" rel="noopener">
+                <img src="{% static insight.chart %}" alt="{{ insight.image_alt|default:insight.question }}" loading="lazy">
+              </a>
+            {% endif %}
+            <p>{{ insight.summary }}</p>
+          </div>
+          <div class="qrc-box qrc-c">
+            <span class="qrc-tag">Conclusion</span>
+            <strong class="qrc-verdict">{{ insight.caption }}</strong>
+            {% if insight.answer %}<p>{{ insight.answer }}</p>{% endif %}
+            {% if insight.full_text %}
+              <details class="more">
+                <summary>Read the Full Insight</summary>
+                <p>{{ insight.full_text }}</p>
+              </details>
+            {% endif %}
+          </div>
+        </article>
+      {% empty %}
+        <p class="muted">No insights yet. Add them in the admin panel.</p>
+      {% endfor %}
+    </div>
+
+    {% if page.slug == 'synthesis' %}
+      <div class="row-between section tint" style="border-radius:10px;padding:32px;margin-top:12px">
+        <div class="stack" style="gap:8px;max-width:720px">
+          <span class="mono tiny" style="color:#2E5C8A">03</span>
+          <h2 class="section-title">The Response</h2>
+          <p style="margin:0;font-size:17px;line-height:1.6;color:#33475E">Six actions the data points to, from off-season income in farming provinces to more predictable hours, each tied to the finding behind it.</p>
+        </div>
+        <a class="btn btn-solid" href="{% url 'dashboard:recommendations' %}">See the recommendations →</a>
+      </div>
+      <p class="muted tiny" style="margin:0">Descriptive findings from published PSA aggregate tables; recommendations show where attention is warranted, not that one factor causes another.</p>
+    {% endif %}
+
+    <div class="pager">
+      {% if previous_page %}
+        <a class="link-strong" href="{% url 'dashboard:page' previous_page.slug %}">← {{ previous_page.title }}</a>
+      {% else %}
+        <a class="link-strong" href="{% url 'dashboard:overview' %}">← All pages</a>
+      {% endif %}
+      {% if next_page %}
+        <a class="link-strong" href="{% url 'dashboard:page' next_page.slug %}">Next: {{ next_page.title }} →</a>
+      {% else %}
+        <a class="link-strong" href="{% url 'dashboard:recommendations' %}">Next: Recommendations →</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endblock %}

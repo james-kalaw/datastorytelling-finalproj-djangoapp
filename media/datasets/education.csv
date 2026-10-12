@@ -1,0 +1,463 @@
+Date,Education Level,Tier,Status,Employed (thousands),Underemployed (thousands),Underemployment Rate (%)
+2023-01-01,College Graduate,College,Graduate,9643,759,7.87
+2023-01-01,College Undergraduate,College,Undergraduate,4410,506,11.47
+2023-01-01,Elementary Graduate,Elementary,Graduate,5120,896,17.5
+2023-01-01,Elementary Undergraduate,Elementary,Undergraduate,4989,1016,20.36
+2023-01-01,Junior High Completed,Junior High,Completed,14016,2064,14.73
+2023-01-01,Junior High Undergraduate,Junior High,Undergraduate,5154,892,17.31
+2023-01-01,No grade completed,No grade,None,538,70,13.01
+2023-01-01,Post Secondary Graduate,Post-Secondary,Graduate,1771,235,13.27
+2023-01-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,83,12,14.46
+2023-01-01,Senior High Graduate,Senior High,Graduate,1149,155,13.49
+2023-01-01,Senior High Undergraduate,Senior High,Undergraduate,479,49,10.23
+2023-02-01,College Graduate,College,Graduate,9616,590,6.14
+2023-02-01,College Undergraduate,College,Undergraduate,4158,487,11.71
+2023-02-01,Elementary Graduate,Elementary,Graduate,5503,892,16.21
+2023-02-01,Elementary Undergraduate,Elementary,Undergraduate,5354,916,17.11
+2023-02-01,Junior High Completed,Junior High,Completed,14187,1926,13.58
+2023-02-01,Junior High Undergraduate,Junior High,Undergraduate,5404,873,16.15
+2023-02-01,No grade completed,No grade,None,568,103,18.13
+2023-02-01,Post Secondary Graduate,Post-Secondary,Graduate,2290,322,14.06
+2023-02-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,47,1,2.13
+2023-02-01,Senior High Graduate,Senior High,Graduate,1144,121,10.58
+2023-02-01,Senior High Undergraduate,Senior High,Undergraduate,527,55,10.44
+2023-03-01,College Graduate,College,Graduate,9305,560,6.02
+2023-03-01,College Undergraduate,College,Undergraduate,4164,325,7.8
+2023-03-01,Elementary Graduate,Elementary,Graduate,5924,843,14.23
+2023-03-01,Elementary Undergraduate,Elementary,Undergraduate,5200,832,16.0
+2023-03-01,Junior High Completed,Junior High,Completed,13978,1609,11.51
+2023-03-01,Junior High Undergraduate,Junior High,Undergraduate,5706,846,14.83
+2023-03-01,No grade completed,No grade,None,537,47,8.75
+2023-03-01,Post Secondary Graduate,Post-Secondary,Graduate,2038,225,11.04
+2023-03-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,65,2,3.08
+2023-03-01,Senior High Graduate,Senior High,Graduate,1163,89,7.65
+2023-03-01,Senior High Undergraduate,Senior High,Undergraduate,503,63,12.52
+2023-04-01,College Graduate,College,Graduate,9835,751,7.64
+2023-04-01,College Undergraduate,College,Undergraduate,4307,445,10.33
+2023-04-01,Elementary Graduate,Elementary,Graduate,5467,874,15.99
+2023-04-01,Elementary Undergraduate,Elementary,Undergraduate,5107,912,17.86
+2023-04-01,Junior High Completed,Junior High,Completed,13891,1813,13.05
+2023-04-01,Junior High Undergraduate,Junior High,Undergraduate,5382,852,15.83
+2023-04-01,No grade completed,No grade,None,532,77,14.47
+2023-04-01,Post Secondary Graduate,Post-Secondary,Graduate,1787,290,16.23
+2023-04-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,49,2,4.08
+2023-04-01,Senior High Graduate,Senior High,Graduate,1152,134,11.63
+2023-04-01,Senior High Undergraduate,Senior High,Undergraduate,550,51,9.27
+2023-05-01,College Graduate,College,Graduate,9440,581,6.15
+2023-05-01,College Undergraduate,College,Undergraduate,3859,459,11.89
+2023-05-01,Elementary Graduate,Elementary,Graduate,5909,727,12.3
+2023-05-01,Elementary Undergraduate,Elementary,Undergraduate,5437,773,14.22
+2023-05-01,Junior High Completed,Junior High,Completed,13875,1837,13.24
+2023-05-01,Junior High Undergraduate,Junior High,Undergraduate,5564,728,13.08
+2023-05-01,No grade completed,No grade,None,463,54,11.66
+2023-05-01,Post Secondary Graduate,Post-Secondary,Graduate,2098,284,13.54
+2023-05-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,46,8,17.39
+2023-05-01,Senior High Graduate,Senior High,Graduate,1159,180,15.53
+2023-05-01,Senior High Undergraduate,Senior High,Undergraduate,411,30,7.3
+2023-06-01,College Graduate,College,Graduate,9513,693,7.28
+2023-06-01,College Undergraduate,College,Undergraduate,4453,535,12.01
+2023-06-01,Elementary Graduate,Elementary,Graduate,5567,793,14.24
+2023-06-01,Elementary Undergraduate,Elementary,Undergraduate,5290,763,14.42
+2023-06-01,Junior High Completed,Junior High,Completed,14192,1813,12.77
+2023-06-01,Junior High Undergraduate,Junior High,Undergraduate,5751,737,12.82
+2023-06-01,No grade completed,No grade,None,612,90,14.71
+2023-06-01,Post Secondary Graduate,Post-Secondary,Graduate,1892,288,15.22
+2023-06-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,43,3,6.98
+2023-06-01,Senior High Graduate,Senior High,Graduate,1070,102,9.53
+2023-06-01,Senior High Undergraduate,Senior High,Undergraduate,458,58,12.66
+2023-07-01,College Graduate,College,Graduate,9041,848,9.38
+2023-07-01,College Undergraduate,College,Undergraduate,4198,592,14.1
+2023-07-01,Elementary Graduate,Elementary,Graduate,4804,901,18.76
+2023-07-01,Elementary Undergraduate,Elementary,Undergraduate,5126,1098,21.42
+2023-07-01,Junior High Completed,Junior High,Completed,13003,2053,15.79
+2023-07-01,Junior High Undergraduate,Junior High,Undergraduate,5064,1018,20.1
+2023-07-01,No grade completed,No grade,None,529,105,19.85
+2023-07-01,Post Secondary Graduate,Post-Secondary,Graduate,1419,233,16.42
+2023-07-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,23,7,30.43
+2023-07-01,Senior High Graduate,Senior High,Graduate,955,155,16.23
+2023-07-01,Senior High Undergraduate,Senior High,Undergraduate,395,60,15.19
+2023-08-01,College Graduate,College,Graduate,9307,612,6.58
+2023-08-01,College Undergraduate,College,Undergraduate,4301,415,9.65
+2023-08-01,Elementary Graduate,Elementary,Graduate,5895,960,16.28
+2023-08-01,Elementary Undergraduate,Elementary,Undergraduate,5437,855,15.73
+2023-08-01,Junior High Completed,Junior High,Completed,14202,1580,11.13
+2023-08-01,Junior High Undergraduate,Junior High,Undergraduate,4890,725,14.83
+2023-08-01,No grade completed,No grade,None,610,93,15.25
+2023-08-01,Post Secondary Graduate,Post-Secondary,Graduate,1670,192,11.5
+2023-08-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,24,3,12.5
+2023-08-01,Senior High Graduate,Senior High,Graduate,1198,131,10.93
+2023-08-01,Senior High Undergraduate,Senior High,Undergraduate,539,66,12.24
+2023-09-01,College Graduate,College,Graduate,10027,622,6.2
+2023-09-01,College Undergraduate,College,Undergraduate,4420,359,8.12
+2023-09-01,Elementary Graduate,Elementary,Graduate,5434,723,13.31
+2023-09-01,Elementary Undergraduate,Elementary,Undergraduate,4716,704,14.93
+2023-09-01,Junior High Completed,Junior High,Completed,14367,1603,11.16
+2023-09-01,Junior High Undergraduate,Junior High,Undergraduate,5036,686,13.62
+2023-09-01,No grade completed,No grade,None,427,71,16.63
+2023-09-01,Post Secondary Graduate,Post-Secondary,Graduate,1709,227,13.28
+2023-09-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,25,6,24.0
+2023-09-01,Senior High Graduate,Senior High,Graduate,1121,73,6.51
+2023-09-01,Senior High Undergraduate,Senior High,Undergraduate,384,38,9.9
+2023-10-01,College Graduate,College,Graduate,10094,671,6.65
+2023-10-01,College Undergraduate,College,Undergraduate,4515,451,9.99
+2023-10-01,Elementary Graduate,Elementary,Graduate,5224,760,14.55
+2023-10-01,Elementary Undergraduate,Elementary,Undergraduate,5039,831,16.49
+2023-10-01,Junior High Completed,Junior High,Completed,14327,1684,11.75
+2023-10-01,Junior High Undergraduate,Junior High,Undergraduate,5115,789,15.43
+2023-10-01,No grade completed,No grade,None,519,84,16.18
+2023-10-01,Post Secondary Graduate,Post-Secondary,Graduate,1487,173,11.63
+2023-10-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,32,5,15.62
+2023-10-01,Senior High Graduate,Senior High,Graduate,1082,112,10.35
+2023-10-01,Senior High Undergraduate,Senior High,Undergraduate,354,37,10.45
+2023-11-01,College Graduate,College,Graduate,9515,813,8.54
+2023-11-01,College Undergraduate,College,Undergraduate,4341,470,10.83
+2023-11-01,Elementary Graduate,Elementary,Graduate,6123,738,12.05
+2023-11-01,Elementary Undergraduate,Elementary,Undergraduate,5585,771,13.8
+2023-11-01,Junior High Completed,Junior High,Completed,14882,1732,11.64
+2023-11-01,Junior High Undergraduate,Junior High,Undergraduate,5356,798,14.9
+2023-11-01,No grade completed,No grade,None,622,49,7.88
+2023-11-01,Post Secondary Graduate,Post-Secondary,Graduate,1445,181,12.53
+2023-11-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,69,36,52.17
+2023-11-01,Senior High Graduate,Senior High,Graduate,1299,161,12.39
+2023-11-01,Senior High Undergraduate,Senior High,Undergraduate,399,39,9.77
+2023-12-01,College Graduate,College,Graduate,9821,591,6.02
+2023-12-01,College Undergraduate,College,Undergraduate,4270,402,9.41
+2023-12-01,Elementary Graduate,Elementary,Graduate,6228,924,14.84
+2023-12-01,Elementary Undergraduate,Elementary,Undergraduate,5290,920,17.39
+2023-12-01,Junior High Completed,Junior High,Completed,15563,1814,11.66
+2023-12-01,Junior High Undergraduate,Junior High,Undergraduate,5561,923,16.6
+2023-12-01,No grade completed,No grade,None,447,94,21.03
+2023-12-01,Post Secondary Graduate,Post-Secondary,Graduate,1604,165,10.29
+2023-12-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,0,0,
+2023-12-01,Senior High Graduate,Senior High,Graduate,1305,140,10.73
+2023-12-01,Senior High Undergraduate,Senior High,Undergraduate,437,36,8.24
+2024-01-01,College Graduate,College,Graduate,9452,723,7.65
+2024-01-01,College Undergraduate,College,Undergraduate,4156,487,11.72
+2024-01-01,Elementary Graduate,Elementary,Graduate,4988,854,17.12
+2024-01-01,Elementary Undergraduate,Elementary,Undergraduate,5154,1017,19.73
+2024-01-01,Junior High Completed,Junior High,Completed,13572,1842,13.57
+2024-01-01,Junior High Undergraduate,Junior High,Undergraduate,5097,884,17.34
+2024-01-01,No grade completed,No grade,None,554,107,19.31
+2024-01-01,Post Secondary Graduate,Post-Secondary,Graduate,1418,176,12.41
+2024-01-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,20,3,15.0
+2024-01-01,Senior High Graduate,Senior High,Graduate,1091,150,13.75
+2024-01-01,Senior High Undergraduate,Senior High,Undergraduate,401,52,12.97
+2024-02-01,College Graduate,College,Graduate,9640,714,7.41
+2024-02-01,College Undergraduate,College,Undergraduate,4298,503,11.7
+2024-02-01,Elementary Graduate,Elementary,Graduate,5235,803,15.34
+2024-02-01,Elementary Undergraduate,Elementary,Undergraduate,4958,921,18.58
+2024-02-01,Junior High Completed,Junior High,Completed,15531,1885,12.14
+2024-02-01,Junior High Undergraduate,Junior High,Undergraduate,5155,724,14.04
+2024-02-01,No grade completed,No grade,None,610,88,14.43
+2024-02-01,Post Secondary Graduate,Post-Secondary,Graduate,1756,222,12.64
+2024-02-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,90,15,16.67
+2024-02-01,Senior High Graduate,Senior High,Graduate,1259,162,12.87
+2024-02-01,Senior High Undergraduate,Senior High,Undergraduate,417,39,9.35
+2024-03-01,College Graduate,College,Graduate,10750,615,5.72
+2024-03-01,College Undergraduate,College,Undergraduate,4553,425,9.33
+2024-03-01,Elementary Graduate,Elementary,Graduate,5331,751,14.09
+2024-03-01,Elementary Undergraduate,Elementary,Undergraduate,4742,771,16.26
+2024-03-01,Junior High Completed,Junior High,Completed,14567,1646,11.3
+2024-03-01,Junior High Undergraduate,Junior High,Undergraduate,5431,766,14.1
+2024-03-01,No grade completed,No grade,None,407,53,13.02
+2024-03-01,Post Secondary Graduate,Post-Secondary,Graduate,1624,132,8.13
+2024-03-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,57,6,10.53
+2024-03-01,Senior High Graduate,Senior High,Graduate,1196,151,12.63
+2024-03-01,Senior High Undergraduate,Senior High,Undergraduate,495,75,15.15
+2024-04-01,College Graduate,College,Graduate,9617,862,8.96
+2024-04-01,College Undergraduate,College,Undergraduate,4325,517,11.95
+2024-04-01,Elementary Graduate,Elementary,Graduate,5426,945,17.42
+2024-04-01,Elementary Undergraduate,Elementary,Undergraduate,4910,949,19.33
+2024-04-01,Junior High Completed,Junior High,Completed,15040,2244,14.92
+2024-04-01,Junior High Undergraduate,Junior High,Undergraduate,5192,912,17.57
+2024-04-01,No grade completed,No grade,None,485,81,16.7
+2024-04-01,Post Secondary Graduate,Post-Secondary,Graduate,1550,257,16.58
+2024-04-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,51,7,13.73
+2024-04-01,Senior High Graduate,Senior High,Graduate,1315,205,15.59
+2024-04-01,Senior High Undergraduate,Senior High,Undergraduate,443,56,12.64
+2024-05-01,College Graduate,College,Graduate,9403,554,5.89
+2024-05-01,College Undergraduate,College,Undergraduate,4343,416,9.58
+2024-05-01,Elementary Graduate,Elementary,Graduate,5690,634,11.14
+2024-05-01,Elementary Undergraduate,Elementary,Undergraduate,4897,619,12.64
+2024-05-01,Junior High Completed,Junior High,Completed,15230,1469,9.65
+2024-05-01,Junior High Undergraduate,Junior High,Undergraduate,5522,704,12.75
+2024-05-01,No grade completed,No grade,None,445,47,10.56
+2024-05-01,Post Secondary Graduate,Post-Secondary,Graduate,1618,194,11.99
+2024-05-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,47,1,2.13
+2024-05-01,Senior High Graduate,Senior High,Graduate,1239,135,10.9
+2024-05-01,Senior High Undergraduate,Senior High,Undergraduate,432,42,9.72
+2024-06-01,College Graduate,College,Graduate,9608,634,6.6
+2024-06-01,College Undergraduate,College,Undergraduate,4783,461,9.64
+2024-06-01,Elementary Graduate,Elementary,Graduate,5868,888,15.13
+2024-06-01,Elementary Undergraduate,Elementary,Undergraduate,4945,781,15.79
+2024-06-01,Junior High Completed,Junior High,Completed,15869,1983,12.5
+2024-06-01,Junior High Undergraduate,Junior High,Undergraduate,5183,809,15.61
+2024-06-01,No grade completed,No grade,None,474,108,22.78
+2024-06-01,Post Secondary Graduate,Post-Secondary,Graduate,1611,180,11.17
+2024-06-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,67,8,11.94
+2024-06-01,Senior High Graduate,Senior High,Graduate,1432,176,12.29
+2024-06-01,Senior High Undergraduate,Senior High,Undergraduate,437,53,12.13
+2024-07-01,College Graduate,College,Graduate,9466,750,7.92
+2024-07-01,College Undergraduate,College,Undergraduate,4715,479,10.16
+2024-07-01,Elementary Graduate,Elementary,Graduate,5198,735,14.14
+2024-07-01,Elementary Undergraduate,Elementary,Undergraduate,5019,848,16.9
+2024-07-01,Junior High Completed,Junior High,Completed,14134,1707,12.08
+2024-07-01,Junior High Undergraduate,Junior High,Undergraduate,4957,690,13.92
+2024-07-01,No grade completed,No grade,None,600,113,18.83
+2024-07-01,Post Secondary Graduate,Post-Secondary,Graduate,1576,204,12.94
+2024-07-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,29,6,20.69
+2024-07-01,Senior High Graduate,Senior High,Graduate,1477,177,11.98
+2024-07-01,Senior High Undergraduate,Senior High,Undergraduate,511,63,12.33
+2024-08-01,College Graduate,College,Graduate,10209,743,7.28
+2024-08-01,College Undergraduate,College,Undergraduate,4786,423,8.84
+2024-08-01,Elementary Graduate,Elementary,Graduate,5145,690,13.41
+2024-08-01,Elementary Undergraduate,Elementary,Undergraduate,4379,680,15.53
+2024-08-01,Junior High Completed,Junior High,Completed,15844,1855,11.71
+2024-08-01,Junior High Undergraduate,Junior High,Undergraduate,4861,598,12.3
+2024-08-01,No grade completed,No grade,None,440,35,7.95
+2024-08-01,Post Secondary Graduate,Post-Secondary,Graduate,1619,227,14.02
+2024-08-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,58,11,18.97
+2024-08-01,Senior High Graduate,Senior High,Graduate,1415,169,11.94
+2024-08-01,Senior High Undergraduate,Senior High,Undergraduate,398,54,13.57
+2024-09-01,College Graduate,College,Graduate,10693,908,8.49
+2024-09-01,College Undergraduate,College,Undergraduate,4830,425,8.8
+2024-09-01,Elementary Graduate,Elementary,Graduate,5342,811,15.18
+2024-09-01,Elementary Undergraduate,Elementary,Undergraduate,4661,781,16.76
+2024-09-01,Junior High Completed,Junior High,Completed,15423,1748,11.33
+2024-09-01,Junior High Undergraduate,Junior High,Undergraduate,4844,732,15.11
+2024-09-01,No grade completed,No grade,None,399,40,10.03
+2024-09-01,Post Secondary Graduate,Post-Secondary,Graduate,1815,273,15.04
+2024-09-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,28,4,14.29
+2024-09-01,Senior High Graduate,Senior High,Graduate,1465,196,13.38
+2024-09-01,Senior High Undergraduate,Senior High,Undergraduate,374,26,6.95
+2024-10-01,College Graduate,College,Graduate,10374,789,7.61
+2024-10-01,College Undergraduate,College,Undergraduate,4343,431,9.92
+2024-10-01,Elementary Graduate,Elementary,Graduate,5367,818,15.24
+2024-10-01,Elementary Undergraduate,Elementary,Undergraduate,4821,852,17.67
+2024-10-01,Junior High Completed,Junior High,Completed,14930,1895,12.69
+2024-10-01,Junior High Undergraduate,Junior High,Undergraduate,4879,818,16.77
+2024-10-01,No grade completed,No grade,None,510,86,16.86
+2024-10-01,Post Secondary Graduate,Post-Secondary,Graduate,1433,214,14.93
+2024-10-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,44,7,15.91
+2024-10-01,Senior High Graduate,Senior High,Graduate,1159,131,11.3
+2024-10-01,Senior High Undergraduate,Senior High,Undergraduate,296,41,13.85
+2024-11-01,College Graduate,College,Graduate,9825,620,6.31
+2024-11-01,College Undergraduate,College,Undergraduate,4618,357,7.73
+2024-11-01,Elementary Graduate,Elementary,Graduate,5526,731,13.23
+2024-11-01,Elementary Undergraduate,Elementary,Undergraduate,4604,667,14.49
+2024-11-01,Junior High Completed,Junior High,Completed,15837,1698,10.72
+2024-11-01,Junior High Undergraduate,Junior High,Undergraduate,4983,678,13.61
+2024-11-01,No grade completed,No grade,None,488,76,15.57
+2024-11-01,Post Secondary Graduate,Post-Secondary,Graduate,1627,240,14.75
+2024-11-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,85,26,30.59
+2024-11-01,Senior High Graduate,Senior High,Graduate,1520,203,13.36
+2024-11-01,Senior High Undergraduate,Senior High,Undergraduate,428,59,13.79
+2024-12-01,College Graduate,College,Graduate,9879,859,8.7
+2024-12-01,College Undergraduate,College,Undergraduate,4867,490,10.07
+2024-12-01,Elementary Graduate,Elementary,Graduate,5600,677,12.09
+2024-12-01,Elementary Undergraduate,Elementary,Undergraduate,4571,564,12.34
+2024-12-01,Junior High Completed,Junior High,Completed,16054,1676,10.44
+2024-12-01,Junior High Undergraduate,Junior High,Undergraduate,5010,686,13.69
+2024-12-01,No grade completed,No grade,None,621,91,14.65
+2024-12-01,Post Secondary Graduate,Post-Secondary,Graduate,1653,237,14.34
+2024-12-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,58,18,31.03
+2024-12-01,Senior High Graduate,Senior High,Graduate,1468,126,8.58
+2024-12-01,Senior High Undergraduate,Senior High,Undergraduate,403,56,13.9
+2025-01-01,College Graduate,College,Graduate,9969,709,7.11
+2025-01-01,College Undergraduate,College,Undergraduate,4620,533,11.54
+2025-01-01,Elementary Graduate,Elementary,Graduate,5273,948,17.98
+2025-01-01,Elementary Undergraduate,Elementary,Undergraduate,4726,880,18.62
+2025-01-01,Junior High Completed,Junior High,Completed,15150,2071,13.67
+2025-01-01,Junior High Undergraduate,Junior High,Undergraduate,4938,824,16.69
+2025-01-01,No grade completed,No grade,None,512,89,17.38
+2025-01-01,Post Secondary Graduate,Post-Secondary,Graduate,1582,193,12.2
+2025-01-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,37,5,13.51
+2025-01-01,Senior High Graduate,Senior High,Graduate,1350,178,13.19
+2025-01-01,Senior High Undergraduate,Senior High,Undergraduate,329,40,12.16
+2025-02-01,College Graduate,College,Graduate,10245,589,5.75
+2025-02-01,College Undergraduate,College,Undergraduate,4342,301,6.93
+2025-02-01,Elementary Graduate,Elementary,Graduate,5285,640,12.11
+2025-02-01,Elementary Undergraduate,Elementary,Undergraduate,4496,510,11.34
+2025-02-01,Junior High Completed,Junior High,Completed,15599,1774,11.37
+2025-02-01,Junior High Undergraduate,Junior High,Undergraduate,5148,688,13.36
+2025-02-01,No grade completed,No grade,None,438,105,23.97
+2025-02-01,Post Secondary Graduate,Post-Secondary,Graduate,1740,204,11.72
+2025-02-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,36,0,0.0
+2025-02-01,Senior High Graduate,Senior High,Graduate,1423,124,8.71
+2025-02-01,Senior High Undergraduate,Senior High,Undergraduate,404,25,6.19
+2025-03-01,College Graduate,College,Graduate,10061,711,7.07
+2025-03-01,College Undergraduate,College,Undergraduate,4546,569,12.52
+2025-03-01,Elementary Graduate,Elementary,Graduate,5095,803,15.76
+2025-03-01,Elementary Undergraduate,Elementary,Undergraduate,4491,757,16.86
+2025-03-01,Junior High Completed,Junior High,Completed,14592,2034,13.94
+2025-03-01,Junior High Undergraduate,Junior High,Undergraduate,5093,936,18.38
+2025-03-01,No grade completed,No grade,None,375,83,22.13
+2025-03-01,Post Secondary Graduate,Post-Secondary,Graduate,1893,253,13.37
+2025-03-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,58,33,56.9
+2025-03-01,Senior High Graduate,Senior High,Graduate,1480,229,15.47
+2025-03-01,Senior High Undergraduate,Senior High,Undergraduate,339,32,9.44
+2025-04-01,College Graduate,College,Graduate,10108,917,9.07
+2025-04-01,College Undergraduate,College,Undergraduate,4655,625,13.43
+2025-04-01,Elementary Graduate,Elementary,Graduate,5240,925,17.65
+2025-04-01,Elementary Undergraduate,Elementary,Undergraduate,4664,880,18.87
+2025-04-01,Junior High Completed,Junior High,Completed,15143,2273,15.01
+2025-04-01,Junior High Undergraduate,Junior High,Undergraduate,4834,835,17.27
+2025-04-01,No grade completed,No grade,None,507,91,17.95
+2025-04-01,Post Secondary Graduate,Post-Secondary,Graduate,1599,267,16.7
+2025-04-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,61,9,14.75
+2025-04-01,Senior High Graduate,Senior High,Graduate,1456,210,14.42
+2025-04-01,Senior High Undergraduate,Senior High,Undergraduate,404,58,14.36
+2025-05-01,College Graduate,College,Graduate,10718,718,6.7
+2025-05-01,College Undergraduate,College,Undergraduate,4852,659,13.58
+2025-05-01,Elementary Graduate,Elementary,Graduate,5356,786,14.68
+2025-05-01,Elementary Undergraduate,Elementary,Undergraduate,4505,813,18.05
+2025-05-01,Junior High Completed,Junior High,Completed,14991,2235,14.91
+2025-05-01,Junior High Undergraduate,Junior High,Undergraduate,4990,742,14.87
+2025-05-01,No grade completed,No grade,None,417,94,22.54
+2025-05-01,Post Secondary Graduate,Post-Secondary,Graduate,2184,296,13.55
+2025-05-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,64,7,10.94
+2025-05-01,Senior High Graduate,Senior High,Graduate,1748,188,10.76
+2025-05-01,Senior High Undergraduate,Senior High,Undergraduate,465,63,13.55
+2025-06-01,College Graduate,College,Graduate,10500,751,7.15
+2025-06-01,College Undergraduate,College,Undergraduate,4660,457,9.81
+2025-06-01,Elementary Graduate,Elementary,Graduate,5631,822,14.6
+2025-06-01,Elementary Undergraduate,Elementary,Undergraduate,4916,738,15.01
+2025-06-01,Junior High Completed,Junior High,Completed,15033,1693,11.26
+2025-06-01,Junior High Undergraduate,Junior High,Undergraduate,5120,715,13.96
+2025-06-01,No grade completed,No grade,None,465,94,20.22
+2025-06-01,Post Secondary Graduate,Post-Secondary,Graduate,1905,287,15.07
+2025-06-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,34,0,0.0
+2025-06-01,Senior High Graduate,Senior High,Graduate,1720,135,7.85
+2025-06-01,Senior High Undergraduate,Senior High,Undergraduate,491,71,14.46
+2025-07-01,College Graduate,College,Graduate,10245,908,8.86
+2025-07-01,College Undergraduate,College,Undergraduate,4379,557,12.72
+2025-07-01,Elementary Graduate,Elementary,Graduate,4673,865,18.51
+2025-07-01,Elementary Undergraduate,Elementary,Undergraduate,4645,988,21.27
+2025-07-01,Junior High Completed,Junior High,Completed,13769,1999,14.52
+2025-07-01,Junior High Undergraduate,Junior High,Undergraduate,4634,911,19.66
+2025-07-01,No grade completed,No grade,None,501,97,19.36
+2025-07-01,Post Secondary Graduate,Post-Secondary,Graduate,1405,212,15.09
+2025-07-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,33,9,27.27
+2025-07-01,Senior High Graduate,Senior High,Graduate,1413,210,14.86
+2025-07-01,Senior High Undergraduate,Senior High,Undergraduate,348,47,13.51
+2025-08-01,College Graduate,College,Graduate,10414,575,5.52
+2025-08-01,College Undergraduate,College,Undergraduate,4386,447,10.19
+2025-08-01,Elementary Graduate,Elementary,Graduate,5468,781,14.28
+2025-08-01,Elementary Undergraduate,Elementary,Undergraduate,4948,679,13.72
+2025-08-01,Junior High Completed,Junior High,Completed,15646,1656,10.58
+2025-08-01,Junior High Undergraduate,Junior High,Undergraduate,5152,738,14.32
+2025-08-01,No grade completed,No grade,None,384,65,16.93
+2025-08-01,Post Secondary Graduate,Post-Secondary,Graduate,1603,194,12.1
+2025-08-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,27,12,44.44
+2025-08-01,Senior High Graduate,Senior High,Graduate,1687,193,11.44
+2025-08-01,Senior High Undergraduate,Senior High,Undergraduate,381,41,10.76
+2025-09-01,College Graduate,College,Graduate,10773,690,6.4
+2025-09-01,College Undergraduate,College,Undergraduate,4726,458,9.69
+2025-09-01,Elementary Graduate,Elementary,Graduate,5668,766,13.51
+2025-09-01,Elementary Undergraduate,Elementary,Undergraduate,4679,677,14.47
+2025-09-01,Junior High Completed,Junior High,Completed,14942,1834,12.27
+2025-09-01,Junior High Undergraduate,Junior High,Undergraduate,4831,652,13.5
+2025-09-01,No grade completed,No grade,None,426,55,12.91
+2025-09-01,Post Secondary Graduate,Post-Secondary,Graduate,1628,195,11.98
+2025-09-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,37,2,5.41
+2025-09-01,Senior High Graduate,Senior High,Graduate,1460,140,9.59
+2025-09-01,Senior High Undergraduate,Senior High,Undergraduate,431,54,12.53
+2025-10-01,College Graduate,College,Graduate,10631,704,6.62
+2025-10-01,College Undergraduate,College,Undergraduate,4572,464,10.15
+2025-10-01,Elementary Graduate,Elementary,Graduate,5099,794,15.57
+2025-10-01,Elementary Undergraduate,Elementary,Undergraduate,4615,788,17.07
+2025-10-01,Junior High Completed,Junior High,Completed,15072,1854,12.3
+2025-10-01,Junior High Undergraduate,Junior High,Undergraduate,4686,710,15.15
+2025-10-01,No grade completed,No grade,None,465,89,19.14
+2025-10-01,Post Secondary Graduate,Post-Secondary,Graduate,1543,183,11.86
+2025-10-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,40,6,15.0
+2025-10-01,Senior High Graduate,Senior High,Graduate,1554,183,11.78
+2025-10-01,Senior High Undergraduate,Senior High,Undergraduate,343,36,10.5
+2025-11-01,College Graduate,College,Graduate,11034,621,5.63
+2025-11-01,College Undergraduate,College,Undergraduate,4432,362,8.17
+2025-11-01,Elementary Graduate,Elementary,Graduate,5538,793,14.32
+2025-11-01,Elementary Undergraduate,Elementary,Undergraduate,4494,844,18.78
+2025-11-01,Junior High Completed,Junior High,Completed,14587,1380,9.46
+2025-11-01,Junior High Undergraduate,Junior High,Undergraduate,5024,659,13.12
+2025-11-01,No grade completed,No grade,None,398,79,19.85
+2025-11-01,Post Secondary Graduate,Post-Secondary,Graduate,1798,175,9.73
+2025-11-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,51,11,21.57
+2025-11-01,Senior High Graduate,Senior High,Graduate,1550,132,8.52
+2025-11-01,Senior High Undergraduate,Senior High,Undergraduate,359,54,15.04
+2025-12-01,College Graduate,College,Graduate,11165,485,4.34
+2025-12-01,College Undergraduate,College,Undergraduate,4664,283,6.07
+2025-12-01,Elementary Graduate,Elementary,Graduate,5626,542,9.63
+2025-12-01,Elementary Undergraduate,Elementary,Undergraduate,4198,594,14.15
+2025-12-01,Junior High Completed,Junior High,Completed,15043,1220,8.11
+2025-12-01,Junior High Undergraduate,Junior High,Undergraduate,4625,494,10.68
+2025-12-01,No grade completed,No grade,None,462,52,11.26
+2025-12-01,Post Secondary Graduate,Post-Secondary,Graduate,1535,100,6.51
+2025-12-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,61,1,1.64
+2025-12-01,Senior High Graduate,Senior High,Graduate,1724,126,7.31
+2025-12-01,Senior High Undergraduate,Senior High,Undergraduate,323,35,10.84
+2026-01-01,College Graduate,College,Graduate,10868,785,7.22
+2026-01-01,College Undergraduate,College,Undergraduate,4570,514,11.25
+2026-01-01,Elementary Graduate,Elementary,Graduate,4744,834,17.58
+2026-01-01,Elementary Undergraduate,Elementary,Undergraduate,4662,932,19.99
+2026-01-01,Junior High Completed,Junior High,Completed,14141,1882,13.31
+2026-01-01,Junior High Undergraduate,Junior High,Undergraduate,4798,829,17.28
+2026-01-01,No grade completed,No grade,None,512,99,19.34
+2026-01-01,Post Secondary Graduate,Post-Secondary,Graduate,1558,203,13.03
+2026-01-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,29,4,13.79
+2026-01-01,Senior High Graduate,Senior High,Graduate,1671,217,12.99
+2026-01-01,Senior High Undergraduate,Senior High,Undergraduate,385,50,12.99
+2026-02-01,College Graduate,College,Graduate,11185,810,7.24
+2026-02-01,College Undergraduate,College,Undergraduate,4514,502,11.12
+2026-02-01,Elementary Graduate,Elementary,Graduate,5002,732,14.63
+2026-02-01,Elementary Undergraduate,Elementary,Undergraduate,4276,734,17.17
+2026-02-01,Junior High Completed,Junior High,Completed,15466,1754,11.34
+2026-02-01,Junior High Undergraduate,Junior High,Undergraduate,4504,630,13.99
+2026-02-01,No grade completed,No grade,None,401,105,26.18
+2026-02-01,Post Secondary Graduate,Post-Secondary,Graduate,1945,276,14.19
+2026-02-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,27,15,55.56
+2026-02-01,Senior High Graduate,Senior High,Graduate,1710,227,13.27
+2026-02-01,Senior High Undergraduate,Senior High,Undergraduate,396,54,13.64
+2026-03-01,College Graduate,College,Graduate,10993,676,6.15
+2026-03-01,College Undergraduate,College,Undergraduate,4581,599,13.08
+2026-03-01,Elementary Graduate,Elementary,Graduate,4952,676,13.65
+2026-03-01,Elementary Undergraduate,Elementary,Undergraduate,4237,786,18.55
+2026-03-01,Junior High Completed,Junior High,Completed,15233,1872,12.29
+2026-03-01,Junior High Undergraduate,Junior High,Undergraduate,4776,802,16.79
+2026-03-01,No grade completed,No grade,None,429,96,22.38
+2026-03-01,Post Secondary Graduate,Post-Secondary,Graduate,1589,254,15.98
+2026-03-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,67,11,16.42
+2026-03-01,Senior High Graduate,Senior High,Graduate,1804,208,11.53
+2026-03-01,Senior High Undergraduate,Senior High,Undergraduate,409,51,12.47
+2026-04-01,College Graduate,College,Graduate,10874,1123,10.33
+2026-04-01,College Undergraduate,College,Undergraduate,4731,633,13.38
+2026-04-01,Elementary Graduate,Elementary,Graduate,4973,965,19.4
+2026-04-01,Elementary Undergraduate,Elementary,Undergraduate,4578,923,20.16
+2026-04-01,Junior High Completed,Junior High,Completed,14360,2181,15.19
+2026-04-01,Junior High Undergraduate,Junior High,Undergraduate,4726,827,17.5
+2026-04-01,No grade completed,No grade,None,480,98,20.42
+2026-04-01,Post Secondary Graduate,Post-Secondary,Graduate,1589,254,15.98
+2026-04-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,56,16,28.57
+2026-04-01,Senior High Graduate,Senior High,Graduate,2035,309,15.18
+2026-04-01,Senior High Undergraduate,Senior High,Undergraduate,488,81,16.6
+2026-05-01,College Graduate,College,Graduate,10797,940,8.71
+2026-05-01,College Undergraduate,College,Undergraduate,5037,498,9.89
+2026-05-01,Elementary Graduate,Elementary,Graduate,4955,705,14.23
+2026-05-01,Elementary Undergraduate,Elementary,Undergraduate,4359,697,15.99
+2026-05-01,Junior High Completed,Junior High,Completed,15020,1823,12.14
+2026-05-01,Junior High Undergraduate,Junior High,Undergraduate,4886,731,14.96
+2026-05-01,No grade completed,No grade,None,314,53,16.88
+2026-05-01,Post Secondary Graduate,Post-Secondary,Graduate,1784,276,15.47
+2026-05-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,44,14,31.82
+2026-05-01,Senior High Graduate,Senior High,Graduate,1987,238,11.98
+2026-05-01,Senior High Undergraduate,Senior High,Undergraduate,444,64,14.41
+2026-06-01,College Graduate,College,Graduate,11281,1051,9.32
+2026-06-01,College Undergraduate,College,Undergraduate,5155,575,11.15
+2026-06-01,Elementary Graduate,Elementary,Graduate,5253,705,13.42
+2026-06-01,Elementary Undergraduate,Elementary,Undergraduate,4281,628,14.67
+2026-06-01,Junior High Completed,Junior High,Completed,15103,1884,12.47
+2026-06-01,Junior High Undergraduate,Junior High,Undergraduate,4778,729,15.26
+2026-06-01,No grade completed,No grade,None,360,84,23.33
+2026-06-01,Post Secondary Graduate,Post-Secondary,Graduate,1959,213,10.87
+2026-06-01,Post Secondary Undergraduate,Post-Secondary,Undergraduate,43,19,44.19
+2026-06-01,Senior High Graduate,Senior High,Graduate,2033,194,9.54
+2026-06-01,Senior High Undergraduate,Senior High,Undergraduate,414,34,8.21

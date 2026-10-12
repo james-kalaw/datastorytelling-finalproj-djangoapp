@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard · The Shape of Work{% endblock %}
+
+{% block switcher %}{% include "dashboard/_switcher.html" %}{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">Power BI dashboard · all pages</p>
+    <h1>The whole dashboard on one screen</h1>
+    <p class="lead">Scroll through all four pages of the report. Each one is fully interactive: use the slicers, hover the cards for the story, or open a page to read its insights.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap stack" style="gap:56px">
+    {% for page in pages %}
+      <article class="stack" style="gap:14px">
+        <div class="row-between" style="align-items:flex-end">
+          <div class="stack" style="gap:4px">
+            <span class="eyebrow" style="font-size:12px">{{ page.act_label }}</span>
+            <h2 class="section-title" style="font-size:26px">{{ page.title }}</h2>
+            <span class="muted">{{ page.question }}</span>
+          </div>
+          <a class="link-strong" href="{% url 'dashboard:page' page.slug %}">Open with insights →</a>
+        </div>
+        {% include "dashboard/_embed.html" %}
+      </article>
+    {% endfor %}
+    <div class="row-between" style="border:1px solid #D5DEE8;border-radius:10px;padding:24px;background:#F7F9FB">
+      <span>Prefer the original report with Power BI's own page tabs?</span>
+      <a class="btn btn-line" href="{{ report_url }}" target="_blank" rel="noopener">Open full report in Power BI ↗</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

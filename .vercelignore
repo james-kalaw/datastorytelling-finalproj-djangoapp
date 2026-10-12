@@ -1,0 +1,3 @@
+# Not needed by the live site (keeps the deployment small)
+data/
+requirements-dev.txt

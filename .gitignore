@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Original copies (the site uses static/video/story.mp4 and static/img/logo.png)
+Shape of Work Video.mp4
+the shape of work logo.png
+
+# Local secrets
+.env
+
+# Vercel CLI
+.vercel/

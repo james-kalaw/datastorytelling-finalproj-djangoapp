@@ -1,0 +1,38 @@
+{% load static %}<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Admin{% endblock %} · The Shape of Work</title>
+  <link rel="icon" href="{% static 'img/logo.png' %}">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body class="panel-body">
+  <div class="admin-layout">
+    <aside class="side">
+      <a class="brand-row" href="{% url 'adminpanel:home' %}">
+        <img src="{% static 'img/logo.png' %}" alt="">
+        Shape of Work · Admin
+      </a>
+      <a href="{% url 'adminpanel:home' %}" class="{% if not key %}on{% endif %}">Overview</a>
+      {% for item in nav %}
+        <a href="{% url 'adminpanel:section' item.key %}" class="{% if item.on %}on{% endif %}">{{ item.title }}<span class="count">{{ item.count }}</span></a>
+      {% endfor %}
+      <div style="margin-top:auto;padding-top:16px;display:flex;flex-direction:column;gap:4px">
+        <a href="{% url 'core:home' %}" target="_blank" rel="noopener">View site ↗</a>
+        <form method="post" action="{% url 'adminpanel:logout' %}">
+          {% csrf_token %}
+          <button type="submit">Sign out ({{ request.user.username }})</button>
+        </form>
+      </div>
+    </aside>
+    <main class="admin-main">
+      {% if messages %}
+        <ul class="messages">{% for m in messages %}<li class="{{ m.tags }}">{{ m }}</li>{% endfor %}</ul>
+      {% endif %}
+      {% block panel %}{% endblock %}
+    </main>
+  </div>
+</body>
+</html>

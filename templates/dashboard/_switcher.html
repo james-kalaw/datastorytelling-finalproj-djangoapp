@@ -1,0 +1,12 @@
+<div class="switcher">
+  <div class="wrap">
+    <span class="switcher-label">POWER BI DASHBOARD</span>
+    <nav class="pills" aria-label="Dashboard pages">
+      <a class="pill {% if current == 'all' %}cur{% endif %}" href="{% url 'dashboard:overview' %}">All pages</a>
+      {% for p in nav_pages %}
+        <a class="pill {% if current == p.slug %}cur{% endif %}" href="{% url 'dashboard:page' p.slug %}">{{ p.title }}</a>
+      {% endfor %}
+      <a class="pill {% if current == 'recommendations' %}cur{% endif %}" href="{% url 'dashboard:recommendations' %}">Recommendations</a>
+    </nav>
+  </div>
+</div>

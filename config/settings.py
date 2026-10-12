@@ -7,20 +7,24 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Vercel sets VERCEL=1. The live site is read-only: content is edited locally
-# in the admin panel, then db.sqlite3 and media/ are committed and pushed.
+# Vercel sets VERCEL=1 and Render sets RENDER=true. The live site is read-only:
+# content is edited locally in the admin panel, then db.sqlite3 and media/ are
+# committed and pushed.
 IS_VERCEL = os.environ.get("VERCEL") == "1"
+IS_RENDER = os.environ.get("RENDER") == "true"
+IS_LIVE = IS_VERCEL or IS_RENDER
 
-if IS_VERCEL:
-    # Set DJANGO_SECRET_KEY in Vercel > Project > Settings > Environment Variables.
+if IS_LIVE:
+    # Set DJANGO_SECRET_KEY in the host's environment variables (render.yaml
+    # generates one on Render).
     SECRET_KEY = os.environ["DJANGO_SECRET_KEY"]
 else:
     # Local development only; the live site uses its own key.
     SECRET_KEY = "django-insecure-!r@%+r$o0a*j6=cd1d&#n%ws8x1gqf*8xt61ly73lld&+t+2-v"
 
-DEBUG = not IS_VERCEL
+DEBUG = not IS_LIVE
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", ".vercel.app"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", ".vercel.app", ".onrender.com"]
 
 
 # Applications
@@ -41,6 +45,8 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    # Serves the static files (CSS, charts, video) on Render
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -102,6 +108,13 @@ USE_TZ = True
 
 STATIC_URL = "static/"
 STATICFILES_DIRS = [BASE_DIR / "static"]
+STATIC_ROOT = BASE_DIR / "staticfiles"  # filled by collectstatic on Render
+
+if IS_RENDER:
+    STORAGES = {
+        "default": {"BACKEND": "django.core.files.storage.FileSystemStorage"},
+        "staticfiles": {"BACKEND": "whitenoise.storage.CompressedStaticFilesStorage"},
+    }
 
 MEDIA_URL = "media/"
 MEDIA_ROOT = BASE_DIR / "media"

@@ -17,3 +17,6 @@ the shape of work logo.png
 
 # Vercel CLI
 .vercel/
+
+# collectstatic output (built on Render)
+staticfiles/

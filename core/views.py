@@ -10,9 +10,6 @@ def home(request):
 
 def about(request):
     team = [
-        {"name": "Detera, Juliana Ysabel D.C.", "role": "Business Intelligence Developer"},
-        {"name": "Ituralde, Josh Andrei A.", "role": "Data Acquisition Specialist"},
-        {"name": "Kalaw, James Andre L.", "role": "Project Lead and Full-Stack Developer"},
-        {"name": "Valdestamon, Ramon Antonio Simon", "role": "Business Intelligence Developer"},
+        {"name": "Kalaw, James Andre L.", "role": "Data analysis, Power BI and the website"},
     ]
     return render(request, "core/about.html", {"team": team})

@@ -2,6 +2,8 @@
 
 **A data story website on the hidden half of the Philippine labor market: people who have a job but not enough work.**
 
+**Live site: [shapeofwork-dstfinalproject.onrender.com](https://shapeofwork-dstfinalproject.onrender.com/)** (free hosting: the first visit after a quiet spell can take up to a minute to wake up)
+
 Official unemployment figures make the Philippine labor market look steadily healthier, but they do not show whether people's jobs give them enough work. *The Shape of Work* analyzes 21 years of Philippine Statistics Authority (PSA) Labor Force Survey data (April 2005 to June 2026), models it in Power BI, and tells the result as a three-act data story on a Django website that embeds the Power BI report.
 
 Final project for **DS 009 Data Storytelling** at the Technological Institute of the Philippines (TIP), aligned with SDG 8 (Decent Work and Economic Growth), SDG 10 (Reduced Inequalities) and SDG 5 (Gender Equality).

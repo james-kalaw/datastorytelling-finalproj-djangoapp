@@ -305,7 +305,7 @@ On a live host the site needs `DJANGO_SECRET_KEY` set; locally it uses a develop
 
 Technological Institute of the Philippines. Professor: Dr. Rosmina Joy Cabauatan.
 
-**Built by James Andre L. Kalaw**, who was assigned the project and did all of it: the data preparation in Power Query, the Power BI model and its DAX measures, the report, the data pipeline and the Django website.
+**James Andre L. Kalaw**: data preparation in Power Query, the Power BI model, DAX measures and report, the data pipeline and the Django website.
 
 Course group and paper co-authors: Juliana Ysabel D.C. Detera, Josh Andrei A. Ituralde and Ramon Antonio Simon Valdestamon.
 

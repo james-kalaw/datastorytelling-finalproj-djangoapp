@@ -43,7 +43,7 @@ Final project for **DS 009 Data Storytelling** at the Technological Institute of
 
 ## In plain words
 
-The Philippines' unemployment rate looks low and keeps falling, but it does not count people who *have* a job and still need more hours or more work. They are called *underemployed*, and there are about 6.1 million of them. We took 21 years of government survey data, organized it in Power BI, and built a website that walks visitors through the story in three parts: how big the problem is, who it hits hardest, and why. The short answer: people in low-paying, seasonal work (especially farming and fishing) are most affected, and finishing school helps but does not fully protect you.
+The Philippines' unemployment rate looks low and keeps falling, but it does not count people who *have* a job and still need more hours or more work. They are called *underemployed*, and there are about 6.1 million of them. I took 21 years of government survey data, organized it in Power BI, and built a website that walks visitors through the story in three parts: how big the problem is, who it hits hardest, and why. The short answer: people in low-paying, seasonal work (especially farming and fishing) are most affected, and finishing school helps but does not fully protect you.
 
 ## Problem statement and research questions
 
@@ -305,12 +305,9 @@ On a live host the site needs `DJANGO_SECRET_KEY` set; locally it uses a develop
 
 Technological Institute of the Philippines. Professor: Dr. Rosmina Joy Cabauatan.
 
-| Member | Role |
-|---|---|
-| **James Andre L. Kalaw** | Project lead and full-stack developer (this Django website) |
-| Juliana Ysabel D.C. Detera | Business intelligence developer |
-| Josh Andrei A. Ituralde | Data acquisition specialist |
-| Ramon Antonio Simon Valdestamon | Business intelligence developer |
+**Built by James Andre L. Kalaw**, who was assigned the project and did all of it: the data preparation in Power Query, the Power BI model and its DAX measures, the report, the data pipeline and the Django website.
+
+Course group and paper co-authors: Juliana Ysabel D.C. Detera, Josh Andrei A. Ituralde and Ramon Antonio Simon Valdestamon.
 
 ## Glossary
 
